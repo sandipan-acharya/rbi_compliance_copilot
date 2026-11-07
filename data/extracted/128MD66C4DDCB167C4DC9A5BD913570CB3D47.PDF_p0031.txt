@@ -1,0 +1,46 @@
+Annex - I A 
+ List of Districts with comparatively high PSL credit 
+Sl.No State District name 
+86 Kerala Thiruvananthapuram 
+87 Kerala Thrissur 
+88 Kerala Wayanad 
+89 Ladakh Leh Ladakh 
+90 Madhya Pradesh Bhopal 
+91 Madhya Pradesh East Nimar 
+92 Madhya Pradesh Gwalior 
+93 Madhya Pradesh Harda 
+94 Madhya Pradesh Indore 
+95 Madhya Pradesh Jabalpur 
+96 Madhya Pradesh Narmadapuram 
+97 Madhya Pradesh Ratlam 
+98 Madhya Pradesh Ujjain 
+99 Maharashtra Chhatrapati Sambhajinagar 
+100 Maharashtra Kolhapur 
+101 Maharashtra Mumbai 
+102 Maharashtra Mumbai Suburban 
+103 Maharashtra Nagpur 
+104 Maharashtra Nasik 
+105 Maharashtra Pune 
+106 Maharashtra Raigad 
+107 Maharashtra Thane 
+108 NCT of Delhi Central Delhi 
+109 NCT of Delhi East Delhi 
+110 NCT of Delhi New Delhi 
+111 NCT of Delhi North Delhi 
+112 NCT of Delhi Shahdara 
+113 NCT of Delhi South Delhi 
+114 NCT of Delhi South-East Delhi 
+115 NCT of Delhi West Delhi 
+116 Odisha Khurda 
+117 Puducherry Karaikal 
+118 Puducherry Mahe 
+119 Puducherry Puducherry 
+120 Puducherry Yanam 
+121 Punjab Amritsar 
+122 Punjab Barnala 
+123 Punjab Bathinda 
+124 Punjab Faridkot 
+125 Punjab Fatehgarh Sahib 
+126 Punjab Fazilka 
+127 Punjab Jalandhar 
+128 Punjab Kapurthala

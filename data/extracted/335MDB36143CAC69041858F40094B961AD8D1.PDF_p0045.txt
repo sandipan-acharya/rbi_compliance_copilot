@@ -1,0 +1,35 @@
+45 
+ 
+ 
+AIFI shall expeditiously implement the same but not later than January 01, 
+2026. 
+42. In case of existing customers, the AIFI shall obtain the PAN or equivalent e-
+document thereof or Form No. 60, by such date which the Central Government 
+may notify, failing which the AIFI shall temporarily cease operations in the 
+account until the customer submits the PAN or equivalent e-documents thereof 
+or Form No. 60. 
+Provided that before temporarily ceasing operations for an account, the AIFI shall 
+give the customer an accessible notice and a reasonable opportunity to be heard. 
+Further, the AIFI shall include, in its internal policy, appropriate relaxation(s) for 
+continued operation of accounts for customers who are unable to provide PAN 
+or equivalent e- document thereof or Form No. 60 owing to injury, illness or 
+infirmity on account of old age or otherwise, and such like causes. However, the 
+AIFI shall subject such accounts to enhanced monitoring. 
+Provided further that if a customer having an existing account-based relationship 
+with a AIFI gives in writing to the AIFI that they do not want to submit their PAN 
+or equivalent e-document thereof or Form No. 60, the AIFI shall close the account 
+and all obligations due in relation to the account shall be appropriately settled 
+after establishing the identity of the customer by obtaining the identification 
+documents as applicable to the customer. 
+Explanation: For the purpose of this paragraph, ‘temporary ceasing of operations’ 
+in relation to an account shall mean the temporary suspension of all transactions 
+or activities in relation to that account by the AIFI till such time the customer 
+complies with the provisions of this paragraph. In case of asset accounts such 
+as loan accounts, for the purpose of ceasing the operation in the account, only 
+credits shall be allowed. 
+F. Enhanced and Simplified Due Diligence Procedure 
+F1. Enhanced Due Diligence 
+43. Enhanced Due Diligence (EDD) for non-face-to-face customer onboarding (other 
+than customer onboarding in terms of paragraph 25): Non -face-to-face 
+onboarding facilitates the AIFI to establish a relationship with the customer 
+without meeting the customer physically or through V-CIP. Such non-face-to-face

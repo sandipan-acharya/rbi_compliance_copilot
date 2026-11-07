@@ -1,0 +1,32 @@
+Annex - I A 
+ List of Districts with comparatively high PSL credit 
+Sl.No State District name 
+170 Tamil Nadu Thiruvallur 
+171 Tamil Nadu Thiruvarur 
+172 Tamil Nadu Tiruchirapalli 
+173 Tamil Nadu Tirunelvali 
+174 Tamil Nadu Tiruppur 
+175 Tamil Nadu Tiruvannamalai 
+176 Tamil Nadu Toothukudi 
+177 Tamil Nadu Virudhunagar 
+178 Telangana Hanumakonda 
+179 Telangana Hyderabad 
+180 Telangana Jangaon 
+181 Telangana Medchal-Malkajgiri 
+182 Telangana Rangareddi 
+183 Telangana Sangareddy 
+184 Telangana Suryapet 
+185 Uttar Pradesh Agra 
+186 Uttar Pradesh Gautam Buddha Nagar 
+187 Uttar Pradesh Ghaziabad 
+188 Uttar Pradesh Kanpur Nagar 
+189 Uttar Pradesh Lucknow 
+190 Uttar Pradesh Meerut 
+191 Uttarakhand Dehra Dun 
+192 Uttarakhand Haridwar 
+193 Uttarakhand Nainital 
+194 Uttarakhand Udham Singh Nagar 
+195 West Bengal Alipurduar 
+196 West Bengal Darjiling 
+197 West Bengal Kalimpong 
+198 West Bengal Kolkata

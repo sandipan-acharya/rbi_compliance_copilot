@@ -1,0 +1,34 @@
+65 
+ 
+ 
+when a credit or debit card or PPI is used as a payment system to 
+effect a person-to-person wire transfer, the wire transfer 
+instructions shall apply to such transactions and the necessary 
+information should be included in the message. 
+(b) Financial institution -to-financial institution transfers and 
+settlements, where both the originator person and the beneficiary 
+person are regulated financial institutions acting on their own 
+behalf. 
+It is, however, clarified that nothing within these instructions will impact 
+the obligation of the AIFI to comply with applicable reporting 
+requirements under PML Act, 2002, and the Rules made thereunder, or 
+any other statutory requirement in force. 
+(2) Responsibilities of ordering AIFI, intermediary AIFI and beneficiary AIFI, effecting 
+wire transfer, are as under: 
+(i) Ordering AIFI: 
+(a) The ordering AIFI shall ensure that all cross -border and qualifying 
+domestic wire transfers {viz., transactions as per clauses (iii) and (iv) 
+of clause (1) above}, contain required and accurate originator 
+information and required beneficiary information, as indicated above. 
+(b) Customer Identification shall be made if a customer, who is not an 
+account holder of the ordering AIFI , is intentionally structuring 
+domestic wire transfers below ₹ 50,000 to avoid reporting or 
+monitoring. In case of non-cooperation from the customer, efforts shall 
+be made to establish identity and if the same transaction is found to 
+be suspicious, STR may be filed with FIU-IND in accordance with the 
+PML Rules. 
+(c) Ordering AIFI shall not execute the wire transfer if it is not able to 
+comply with the requirements stipulated in this paragraph. 
+(ii) Intermediary AIFI: 
+(a) The AIFI processing an intermediary element of a chain of wire 
+transfers shall ensure that all originator and beneficiary information

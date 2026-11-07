@@ -1,0 +1,34 @@
+31 
+ 
+ 
+further debits. 
+(8) The AIFI shall obtain declaration from the customer to the effect that no other 
+account has been opened nor will be opened using OTP based KYC in non-
+face-to-face mode with any other RE. Further, while upl oading KYC 
+information to CKYCR, AIFI  shall clearly indicate that such accounts are 
+opened using OTP based e- KYC and other REs shall not open accounts 
+based on the KYC information of accounts opened with OTP based e- KYC 
+procedure in non-face- to-face mode. 
+(9) The AIFI shall have strict monitoring procedures including systems to 
+generate alerts in case of any non- compliance / violation, to ensure 
+compliance with the above-mentioned conditions. 
+26. The AIFI may undertake V-CIP to carry out: 
+(1) CDD in case of new customer onboarding for individual customers, 
+proprietor in case of proprietorship firm, authorised signatories and 
+Beneficial Owners (BOs) in case of Legal Entity (LE) customers. 
+Provided that in case of CDD of a proprietorship firm, the AIFI  shall also 
+obtain the equivalent e-document of the activity proofs with respect to the 
+proprietorship firm, as mentioned in paragraph 30 and paragraph 31, apart 
+from undertaking CDD of the proprietor. 
+(2) Conversion of existing accounts opened in non- face-to-face mode using 
+Aadhaar OTP based e-KYC authentication as per paragraph 25. 
+(3) Updation / Periodic updation of KYC for eligible customers. 
+27. The AIFI opting to undertake V -CIP, shall adhere to the following minimum 
+standards: 
+(1) V-CIP Infrastructure 
+(i) The AIFI shall have complied with the RBI guidelines on minimum 
+baseline cyber security and resilience framework for AIFIs, as updated 
+from time to time as we ll as other general guidelines on IT risks. The 
+AIFI shall house the technology infrastructure on its own premises and 
+the V-CIP connection and interaction shall necessarily originate from its 
+own secured network domain. Any technology related outsourcing for

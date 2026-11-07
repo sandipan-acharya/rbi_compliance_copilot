@@ -1,0 +1,62 @@
+51 
+ 
+(1) Accounts of FPIs which are eligible / registered as per SEBI guidelines, for 
+the purpose of investment under Portfolio Investment Scheme (PIS), shall 
+be opened by accepting KYC documents as detailed in (2) below, subject 
+to Income Tax (FATCA / CRS) Rules. 
+Provided that the bank shall obtain an undertaking from FPIs or the Global 
+Custodian acting on behalf of the FPI that as and when required, the 
+exempted documents as detailed in (2) below will be submitted. 
+ 
+(2) KYC documents for eligible FPIs under PIS: 
+ FPI Type 
+Document Type Category I Category II Category III 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Entity Level 
+Constitutive 
+Documents 
+(Memorandu
+m and Articles 
+of Association, 
+Certificate of 
+Incorporation 
+etc.) 
+Mandatory Mandatory Mandatory 
+Proof of 
+Address 
+Mandatory 
+(Power of 
+Attorney {PoA} 
+mentioning the 
+address is 
+acceptable as 
+address proof) 
+Mandatory 
+(Power of 
+Attorney 
+mentioning 
+the address is 
+acceptable as 
+address proof) 
+Mandatory 
+other than 
+Power of 
+Attorney 
+PAN  Mandatory Mandatory Mandatory 
+Financial Data Exempted * Exempted * Mandatory 
+SEBI 
+Registration 
+Certificate 
+Mandatory Mandatory Mandatory

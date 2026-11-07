@@ -1,0 +1,13 @@
+determines, in accordance with the protocols of the payment and settlement system or 
+messaging system used for the wire transfer. 
+(n) Wire transfer: Wire transfer refers to any transaction carried out on behalf of an 
+originator through a financial institution by electronic means with a view to making an 
+amount of funds available to a beneficiary at a beneficiary financial institution, 
+irrespective of whether the originator and the beneficiary are the same person. 
+(3) Unless defined herein, all other expressions shall have the same meaning as has 
+been assigned to them under the Banking Regulation Act, 1949, the Reserve Bank of 
+India Act, 1935, the Prevention of Money Laundering Act, 2002, the Prevention of 
+Money Laundering (Maintenance of Records) Rules, 2005, the Aadhaar (Targeted 
+Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016 and 
+regulations made thereunder, any statutory modification or re-enactment thereto or as 
+used in commercial parlance, as the case may be.

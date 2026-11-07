@@ -1,0 +1,33 @@
+76 
+ 
+  The bank is prohibited from conducting transactions with designated persons 
+and entities and accordingly, in addition to compliance with Chapter IX of 
+the Directions, the bank shall ensure that they do not process cross-border 
+transactions of designated persons and entities. 
+(iii) The bank’s  responsibility to fulfil record management requir ements: 
+Complete originator and beneficiary information relating to wire transfers 
+shall be preserved by the bank involved in the wire transfer, in accordance 
+with paragraph 51 of these Directions. 
+76. Issue and Payment of Demand Drafts, etc.: 
+(1) Any remittance of funds by way of demand draft, mail / telegraphic transfer / NEFT 
+/ IMPS or any other mode and issue of travellers’ cheques for value of ₹50,000 
+and above shall be effected by debit to the customer’s account or against 
+cheques and not against cash payment. 
+(2) Further, the bank shall incorporate the name of the purchaser on the face of the 
+demand draft, pay order, banker’s cheque, etc., by the issuing bank. These 
+instructions shall take effect for such instruments issued on or after 
+September 15, 2018. 
+77. Quoting of PAN: PAN or equivalent e- document thereof of customers shall be 
+obtained and verified while undertaki ng transactions as per the provisions of 
+Income Tax Rule 114B applicable to banks, as amended from time to time, which 
+includes opening of accounts with banks, etc. Form 60 shall be obtained from 
+persons who do not have PAN or equivalent e-document thereof.  
+78. Selling Third party products: The bank acting as agent while selling third party 
+products as per regulations in force from time to time shall comply with the 
+following aspects for the purpose of these directions: 
+ (1)  the identity and address of the walk -in customer shall be verified for 
+transactions above ₹50,000 as required under clause (5) of paragraph 21 
+of these Directions. 
+ (2)  transaction details of sale of third-party products and related records shall 
+be maintained as prescribed in paragraph 51 of Chapter VII. 
+ (3)  AML software capable of capturing, generating and analysing alerts for

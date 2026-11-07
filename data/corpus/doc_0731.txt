@@ -1,0 +1,33 @@
+72 
+whenever there is involvement of any unregulated entities in the 
+process of wire transfers, the concerned bank shall be fully 
+responsible for information, reporting and other requirements and 
+therefore shall ensure, inter alia, that: 
+(a) there is unhindered flow of complete wire transfer information, 
+as mandated under these directions, from and through the 
+unregulated entities involved; 
+(b) the agreement / arrangement, if any, with such unregulated 
+entities by the bank clearly stipulates the obligations under wire 
+transfer instructions; and 
+(c) a termination clause is available in their agreement / 
+arrangement, if any, with such entities so that in case the 
+unregulated entities are unable to support the wire information 
+requirements, the agreement / arrangement can be terminated. 
+Existing agreements / arrangements, if any, with such entities 
+shall be reviewed within three months to ensure aforementioned 
+requirements. 
+(ii) The bank’s responsibility while undertaking cross-border wire transfer 
+with respect to name screening (such that they do not process cross-
+border transactions of designated persons and entities). 
+The bank is prohibited from con ducting transactions with designated 
+persons and entities and accordingly, in addition to compliance with 
+Chapter IX of the Directions, the bank shall ensure that they do not 
+process cross-border transactions of designated persons and entities. 
+(iii) The bank’s responsibility to fulfil record management requirements: 
+Complete originator and beneficiary information relating to wire 
+transfers shall be preserved by the bank involved in the wire transfer, 
+in accordance with paragraph 49 of these Directions. 
+75. Issue and Payment of Demand Drafts, etc.: 
+(1) Any remittance of funds by way of demand draft, mail / telegraphic transfer 
+/ NEFT / IMPS or any other mode and issue of travellers’ cheques for value 
+of ₹50,000 and above shall be effected by debit to the customer’s account

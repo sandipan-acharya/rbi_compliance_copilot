@@ -1,0 +1,34 @@
+75. Quoting of PAN: PAN or equivalent e- document thereof of customers shall 
+be obtained and verified while undertaking transactions as per the provisions 
+of Income Tax Rule 114B applicable to banks, as amended from time to time, 
+which includes opening of accounts with banks. Form 60 shall be obtained 
+from persons who do not have PAN or equivalent e-document thereof. 
+ 
+76. Selling Third party products : The bank acting as agent while selling third 
+party products as per regulations in force from time to time shall comply with 
+the following aspects for the purpose of these directions: 
+(1) the identity and address of the walk -in customer shall be verified for 
+transactions above ₹50,000 as required under clause (5) of paragraph 20 
+of these Directions. 
+(2) transaction details of sale of third-party products and related records shall 
+be maintained as prescribed in paragraph 49 of Chapter VII. 
+(3) AML software capable of capturing, generating and analysing alerts for the 
+purpose of filing CTR / STR in respect of transactions relating to third party 
+products with customers including walk-in customers shall be available. 
+(4) transactions involving ₹50,000 and above shall be undertaken only by: 
+(i) debit to customers’ account or against cheques; and 
+(ii) obtaining and verifying the PAN given by the account based as well as 
+walk-in customers. 
+(5) Instruction at (4) above shall also apply to sale of the bank’s own products, 
+payment of dues of credit cards / sale and reloading of prepaid / travel 
+cards and any other product for ₹50,000 and above. 
+ 
+77. At-par cheque facility availed by co-operative banks 
+(1) The ‘at par’ cheque facility offered by commercial banks to co- operative 
+banks shall be monitored and such arrangements be reviewed to assess 
+the risks including credit risk and reputational risk arising therefrom. 
+(2) The right to verify the records maintained by the customer cooperative 
+banks / societies for compliance with the extant instructions on KYC and 
+AML under such arrangements shall be retained by bank. 
+(3) Bank shall: 
+(i) ensure that the ‘at par’ cheque facility is utilised only:

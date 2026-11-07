@@ -1,0 +1,35 @@
+42 
+ 
+ 
+with the AIFI, customer’s mobile number registered with the AIFI, 
+ATMs, digital channels (mobile application of AIFI ), letter, etc., and 
+shall verify the declared address through positive confirmation within 
+two months, by means such as address verification letter, contact 
+point verification, deliverables, etc. 
+(iii) Accounts of customers, who were minor at the time of opening 
+account, on their becoming major:  
+In case of customers for whom account was opened when they were 
+minor, fresh photographs shall be obtained on their becoming a major 
+and at that time it shall be ensured that CDD documents as per the 
+current CDD standards are available with the REs. Wherever 
+required, REs may carry out fresh KYC of such customers i.e., 
+customers for whom account was opened when they were minor, on 
+their becoming a major. 
+(iv) Further, the AIFI at its option, may obtain a copy of OVD or deemed 
+OVD, as defined in sub-clause (xiv) of clause (1) of paragraph, or the 
+equivalent e-documents thereof, as defined in sub-clause (x) of clause 
+(1) of paragraph 5, for the purpose of proof of address, declared by 
+the customer at the time of updation / periodic updation. However, the 
+AIFI shall clearly specify such requirement, in its internal KYC policy 
+duly approved by the Board of Directors of the AIFI or any committee 
+of the Board to which power has been delegated. 
+(v) The AIFI may use Aadhaar OTP based e- KYC in non- face-to-face 
+mode for   updation / periodic updation.  To clarify, conditions 
+stipulated in paragraph 25 are not applicable in case of updation / 
+periodic updation of KYC through Aadhaar OTP based e-KYC in non-
+face to face mode.  
+(vi) Declaration of current address, if the current address is different from 
+the address in Aadhaar, shall not require positive confirmation in this 
+case. The AIFI  shall ensure that the mobile number for Aadhaar 
+authentication is same as the one available with them in the 
+customer’s profile, in order to prevent any fraud.

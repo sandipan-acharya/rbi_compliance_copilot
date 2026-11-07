@@ -1,0 +1,35 @@
+(6) The correspondent bank shall ensure that the respondent bank is able to 
+provide the relevant CDD information immediately on request. 
+(7) The bank shall not enter into or continue a correspondent relationship with 
+a shell bank. 
+(8) The bank shall ensure that the respondent banks do not permit their 
+accounts to be used by shell banks. 
+(9) The bank shall be cautious of correspondent banking relationships with 
+institutions located in jurisdictions which have strategic deficiencies or 
+have not made sufficient progress in implementation of FATF 
+Recommendations. 
+(10) The bank shall ensure that respondent banks have KYC / AML policies 
+and procedures in place and apply enhanced 'due diligence' procedures 
+for transactions carried out through the correspondent accounts. 
+ 
+ 
+ 
+ 
+ 
+73. Wire Transfer 
+(1) Information requirements for wire transfers for the purpose of this 
+Direction: 
+(i) All cross -border wire transfers shall be accompanied by accurate, 
+complete, and meaningful originator and beneficiary information as 
+mentioned below: 
+(a) name of the originator; 
+(b) the originator account number where such an account is used 
+to process the transaction; 
+(c) the originator’s address, or national identity number, or 
+customer identification number, or date and place of birth; 
+(d) name of the beneficiary; and 
+(e) the beneficiary account number where such an account is 
+used to process the transaction. 
+In the absence of an account, a unique transaction reference 
+number should be included which permits traceability of the 
+transaction.

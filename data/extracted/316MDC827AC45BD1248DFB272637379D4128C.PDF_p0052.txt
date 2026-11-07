@@ -1,0 +1,52 @@
+Entity Level 
+Proof of Address Mandatory 
+(Power of 
+Attorney {PoA} 
+mentioning the 
+address is 
+acceptable as 
+address proof) 
+Mandatory 
+(Power of 
+Attorney 
+mentioning 
+the address is 
+acceptable as 
+address proof) 
+Mandatory 
+other than 
+Power of 
+Attorney 
+PAN Mandatory Mandatory Mandatory 
+Financial Data Exempted * Exempted * Mandatory 
+SEBI 
+Registration 
+Certificate 
+Mandatory Mandatory Mandatory 
+Board Resolution 
+@@ 
+Exempted * Mandatory Mandatory 
+ 
+ 
+Senior 
+Manageme
+nt 
+(Whole 
+Time 
+Directors/ 
+Partners/ 
+Trustees/ 
+etc.) 
+List Mandatory Mandatory Mandatory 
+Proof of Identity Exempted * Exempted * Entity 
+declares* 
+on letter 
+head full 
+name, 
+nationality, 
+date of 
+birth or 
+submits 
+photo 
+identity 
+proof

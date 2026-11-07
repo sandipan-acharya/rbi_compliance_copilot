@@ -1,0 +1,33 @@
+69 
+ 
+STR was not filed by the concerned bank, it shall then be deemed that the bank 
+has not complied with these directions. 
+70. Collection of Account Payee Cheques : The bank shall not collect account 
+payee cheques for any person other than the payee constituent. The bank shall, 
+at its option, collect account payee cheques drawn for an amount not exceeding 
+₹50,000 to the account of its  customers who are co- operative credit societies, 
+provided the payees of such cheques are the constituents of such co- operative 
+credit societies. 
+71. The bank shall allot Unique Customer Identification Code (UCIC) while entering 
+into new relationships with individual customers as also the existing individual 
+customers. 
+72. The bank shall, at their option, not issue UCIC to all walk -in / occasional 
+customers provided it is ensured that there is adequate mechanism to identify 
+such walk-in customers who have frequent transactions with them and ensure 
+that they are allotted UCIC. 
+73. Introduction of New Technologies: The bank shall identify and assess the ML 
+/ TF risks that may arise in relation to the development of new products and new 
+business practices, including new delivery mechanisms, and the use of new or 
+developing technologies for both new and existing products. 
+ Further, the bank shall ensure: 
+(1) to undertake the ML / TF risk assessments prior to the launch or use of 
+such products, practices, services, technologies; and 
+(2) adoption of a risk-based approach to manage and mitigate the risks through 
+appropriate EDD measures and transaction monitoring, etc. 
+74. Correspondent Banking: The bank shall have a policy approved by its Boards, 
+or by a committee headed by the Chairman / CEO / MD, to lay down parameters 
+for approving cross -border correspondent banking and other similar 
+relationships. In addition to performing normal CDD measures, such 
+relationships shall be subject to the following conditions: 
+(1) The bank shall gather sufficient information about a respondent bank to 
+understand fully the nature of the respondent bank’s business and to

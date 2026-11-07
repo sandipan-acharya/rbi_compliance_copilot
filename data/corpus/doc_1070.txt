@@ -1,0 +1,29 @@
+66 
+ 
+Rule 114B applicable to NBFCs, as amended from time to time. Form 60 shall be obtained 
+from persons who do not have PAN or equivalent e-document thereof.  
+71. Selling Third party products: The NBFC acting as agent while selling third party 
+products as per regulations in force from time to time shall comply with the following 
+aspects for the purpose of these directions: 
+(1) the identity and address of the walk -in customer shall be verified for 
+transactions  above ₹50,000 as required under clause (5) of paragraph 21 of these 
+Directions. 
+(2) transaction details of sale of third- party products and related records shall be 
+maintained as prescribed in paragraph 47 of Chapter VII. 
+(3) AML softw are capable of capturing, generating and analysing alerts for the 
+purpose of filing CTR / STR in respect of transactions relating to third party products 
+with customers including walk-in customers shall be available. 
+(4) transactions involving ₹50,000 and above shall be undertaken only by: 
+(i) debit to customers’ account or against cheques; and 
+(ii) obtaining and verifying the PAN given by the account-based as well as walk-in 
+customers. 
+(5) Instruction at (4) above shall also apply to sale of the NBFC’s own products, 
+payment of dues of credit cards / sale and reloading of prepaid / travel cards and  any 
+other product for ₹50,000 and above. 
+72. Hiring of Employees and Employee training: 
+(1) The NBFC shall put in place an adequate screening mechanism, including 
+Know  Your Employee / Staff policy, as an integral part of its personnel recruitment / 
+hiring process. 
+(2) The NBFC shall endeavour to ensure that the staff dealing with / being deployed 
+for KYC / AML / CFT matters have high integrity and ethical standards, good 
+understanding of extant KYC  / AML / CFT standards, effective communication skills

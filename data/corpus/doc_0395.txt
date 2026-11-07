@@ -1,0 +1,34 @@
+44 
+ 
+under clause (5) of paragraph 41 of the Direction. It is, however, 
+reiterated that the concerned bank retains the ultimate responsibility 
+for periodic updation of KYC. 
+(v) Accounts of customers, who were minor at the time of opening 
+account, on their becoming major: In case of customers for whom the 
+bank opened an account when they were minors, the bank shall obtain 
+fresh photographs upon their becoming a major and, at that time, shall 
+ensure that CDD documents as per the current CDD standards are 
+available. Wherever required, the bank may carry out fresh KYC of 
+such customers, i.e., customers for whom it opened account when they 
+were minor, upon their becoming a major. 
+(vi) The bank may use Aadhaar OTP based e- KYC in non- face-to-face 
+mode for   updation / periodic updation.  To clarify, conditions   
+stipulated  in paragraph 24 are not applicable in case of updation / 
+periodic updation of KYC through Aadhaar OTP based e- KYC in non-
+face to face mode.  
+(vii) Declaration of current address, if  the current address is different from 
+the address in Aadhaar, shall not require positive confirmation in this 
+case. The bank shall ensure that the mobile number for Aadhaar 
+authentication is same as the one available with them in the customer’s 
+profile, in order to prevent any fraud. 
+ 
+(4) Customers other than individuals: 
+(i) No change in KYC information: In case of no change in the KYC 
+information of the LE customer, the bank shall obtain a self-declaration 
+in this regard from the LE customer through its email id registered with 
+the bank, ATMs, digital channels (such as online banking / internet 
+banking, mobile application of bank), letter from an official authorised 
+by the LE in this regard, board resolution, etc. Further, the bank shall 
+ensure during this process that Beneficial Ownership (BO) information 
+available with them is accurate and shall update the same, if required, 
+to keep it as up-to-date as possible.

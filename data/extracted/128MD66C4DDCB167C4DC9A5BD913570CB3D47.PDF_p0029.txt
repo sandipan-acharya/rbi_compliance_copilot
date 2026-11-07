@@ -1,0 +1,45 @@
+Annex - I A 
+ List of Districts with comparatively high PSL credit 
+Sl.No State District name 
+1 Andaman & Nicobar Islands South Andaman 
+2 Andhra Pradesh Bapatla 
+3 Andhra Pradesh Dr. B.R. Ambedkar Konaseema 
+4 Andhra Pradesh East Godavari 
+5 Andhra Pradesh Eluru 
+6 Andhra Pradesh Guntur 
+7 Andhra Pradesh Kakinada 
+8 Andhra Pradesh Krishna 
+9 Andhra Pradesh NTR 
+10 Andhra Pradesh Palnadu 
+11 Andhra Pradesh Prakasam 
+12 Andhra Pradesh Sri Potti Sriramulu Nellore 
+13 Andhra Pradesh Tirupati 
+14 Andhra Pradesh Visakhapatnam 
+15 Andhra Pradesh West Godavari 
+16 Andhra Pradesh Y.S.R. 
+17 Arunachal Pradesh Papumpare 
+18 Assam Kamrup Metropolitan 
+19 Bihar Patna 
+20 Chandigarh Chandigarh 
+21 Chhattisgarh Bilaspur 
+22 Chhattisgarh Raipur 
+23 Dadra and Nagar Haveli and Daman and Diu Dadra & Nagar Haveli 
+24 Dadra and Nagar Haveli and Daman and Diu Daman 
+25 Goa North Goa 
+26 Goa South Goa 
+27 Gujarat Ahmedabad 
+28 Gujarat Bharuch 
+29 Gujarat Gandhinagar 
+30 Gujarat Jamnagar 
+31 Gujarat Kachchh 
+32 Gujarat Mahesana 
+33 Gujarat Morbi 
+34 Gujarat Porbandar 
+35 Gujarat Rajkot 
+36 Gujarat Surat 
+37 Gujarat Vadodara 
+38 Gujarat Valsad 
+39 Haryana Ambala 
+40 Haryana Faridabad 
+41 Haryana Fatehabad 
+42 Haryana Gurugram

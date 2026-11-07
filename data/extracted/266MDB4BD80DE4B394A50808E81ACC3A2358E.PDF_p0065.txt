@@ -1,0 +1,34 @@
+electronically all the reporting entities who have dealt with the concerned 
+customer regarding updation of KYC record of the said customer. Once 
+CKYCR informs the bank regarding an update in the KYC record of an 
+existing customer, the bank shall retrieve the updated KYC records from 
+CKYCR and update the KYC record maintained by the bank. 
+(9) The bank shall ensure that during periodic updation, the custo mers are 
+migrated to the current CDD standard. 
+(10) For the purpose of establishing an account-based relationship, updation / 
+periodic updation or for verification of identity of a customer, the bank shall 
+seek the KYC Identifier from the customer or retrieve the KYC Identifier, if 
+available, from the CKYCR and proceed to obtain KYC records online by 
+using such KYC Identifier and shall not require a customer to submit the 
+same KYC records or information or any other additional identification 
+documents or details, unless– 
+(i) there is a change in the information of the customer as existing in the 
+records of CKYCR; or 
+(ii) the KYC record or information retrieved is incomplete or is not as per 
+the current applicable KYC norms; or 
+(iii) the validity period of downloaded documents has lapsed; or 
+(iv) the bank considers it necessary in order to verify the identity or 
+address (including current address) of the customer, or to perform 
+enhanced due diligence or to build an appropriate risk profile of the 
+customer. 
+[2Explanation: The RE that has last uploaded or updated the customer’s 
+KYC records in the CKYCR shall be responsible for verifying the identity 
+and / or address of the customer , as applicable. Accordingly, any bank 
+downloading and relying on such records from the CKCYR shall not be 
+required to re- verify the authenticity of the customer’s identity and / or 
+address, provided the KYC records downloaded from CKYCR are current 
+and compliant with the PML Act, 2002 / PML R ules, 2005. The bank 
+downloading and relying on KYC records downloaded from the CKCYR 
+ 
+2 Inserted with effect from December 29, 2025 vide Reserve Bank of India (Regional Rural Banks – Know Your 
+Customer) Amendment Directions, 2025 dated December 29, 2025

@@ -1,0 +1,7 @@
+52 
+ 
+ 
+activities which appear unusual, if the AIFI has done any such analysis. 
+52. To identify and report suspicious transactions  effectively, the AIFI  shall 
+implement robust software that generates alerts when transactions are 
+inconsistent with a customer's risk categorisation and updated profile.

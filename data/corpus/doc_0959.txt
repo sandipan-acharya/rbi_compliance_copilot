@@ -1,0 +1,33 @@
+34 
+ 
+standards are available with the ARC. Wherever required, the ARC may carry out fresh 
+KYC of such customers , i.e., customers for whom it acquired account was opened 
+when they were minor, upon their becoming a major. 
+(v) The ARC may use Aadhaar OTP based e- KYC in non -face-to-face mode for   
+updation / periodic updation.  To clarify,  conditions  stipulated  in paragraph 2 4 are 
+not applicable in case of updation / periodic updation of KYC through Aadhaar OTP 
+based e-KYC in non-face to face mode.  
+(vi) Declaration of current address, if the current address is different from the address 
+in Aadhaar, shall not require positive confirmation in this case. The ARC shall ensure 
+that the mobile number for Aadhaar authentication is same as the one available with 
+them in the customer’s profile, in order to prevent any fraud. 
+(4) Customers other than individuals: 
+(i) No change in KYC information: In case of no change in the KYC information of the 
+LE customer, the ARC shall obtain a self -declaration in this regard from the LE 
+customer through its email id registered with the ARC, , letter from an official 
+authorised by the LE in this regard, board resolution, etc. Further, the ARC shall 
+ensure during this process that Beneficial Ownership (BO) information available with 
+them is accurate and shall update the same, if required, to keep it as up- to-date as 
+possible. 
+(ii) Change in KYC information: In case of change in KYC information, the ARC shall 
+undertake the KYC process equivalent to that applicable for onboarding a new LE 
+customer. 
+(5) Additional measures: In addition to the above, the ARC shall ensure that: 
+(i) The ARC has customer’s KYC document  as per the current CDD standards 
+available with it. This is applicable even if there is no change in customer information 
+but the documents available with the ARC are not as per the current CDD standards. 
+Further, in case the validity of the CDD documents available with the ARC has expired 
+at the time of periodic updation of KYC, the ARC shall undertake the KYC process 
+equivalent to that applicable for onboarding a new customer. 
+(ii) The ARC verifies the Customer’s PAN details, if available, from the database of the 
+issuing authority at the time of periodic updation of KYC.

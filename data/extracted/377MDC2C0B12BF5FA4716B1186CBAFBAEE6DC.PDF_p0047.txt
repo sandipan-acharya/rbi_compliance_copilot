@@ -1,0 +1,29 @@
+Chapter X – Other Instructions 
+58. Secrecy Obligations and Sharing of Information: 
+(1) The ARC shall maintain secrecy regarding the customer information that arises out 
+of the contractual relationship between the ARC and the customer. 
+(2) The ARC shall treat i nformation collected from customers for the purpose of 
+opening of account as and shall not divulge details thereof for the purpose 
+of cross -selling, or for any other purpose without the express permission of the 
+customer. 
+(3) While considering the requests for data / information from Government and other 
+agencies, the ARC shall satisfy itself that the information being sought is not of such 
+a nature as will violate the provisions of the laws relating to secrecy in the transactions. 
+(4) The exceptions to the said rule shall be as under: 
+(i) Where disclosure is under compulsion of law, 
+(ii) Where there is a duty to the public to disclose, 
+(iii) Where the interest of the ARC requires disclosure, and 
+(iv) Where the disclosure is made with the express or implied consent of the customer. 
+59. CDD Procedure and sharing KYC information with Central KYC Records 
+Registry (CKYCR) 
+(1) Government of India has authorised the Central Registry of Securitisation Asset 
+Reconstruction and Security Interest of India (CERSAI), to act as, and to perform the 
+functions of the CKYCR vide Gazette Notification No. S.O. 3183(E) dated November 
+26, 2015. 
+(2) In terms of provision of Rule 9(1A) of the PML Rules, the ARC shall capture 
+customer’s KYC records and upload onto CKYCR within 10 days of commencement 
+of an account-based relationship with the customer. 
+(3) Operational Guidelines for uploading the KYC data have been released by 
+CERSAI. 
+(4) The ARC shall capture the KYC information for sharing with the CKYCR in the 
+manner mentioned in the Rules, as per the KYC templates prepared for ‘Individuals’

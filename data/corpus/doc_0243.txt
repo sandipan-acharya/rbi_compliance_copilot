@@ -1,0 +1,33 @@
+30 
+ 
+Rupees One Lakh. In case the balance exceeds the threshold, the bank shall cease 
+the account’s operation, until it completes the CDD as mentioned at (6) below. 
+(4) The aggregate of all credits in a financial year, in all the deposit accounts taken 
+together, shall not exceed Rupees Two Lakh. 
+(5) As regards borrowal accounts, the bank shall sanction only term loans . The 
+aggregate amount of term loans sanctioned shall not exceed ₹60,000 in a year. 
+(6) The bank shall not allow accounts, both deposit and borrowal, opened using OTP 
+based e-KYC to operate for more than one year unless it carries out identification as 
+per paragraph 23 or as per paragraphs 26 and 27 (V-CIP). If the bank uses Aadhaar 
+details under paragraphs 26 and 27, it shall follow the process in its entirety, including 
+fresh Aadhaar OTP authentication. 
+(7) If the bank does not complete the CDD procedure as mentioned above within a 
+year; (a) in respect of deposit accounts, the bank shall close the same immediately , 
+and (b) in respect of borrowal accounts, the bank shall allow no further debits. 
+(8) The bank shall obtain  declaration from the customer to the effect that no other 
+account has been opened nor will be opened using OTP based KYC in non- face-to-
+face mode with any other RE. Further, while uploading KYC information to CKYCR, 
+bank shall clearly indicate that such accounts are opened using OTP based e- KYC 
+and other REs shall not open accounts based on the KYC information of accounts 
+opened with OTP based e-KYC procedure in non-face- to-face mode. 
+(9) The bank shall have strict monitoring procedures including systems to generate 
+alerts in case of any non-compliance / violation, to ensure compliance with the above-
+mentioned conditions. 
+26.  The bank may undertake V-CIP to carry out: 
+(1) CDD in case of new customer onboarding for individual customers, proprietor in 
+case of proprietorship firm, authorised signatories and Beneficial Owners (BOs) in case 
+of Legal Entity (LE) customers. 
+Provided that in case of CDD of a proprietorship firm, the bank  shall also obtain the 
+equivalent e-document of the activity proofs with respect to the proprietorship firm, as 
+mentioned in paragraph 31 and paragraph 32, apart from undertaking CDD of the 
+proprietor.

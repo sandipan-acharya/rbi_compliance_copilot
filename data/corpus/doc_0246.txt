@@ -1,0 +1,32 @@
+33 
+ 
+indicating the liveness of the interaction, during video interactions to establish that the 
+interactions are real-time and not pre-recorded. 
+(iv) The bank shall reject the account opening process if it observ es any prompting at 
+the customer end. 
+(v) The bank shall factor in the fact that the V -CIP customer is  an existing or new 
+customer, or if the case relates to one rejected earlier or if the name appears in some 
+negative list, at an appropriate stage of workflow. 
+(vi) The authorised official of the bank performing the V -CIP shall record audio and 
+video as well as capture a photograph of the customer present for identification and 
+obtain the identification information using any one of the following: 
+(a) OTP based Aadhaar e-KYC authentication. 
+(b) Offline Verification of Aadhaar for identification. 
+(c) KYC records downloaded from CKYCR, in accordance with paragraph 65, using 
+the KYC identifier provided by the customer. 
+(d) Equivalent e-document of Officially Valid Documents (OVDs) including documents 
+issued through DigiLocker. 
+(vii) The bank  shall ensure to redact or blackout the Aadhaar number in terms of 
+paragraph 23. 
+(viii) In case of offline verification of Aadhaar using XML file or Aadhaar Secure QR  
+Code, the bank shall ensure that the XML file or QR code generation date is not older 
+than three working days from the date of carrying out V-CIP. 
+(ix) Further, in line with the prescribed period of three working days for usage of 
+Aadhaar XML file / Aadhaar QR code, the bank shall ensure that it undertakes video 
+process of the V -CIP within three working days of downloading / obtaining the 
+identification information through CKYCR / Aadhaar authentication / equivalent e-
+document, if in the rare cases, the entire process cannot be completed at one go or 
+seamlessly. However, the bank shall ensure that no incremental risk is added due to 
+this. 
+(x) If the address of the customer is different from that indicated in the OVD, the bank 
+shall capture suitable records of the current address, as per the ex isting requirement.

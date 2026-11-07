@@ -1,0 +1,33 @@
+20 
+ 
+Chapter III – Customer Acceptance Policy 
+15. The bank shall frame a Customer Acceptance Policy. 
+16. Without prejudice to the generality of the aspect that Customer Acceptance 
+Policy may contain, the bank shall: 
+(1) not open any account in an anonymous or fictitious / benami name. 
+(2) open no account where it is unable to apply appropr iate CDD measures, 
+either due to non- cooperation of the customer or unreliability of the 
+documents / information furnished by the customer. The bank shall 
+consider filing an STR, if necessary, when it is unable to comply with the 
+relevant CDD measures in relation to the customer.  
+(3) not undertake a transaction or commence an account -based relationship 
+without following the CDD procedure. 
+(4) specify the mandatory information to be sought for KYC purposes while 
+opening an account and during the periodic updation. 
+(5) obtain additional information, where its internal KYC Policy has not 
+specified such information requirement, with the explicit consent of the 
+customer. 
+(6) apply the CDD procedure at the UCIC level. Thus, if an existing KYC -
+compliant customer of a bank desires to open another account or avail of 
+any other product or service from the same bank, there shall be no need 
+for a fresh CDD exercise as far as identification of the customer is 
+concerned. 
+(7) follow the CDD Procedure for all the joint account holders, while opening a 
+joint account. 
+(8) clearly spell out the circumstances in which a customer is permitted to act 
+on behalf of another person / entity. 
+(9)  put in place a suitable system to ensure that the identity of the customer 
+does not match with any person or entity, whose name appears in the 
+sanctions lists indicated in Chapter IX of these Directions. 
+(10) verify the Permanent Account Number (PAN) (if obtained) from the 
+verification facility of the issuing authority.

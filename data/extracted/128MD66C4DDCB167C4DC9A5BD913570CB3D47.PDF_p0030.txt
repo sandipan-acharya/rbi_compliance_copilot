@@ -1,0 +1,46 @@
+Annex - I A 
+ List of Districts with comparatively high PSL credit 
+Sl.No State District name 
+43 Haryana Hisar 
+44 Haryana Jhajjar 
+45 Haryana Jind 
+46 Haryana Kaithal 
+47 Haryana Karnal 
+48 Haryana Kurukshetra 
+49 Haryana Panchkula 
+50 Haryana Panipat 
+51 Haryana Rewari 
+52 Haryana Rohtak 
+53 Haryana Sirsa 
+54 Haryana Sonipat 
+55 Haryana Yamunanagar 
+56 Himachal Pradesh Kulu 
+57 Himachal Pradesh Shimla 
+58 Himachal Pradesh Sirmaur 
+59 Himachal Pradesh Solan 
+60 Jammu and Kashmir Jammu 
+61 Jammu and Kashmir Pulwama 
+62 Jammu and Kashmir Shopian 
+63 Jammu and Kashmir Srinagar 
+64 Jharkhand Ranchi 
+65 Karnataka Bengaluru Rural 
+66 Karnataka Bengaluru Urban 
+67 Karnataka Chikkamagaluru 
+68 Karnataka Dakshin Kannad 
+69 Karnataka Dharwad 
+70 Karnataka Hassan 
+71 Karnataka Kodagu 
+72 Karnataka Mysuru 
+73 Karnataka Ramanagara 
+74 Karnataka Shivamogga 
+75 Karnataka Udipi 
+76 Kerala Alapuzha 
+77 Kerala Ernakulam 
+78 Kerala Idukki 
+79 Kerala Kannur 
+80 Kerala Kasaragod 
+81 Kerala Kollam 
+82 Kerala Kottayam 
+83 Kerala Kozhikode 
+84 Kerala Palakkad 
+85 Kerala Pathanamthitta

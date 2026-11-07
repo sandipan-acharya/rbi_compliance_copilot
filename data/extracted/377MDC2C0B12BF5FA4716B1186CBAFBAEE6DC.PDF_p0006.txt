@@ -1,0 +1,31 @@
+(xi) ‘Group’ – The term ‘group’ shall have the same meaning assigned to it in clause 
+(e) of sub-section (9) of section 286 of the Income-tax Act,1961 (43 of 1961). 
+(xii) ‘Know Your Client (KYC) Identifier’ means the unique number or code assigned 
+to a customer by the Central KYC Records Registry. 
+Explanation: A customer can obtain his KYC Identifier through the following ways: In 
+the process of opening an account, once the customer’s KYC Identifier is generated 
+by CKYCR and provided to the ARC, the latter shall share the same with the 
+concerned customer. The customer can also access his KYC Identifier on CKYCR 
+Portal (www.ckycindia.in). 
+(xiii) ‘Non-profit organisations (NPO)’ means any entity or organisation, constituted 
+for religious or charitable purposes referred to in clause (15) of section 2 of the Income-
+tax Act, 1961 (43 of 1961), that is registered as a trust or a society under the Societies 
+Registration Act, 1860 or any similar State legislation or a company registered under 
+section 8 of the Companies Act, 2013 (18 of 2013). 
+(xiv) ‘Officially Valid Document (OVD)’ means the passport, the driving licence, proof 
+of possession of Aadhaar number, the Voter's Identity Card issued by the Election 
+Commission of India, job card issued by NREGA duly signed by an officer of the State 
+Government, and letter issued by the National Population Register containing details 
+of name and address. 
+Provided that, 
+(a) where the customer submits his proof of possession of Aadhaar number as an 
+OVD, he may submit it in such form as are issued by the Unique Identification 
+Authority of India (UIDAI). 
+(b) when the customer furnishes an OVD that does not have an updated address, the 
+ARC shall deem the following documents or the equivalent e-documents thereof to be 
+OVDs for the limited purpose of proof of address:- 
+• utility bill which is not more than two months old of any service provider (electricity, 
+telephone, post-paid mobile phone, piped gas, water bill); 
+• property or Municipal tax receipt; 
+• pension or family pension payment orders (PPOs) issued to retired employees by 
+Government Departments or Public Sector Undertakings, if they contain the address;

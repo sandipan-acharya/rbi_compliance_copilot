@@ -1,0 +1,28 @@
+22 
+ 
+Chapter IV – Risk Management 
+19. For risk management, the bank shall have a risk-based approach which includes 
+the following. 
+(1) The bank shall categorise customers into low, medium, and high-risk 
+categories, based on its assessment and risk perception. 
+(2) The bank may lay down broad principles for the risk -categorisation of 
+customers. 
+(3) The bank shall undertake risk categorisation based on parameters such as 
+the customer’s identity, social / financial status, nature of business activity, 
+and information about the customer’s business and its location, 
+geographical risk covering customers as well as transactions, type of 
+products / services offered, delivery channel used for delivery  of products 
+/ services, types of transactions undertaken such as cash, cheque / 
+monetary instruments, wire transfers, forex transactions, etc. The bank 
+may also factor in the ability to confirm identity documents through online 
+or other services offered by issuing authorities, while considering 
+customer’s identity. 
+(4) The bank shall keep the risk categorisation of a customer and the specific 
+reasons for such categorisation confidential and shall not reveal this 
+information to the customer to avoid tipping off. 
+Provided that  the bank collects various other non- intrusive information from 
+different categories of customers relating to the perceived risk, and specifies the 
+same in the KYC policy. 
+Explanation: The bank may also use the FATF Public Statement, the rep orts 
+and guidance notes on KYC / AML issued by the Indian Banks Association (IBA), 
+and other agencies, etc., in its risk assessment.

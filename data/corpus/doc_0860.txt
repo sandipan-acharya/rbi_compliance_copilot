@@ -1,0 +1,34 @@
+43 
+ 
+(1) The bank shall adopt a risk -based approach for periodic updation of KYC 
+ensuring that it keeps the information or data collected under CDD is kept 
+up-to-date and relevant, particularly where there is high risk. However, the 
+bank shall carry out periodic updation at least once in every two years for 
+high-risk customers, once in every eight years for medi um risk customers 
+and once in every 10 years for low-risk customers from the date of opening 
+of the account / last KYC updation. The bank shall document its  policy in 
+this regard as part of the bank’s internal KYC policy duly approved by 
+the Board of Directors of bank or any committee of the Board to which power 
+has been delegated. 
+(2) Notwithstanding the provisions given above, in respect of an individual 
+customer who is categorised as low -risk, the bank shall allow all 
+transactions and ensure the updation of KYC within one year of its falling 
+due for KYC or up to June 30, 2026, whichever is later. The bank shall 
+subject accounts of such customers to regular monitoring. This shall also 
+apply to low-risk individual customers for whom periodic updation of KYC 
+has already fallen due. 
+(3) Individuals: 
+(i) No change in KYC information: In case of no change in the KYC 
+information, the bank shall obtain a self -declaration from the 
+customer in this regard through the customer’s email-id registered 
+with the bank, customer’s mobile number registered with the bank, 
+ATMs, or digital channels (such as online banking / internet 
+banking, mobile application of bank) letter, etc. 
+(ii) Change in address: In case of a change only in the address details 
+of the customer, the bank shall obtain a self-declaration of the new 
+address from the customer through customer’s email -id registered 
+with the bank, customer’s mobile number registered with the bank, 
+ATMs, digital channels (such as online banking / internet banking, 
+mobile application of bank), letter, etc., and shall verify the declared 
+address through positive confirmation within two months, by means 
+such as address verification letter, contact poi nt verification,

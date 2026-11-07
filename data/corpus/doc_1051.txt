@@ -1,0 +1,25 @@
+47 
+ 
+Explanation: For the purpose of this paragraph, ‘Politically Exposed Persons’ (PEPs) 
+are individuals who are or have been entrusted with prominent public functions by 
+a foreign country, including the Heads of States / Governments, senior politicians, 
+senior government or judicial or military officers, senior executives of state-owned 
+corporations and important political party officials. 
+46. Client accounts opened by professional intermediaries: The NBFC shall 
+ensure while opening client accounts through professional intermediaries, that: 
+(1) The NBFC shall identify clients when a professional intermediary opens a client 
+account on behalf of a single client. 
+(2) The NBFC shall have option to hold 'pooled' accounts managed by professional 
+intermediaries on behalf of entities like mutual funds, pension funds or other types of 
+funds. 
+(3) The NBFC shall not open accounts of such professional intermediaries who are 
+bound by any client confidentiality which prohibits disclosure of the client details  to 
+the NBFC. 
+(4) The NBFC shall identify all the beneficial owners where intermediaries do not 
+co-mingle funds at the level of the NBFC, and there are 'sub- accounts', each of them 
+attributable to a beneficial owner, or where such funds are co- mingled at the level of 
+the NBFC, the NBFC shall look for the beneficial owners. 
+(5) The NBFC shall, at their discretion, rely on the CDD  done by an intermediary,  
+provided that the intermediary is a regulated and supervised entity and has adequate 
+systems in place to comply with the KYC requirements of the customers. 
+(6) The ultimate responsibility for knowing the customer lies with the NBFC.

@@ -1,0 +1,33 @@
+31 
+ 
+(2) Conversion of existing accounts opened in non- face-to-face mode using Aadhaar 
+OTP based e-KYC authentication as per paragraph 25. 
+(3) Updation / Periodic updation of KYC for eligible customers. 
+27. The bank opting to undertake V -CIP, shall adhere to the following minimum 
+standards: 
+(1) V-CIP Infrastructure 
+(i) The bank shall have complied with the RBI guidelines on minimum baseline cyber 
+security and resilience framework for banks, as updated from time to time as wel l as 
+other general guidelines on IT risks. The bank shall house the technology infrastructure 
+in its own premises and the V -CIP connection and interaction shall necessarily 
+originate from its own secured network domain. Any technology related outsourcing for 
+the process shall comply with relevant RBI guidelines. Where the bank uses a cloud 
+deployment model, it shall ensure that ownership of data in such model rests with the 
+bank only and all the data including video recording is transferred to the bank’s  
+exclusively owned / leased server(s) including cloud server, if any, immediately after 
+the V -CIP proces s is completed and the cloud service provider or third- party 
+technology provider assisting the V-CIP shall retain no data. 
+(ii) The bank shall ensure end-to-end encryption of data between customer device and 
+the hosting point of the V -CIP application, as per appropriate encryption standards. 
+The bank shall record the customer consent in an auditable and alteration- proof 
+manner. 
+(iii) The V-CIP infrastructure / application shall be capable of preventing connection 
+from IP addresses outside India or from spoofed IP addresses. 
+(iv) The video recordings shall contain the live GPS co-ordinates (geo-tagging) of the 
+customer undertaking the V-CIP and date and time stamp. The quality of the live video 
+in the V-CIP shall be adequate to allow identification of the customer beyond doubt. 
+(v) The application shall have components with face liveness / spoof detection as well 
+as face matching technology with high degree of accuracy, even though the ultimate 
+responsibility of any customer identification rests with the bank. 
+Explanation: Making specific facial gestures,  like blinking of eyes, smiling, frowning, 
+etc. is not mandatory for liveness check. The bank shall take due cognizance of special

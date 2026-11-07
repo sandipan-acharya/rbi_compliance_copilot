@@ -1,0 +1,21 @@
+48 
+ 
+ 
+are bound by any client confidentiality which prohibits disclo sure of the 
+client details to the AIFI. 
+(4) The AIFI shall identify all the beneficial owners where intermediaries do not 
+co-mingle funds at the level of the AIFI, and there are 'sub- accounts', each 
+of them attributable to a beneficial owner, or where such funds are co-
+mingled at the level of the AIFI, the AIFI shall look for the beneficial owners. 
+(5) The AIFI shall, at their discretion, rely on the 'customer due diligence' (CDD) 
+done by an intermediary, provided that the intermediary is a regulated and 
+supervised entity and has adequate systems in place to comply with the 
+KYC requirements of the customers. 
+(6) The ultimate responsibility for knowing the customer lies with the AIFI. 
+F2. Simplified Due Diligence 
+46. Simplified norms for Self Help Groups (SHGs): 
+(1) The AIFI shall not require CDD of all the members of an SHG while opening 
+the savings bank account of the SHG. 
+(2) The CDD of all the office bearers shall suffice. 
+(3) The AIFI may undertake CDD of all the members of an SHG at the time of 
+credit linking of SHGs.

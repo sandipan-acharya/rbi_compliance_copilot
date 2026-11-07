@@ -1,0 +1,33 @@
+68 
+ 
+http://www.fedai.org.in/RevaluationRates.aspx for carrying  out the due 
+diligence procedure for the purposes of identifying reportable accounts in 
+terms of Rule 114H. 
+(3) Develop Information Technology (IT) framework for carrying out due 
+diligence procedure and for recording and maintaining the same, as 
+provided in Rule 114H. 
+(4) Develop a system of audit for the IT framework and compliance with Rules 
+114F, 114G and 114H of Income Tax Rules. 
+(5) Constitute a ‘ High-Level Monitoring Committee’ under the Designated 
+Director or any other equivalent functionary to ensure compliance. 
+(6) Ensure compliance with updated instructions / rules / guidance notes / 
+Press releases / issued on the subject by Central Board of Direct Taxes 
+(CBDT) from time to time and available on the website 
+http://www.incometaxindia.gov.in/Pages/default.aspx. REs may take note 
+of the following: 
+(i) updated Guidance Note on FATCA and CRS 
+(i) a press release on ‘Closure of Financial  Accounts’ under Rule 114H 
+(8). 
+68. Period for presenting payment instrument s: The bank shall not make 
+payment of cheques  / drafts / pay orders/  banker’s cheques, if the customer 
+presents them beyond the period of three months from the date of such 
+instruments. 
+69. Operation of Bank Accounts and Money Mules: The bank shall strictly adhere 
+to t he instructions on opening of accounts and monitoring of transactions, to 
+minimise the operations of ‘Money Mules’ that are used to launder the proceeds 
+of fraud schemes (e.g., phishing and identity theft) by criminals who gain illegal 
+access to deposit accounts by recruiting third parties that act as ‘money mules’. 
+The bank shall undertake diligence measures and meticulous monitoring to 
+identify accounts which are operated as Money Mules and take appropriate 
+action, including reporting of suspicious transactions to FIU -IND. Further, if it is 
+established that an account opened and operated is that of a  Money Mule, but

@@ -1,0 +1,33 @@
+73 
+ 
+beneficiary person are regulated financial institutions acting on 
+their own behalf. 
+  It is, however, clarified that nothing within these instructions will impact the 
+obligation of the bank to comply with applicable reporting requirements 
+under PML Act, 2002, and the Rules made thereunder, or any other statutory 
+requirement in force. 
+(2) Responsibilities of ordering bank, intermediary bank and beneficiary bank, 
+effecting wire transfer, are as under: 
+(i) Ordering bank: 
+(a) The ordering bank shall ensure that all cross -border and 
+qualifying domestic wire transfers  {viz., transactions as per sub 
+clauses (iii) and (iv) of clause 1 above}, contain required and 
+accurate originator information and required beneficiary  
+information, as indicated above. 
+(b) Customer Identification shall be made if a customer, who is not 
+an account holder of the ordering bank, is intentionally 
+structuring domestic wire transfers below ₹ 50,000 to avoid 
+reporting or monitoring. In case of non- cooperation from the 
+customer, efforts shall be made to establish identity and if  the 
+same transaction is found to be suspicious, STR may be filed 
+with FIU-IND in accordance with the PML Rules. 
+(c) Ordering bank shall not execute the wire transfer if it is not able 
+to comply with the requirements stipulated in this paragraph. 
+(ii)  Intermediary bank: 
+(a) The bank processing an intermediary element of a chain of wire 
+transfers shall ensure that all originator and beneficiary 
+information accompanying a wire transfer is retained with the 
+transfer. 
+(b) Where technical limitations prevent the required originator or 
+beneficiary information accompanying a cross -border wire 
+transfer from remaining with a related domestic wire transfer, the

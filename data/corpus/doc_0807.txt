@@ -1,0 +1,40 @@
+40 
+ 
+target and sectoral targets for lending to agriculture and micro enterprises, banks 
+are required to achieve specified sub- target for lending to Small and Marginal 
+Farmers. Accordingly, to avoid computational issues in assessing the 
+achievement/shortfall of PSL t argets, it is advised that the above four types of 
+certificates will represent specific loans and count for specific sub- targets/targets 
+as indicated hereunder: 
+S.No. Type of PSLCs Representing Counting for 
+1. PSLC - Agriculture All eligible Agriculture 
+loans except loans to 
+SF/MF for which 
+separate certificates are 
+available 
+Achievement of 
+agriculture target and 
+overall PSL target 
+2. PSLC - SF/MF All eligible loans to 
+small/marginal farmers 
+Achievement of SF/MF 
+sub-target, Weaker 
+Sections sub- target, 
+NCF sub -target, 
+agriculture target and 
+overall PSL target 
+3. PSLC - Micro 
+Enterprises 
+All PSL Loans to Micro 
+Enterprises 
+Achievement of micro -
+enterprise sub- target 
+and overall PSL target 
+4. PSLC - General The residual priority 
+sector loans i.e. other 
+than loans to agriculture 
+and micro enterprises 
+for which separate 
+certificates are available 
+Achievement of overall 
+PSL target

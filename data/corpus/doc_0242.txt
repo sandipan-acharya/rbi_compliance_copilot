@@ -1,0 +1,32 @@
+29 
+ 
+mobile number register ed with the bank. Upon successful OTP validation, the bank  
+shall treat  it as the authorised officer’s signature on the declaration. The live 
+photograph of the authorised officer shall also be captured in this authori sed officer’s 
+declaration. 
+(11)  Subsequent to all these activities, the Application shall give information about the 
+completion of the process and submission of activation request to activation officer of 
+the bank, and also generate the transaction- id / reference-id number of the process . 
+The authorised officer shall intimate the details regarding transaction- id / reference-id 
+number to the customer for future reference. 
+(12) The authorised officer of the bank shall check and verify that:  
+(i) information available in the picture of the document matches with the information 
+entered by authorised officer in CAF; 
+(ii) live photograph of the customer matches with the photo available in the document; 
+and 
+(iii) the authorised officer has properly filled all of the necessary details in CAF , 
+including mandatory field. 
+(13)  On Successful verification, the CAF shall be digitally signed by authorised officer 
+of the bank who will take a print of CAF, get signatures / thumb-impression of customer 
+at appropriate place, then scan and upload the same in system. Original hard copy 
+may be returned to the customer. 
+(14)  The bank may use the services of Business Correspondent (BC) for this process. 
+25. Accounts opened using Aadhaar OTP based e-KYC, in non-face-to-face mode, are 
+subject to the following conditions: 
+(1) The Customer shall give specific consent for the authentication through OTP. 
+(2) As a risk-mitigating measure for such accounts, the bank shall ensure that it sends 
+transaction alerts, OTP, etc., only to the mobile number of the customer registered with 
+Aadhaar. The bank shall have a B oard-approved policy delineating a robust process 
+of due diligence for dealing with requests for change of mobile number in such 
+accounts. 
+(3) The aggregate balance of all the deposit accounts of the customer shall not exceed

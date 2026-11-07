@@ -1,0 +1,34 @@
+62 
+ 
+ 
+or by a committee headed by the Chairman / CEO / MD, to lay down parameters 
+for approving cross -border correspondent banking and other similar 
+relationships. In addition to perform ing normal CDD measures, such 
+relationships shall be subject to the following conditions: 
+(1) The AIFI shall gather sufficient information about a respondent bank to 
+understand fully the nature of the respondent bank’s business and to 
+determine from publicly available information the reputation of the 
+respondent bank and the quality of supervision, including whether it has 
+been subjected to a ML / TF investigation or regulatory action. The AIFI 
+shall assess the respondent bank’s AML / CFT controls. 
+(2) The informat ion gathered in relation to the nature of business of the 
+respondent bank shall include information on management, major business 
+activities, purpose of opening the account, identity of any third-party entities 
+that will use the correspondent banking servi ces, regulatory / supervisory 
+framework in the respondent bank’s home country among other relevant 
+information. 
+(3) The AIFI shall obtain the prior approval from senior management for 
+establishing new correspondent banking relationships. However, the AIFI  
+shall also take post facto- approval of the Board or the Committee 
+empowered for this purpose. 
+(4) The AIFI shall clearly document and understand the respective AML / CFT 
+responsibilities of institutions involved. 
+(5) In the case of payable -through-accounts, the correspondent AIFI shall be 
+satisfied that the respondent bank has conducted CDD on the customers 
+having direct access to the accounts of the correspondent AIFI  and is 
+undertaking ongoing 'due diligence' on them. 
+(6) The correspondent AIFI shall ensure that the respondent bank is able to 
+provide the relevant CDD information immediately on request. 
+(7) The AIFI shall not enter into or continue a correspondent relationship with 
+a shell bank. 
+(8) The AIFI shall ensure that the respondent banks do not permit their

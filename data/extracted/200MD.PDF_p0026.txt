@@ -1,0 +1,32 @@
+customer wants to provide a current address, different from the address 
+as per the identity information available in the Central Identities Data 
+Repository, they may give a self-declaration to that effect to the bank. 
+(ii) proof of possession of Aadhaar under clause 25(2) above where offline 
+verification can be carried out, the bank shall carry out offline verification. 
+(iii) an equivalent e- document of any OVD, the bank shall verify the digital 
+signature as per the provisions of the Information Technology Act, 2000 
+(21 of 2000) and any rules issued thereunder and take a live photo as 
+specified under paragraph 25 below. 
+(iv) any OVD or proof of possession of Aadhaar number under clause (3) 
+above where offline verification cannot be carried out, the bank shall 
+carry out verification through digital KYC as specified under paragraph 
+25 below. 
+(v) KYC Identifier under clause (4) above, the bank shall retrieve the KYC 
+records online from the CKYCR in accordance with paragraph 66. 
+Provided that for a period not beyond such date as the Government may notify 
+for a class of REs, instead of carrying out digital KYC, the bank pertaining to 
+such class may obtain a certified copy of the proof of possession of Aadhaar 
+number or the OVD and a recent photograph where the customer does not 
+submit an equivalent e- document. 
+Provided further that in case the bank cannot perform an e-KYC authentication 
+for an individual desirous of receiving any benefit or subsidy under any 
+scheme notified under section 7 of the Aadhaar (Targeted Delivery of 
+Financial and Other subsidies, Benefits and Services) Act, 2016 owing to 
+injury, illness or infirmity on account of old age or otherwise, and similar causes, 
+the bank shall, apart from obtaining the Aadhaar number, perform 
+identification preferably by carrying out offline verification or alternatively by 
+obtaining the certified copy of any other OVD or the equivalent e- document 
+thereof from the customer. An official of the bank shall invariably carry out CDD 
+done in this manner, and such exception handling shall also be a part of the 
+concurrent audit as mandated in paragraphs 13 and 14. The bank shall ensure 
+to duly record the cases of exception handling in a centralised exception

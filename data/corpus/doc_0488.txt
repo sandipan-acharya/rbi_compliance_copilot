@@ -1,0 +1,34 @@
+30 
+ 
+ 
+CAF, including mandatory field. 
+(13) On Successful verification, the CAF shall be digitally signed by authorised 
+officer of the AIFI  who will take a print of CAF, get signatures / thumb-
+impression of customer at appropriate place, then scan and upload the 
+same in system. Original hard copy may be returned to the customer. 
+25. Accounts opened using Aadhaar OTP based e-KYC, in non-face-to-face mode, 
+are subject to the following conditions: 
+(1) The Customer shall give specific consent for the authentication through 
+OTP. 
+(2) As a risk-mitigating measure for such accounts, the AIFI  shall ensure that 
+it sends transaction alerts, OTP, etc., only to the mobile number of the 
+customer registered with Aadhaar. The AIFI  shall have a Board- approved 
+policy delineating a robust process of due diligence for dealing with 
+requests for change of mobile number in such accounts. 
+(3) The aggregate balance of all the deposit accounts of the customer shall not 
+exceed Rupees One Lakh. In case the balance exceeds the threshold, the 
+AIFI shall cease the account’s operation, until it completes the CDD as 
+mentioned at (6) below. 
+(4) The aggregate of all credits in a financial year, in all the deposit accounts 
+taken together, shall not exceed Rupees Two Lakh. 
+(5) As regards borrowal accounts, the AIFI shall sanction only term loans. The 
+aggregate amount of term loans sanctioned shall not exceed ₹60,000  in a 
+year. 
+(6) The AIFI shall not allow accounts, both deposit and borrowal, opened using 
+OTP based e-KYC to operate for more than one year unless it carries out 
+identification as per paragraph 23 or as per paragraphs 26 and 27 (V-CIP). 
+If the AIFI uses Aadhaar details under paragraphs 26 and 27, it shall follow 
+the process in its entirety, including fresh Aadhaar OTP authentication. 
+(7) If the AIFI does not complete the CDD procedure as mentioned above within 
+a year; (a) in respect of deposit accounts, the AIFI shall close the same 
+immediately, and (b) in respect of borrowal accounts, the AIFI shall allow no

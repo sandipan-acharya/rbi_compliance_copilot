@@ -1,0 +1,36 @@
+66 
+ 
+of these Directions, except verification of identity and / or address of the 
+customer.] 
+ 
+65. Reporting requirement under Foreign Account Tax Compliance Act 
+(FATCA) and Common Reporting Standards (CRS): Under FATCA and CRS, 
+the bank shall adhere to the provisions of Income Tax Rules 114F, 114G and 
+114H and determine whether they are a Reporting Financial Institution as defined 
+in Income Tax Rule 114F and if so, shall take following steps for complying with 
+the reporting requirements: 
+(1) Register on the related e- filing portal of Income Tax Department as 
+Reporting Financial Institutions at the link 
+https://incometaxindiaefiling.gov.in/ post login --> My Account --> Register 
+as Reporting Financial Institution. 
+(2) Submit online reports by using the digital signature of the ‘Designated 
+Director’ by either uploading the Form 61B or ‘NIL’ report, for which, the 
+schema prepared by Central Board of Direct Taxes (CBDT) shall be 
+referred to. 
+Explanation: REs shall refer to the spot reference rates published by 
+Foreign Exchange Dealers’ Association of India (FEDAI) on their website 
+at http://www.fedai.org.in/RevaluationRates.aspx for carrying out the due 
+diligence procedure for the purposes of identifying reportable accounts in 
+terms of Rule 114H. 
+(3) Develop Information Technology (IT) framework for carr ying out due 
+diligence procedure and for recording and maintaining the same, as 
+provided in Rule 114H. 
+(4) Develop a system of audit for the IT framework and compliance with Rules 
+114F, 114G and 114H of Income Tax Rules. 
+(5) Constitute a ‘ High-Level Monitoring Com mittee’ under the Designated 
+Director or any other equivalent functionary to ensure compliance. 
+(6) Ensure compliance with updated instructions  / rules  / guidance notes  / 
+Press releases / issued on the subject by Central Board of Direct Taxes 
+(CBDT) from time to time and available on the website 
+http://www.incometaxindia.gov.in/Pages/default.aspx. REs may take note 
+of the following:

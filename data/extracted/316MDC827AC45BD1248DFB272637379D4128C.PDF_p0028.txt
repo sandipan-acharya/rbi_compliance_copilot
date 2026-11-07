@@ -1,0 +1,34 @@
+(4) The bank shall ensure that the authorised officer takes a Live photograph 
+of the customer and embeds the same photograph in the Customer 
+Application Form (CAF). Further, the bank’s system Application shall put 
+a watermark in readable form, containing the CAF number, GPS 
+coordinates, authorised official’s name, unique employee code (which the 
+bank assigns) and date (DD:MM:YYYY) and time stamp (HH:MM:SS), on 
+the captured live photograph of the customer. 
+(5) The bank’s Application shall have the feature that it captures only a live 
+photograph of the customer and does not capture any printed or video 
+graphed photograph. The background behind the customer while 
+capturing live photograph shall be of white colour and no other person 
+shall come into the frame while capturing the live photograph of the 
+customer. 
+(6) Similarly, the authorised officer shall capture the live photograph of the 
+original OVD or proof of possession of Aadhaar where offline verification 
+cannot be carried out (placed horizontally), vertically from above and shall 
+apply a water -marking in readable form as mentioned above. The 
+authorised officer shall ensure there is no skew or tilt in the mobile device 
+while capturing the live photograph of the original documents. 
+(7) The authorised officer shall capture the live photograph of the customer 
+and his original documents in proper light so that they are clearly readable 
+and identifiable. 
+(8) Thereafter, the authorised officer shall fill all the entries in the CAF as per 
+the documents and information furnished by the customer. In those 
+documents where Quick Response (QR) code is available, such details 
+may be auto-populated by scanning the QR code instead of manual filing 
+the details. For example, in case of physical Aadhaar / e- Aadhaar 
+downloaded from UIDAI where QR code is available, the details like name, 
+gender, date of birth and address may be auto-populated by scanning the 
+QR available on Aadhaar / e-Aadhaar. 
+(9) Once the above-mentioned process is completed, a One Time Password 
+(OTP) message containing the text that ‘Please verify the details filled in 
+form before sharing OTP’ shall be sent to customer’s own mobile number. 
+Upon successful validation of the OTP, the bank will treat it as the

@@ -1,0 +1,33 @@
+customer undertaking the V -CIP and the identification details in 
+Aadhaar / OVD and PAN / e-PAN shall match with the details provided 
+by the customer. 
+(xiv) The bank shall permit assisted V -CIP when it takes help of Business 
+Correspondents (BCs) to facilitate the process only at the customer 
+end. The bank shall maintain the details of the BC assisting the 
+customer, where it utilises the services of BCs. The bank shall have 
+the ultimate responsibility for customer due diligence. 
+(xv) The bank shall make all accounts opened through V -CIP operational 
+only after subjecting them to concurrent audit to ensure the integrity of 
+process and its acceptability of its outcome. 
+(xvi) The bank shall appropriately comply with all matters not specified 
+under the paragraph but required under other statutes such as the 
+Information Technology (IT) Act. 
+ 
+(3) V-CIP Records and Data Management 
+(i) The bank shall store the entire data and recordings of V -CIP in a 
+system / systems located in India. The bank shall ensure that the video 
+recording is stored in a safe and secure manner and bears the date 
+and time stamp that affords easy historical data search. The extant 
+instructions on record management, as stipulated in this direction, shall 
+also apply to V-CIP. 
+(ii) The bank shall preserve the activity log along with the credentials of 
+the official performing the V-CIP. 
+ 
+27. Notwithstanding anything contained in paragraph 22 and as an alternative 
+thereto, in case an individual who desires to open a bank account, the bank shall 
+open a ‘Small Account’, which entails the following limitations: 
+(1) the aggregate of all credits in a financial year does not exceed Rupees 
+One Lakh; 
+(2) the aggregate of all withdrawals and transfers in a month does not exceed 
+₹10,000; and 
+(3) the balance at any point of time does not exceed ₹50,000.

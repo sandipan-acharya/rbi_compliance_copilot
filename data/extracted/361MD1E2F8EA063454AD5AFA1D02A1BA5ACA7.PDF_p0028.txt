@@ -1,0 +1,29 @@
+OTP’ shall be sent to customer’s own mobile number. Upon successful validation of 
+the OTP, the NBFC will treat it as the customer’s signature on CAF. However, if the 
+customer does not have their own mobile number, the NBFC may use the mobile 
+number of their family / relatives / known persons for this purpose and clearly mention 
+it in the CAF. In any case, the NBFC shall not use the mobile number of authori sed 
+officer registered with the NBFC for the customer signature. The NBFC shall check 
+that the mobile number used in customer signature is not the mobile number of the 
+authorised officer. 
+(10) The authorised officer shall provide a declaration about the capturing of the live 
+photograph of the customer and original document. For this purpose, the NBFC shall 
+verify the authorised officer with One Time Password (OTP) which will be sent to his 
+mobile number registered with the NBFC. Upon successful OTP validation, the NBFC 
+shall treat it as the authorised officer’s signature on the declaration. The live 
+photograph of the authorised officer shall also be captured in this authorised officer’s 
+declaration. 
+(11) Subsequent to all these activities, the Application shall give information about 
+the completion of the process and submission of activation request to activation officer 
+of the NBFC, and also generate the transaction- id / reference-id number of the 
+process. The authori sed officer shall intimate the details regarding transaction- id / 
+reference-id number to the customer for future reference. 
+(12) The authorised officer of the NBFC shall check and verify that: 
+(i) information available in the picture of the document matches with the 
+information entered by authorised officer in CAF. 
+(ii) live photograph of the customer matches with the photo available in the 
+document.; and 
+(iii) the authorised officer has properly filled all of the necessary details in CAF , 
+including mandatory field. 
+(13) On Successful verification, the CAF shall be digitally signed by authori sed 
+officer of the NBFC who will take a print of CAF, get signatures / thumb-impression of

@@ -1,0 +1,35 @@
+41 
+ 
+ 
+by the company and/or multiple small deposits (generally in cash) across 
+the country in one AIFI account and / or where a large number of 
+cheques are issued bearing similar amounts / dates, shall be 
+immediately reported to RBI and other appropriate authorities such as 
+FIU-IND. 
+41. Updation / Periodic Updation of KYC 
+(1) The AIFI shall adopt a risk -based approach for periodic updation of KYC 
+ensuring that it keeps the information or data collected under CDD is kept 
+up-to-date and relevant, particularly where there is high risk. However, the 
+AIFI shall carry out periodic updation at least once in every two years for 
+high-risk customers, once in every eight years for medi um risk customers 
+and once in every 10 years for low-risk customers from the date of opening 
+of the account / last KYC updation. The AIFI shall document its policy in this 
+regard as part of the AIFI’s internal KYC policy duly approved by the 
+Board of Directors of AIFI or any committee of the Board to which power has 
+been delegated. 
+(2) Notwithstanding the provisions given above, in respect of an individual 
+customer who is categorised as low-risk, the AIFI shall allow all transactions 
+and ensure the updation of KYC within one year of its falling due for KYC 
+or up to June 30, 2026, whichever is later. The AIFI shall subject accounts 
+of such customers to regular monitoring. This shall also apply to low -risk 
+individual customers for whom periodic updation of KYC has already fallen 
+due. 
+(3) Individuals: 
+(i) No change in KYC information: In case of no change in the K YC 
+information, the AIFI shall obtain a self-declaration from the customer 
+in this regard through the customer’s email-id registered with the AIFI, 
+customer’s mobile number registered with the AIFI or digital channels 
+(such as mobile application of AIFI) letter, etc. 
+(ii) Change in address: In case of a change only in the address details 
+of the customer, the AIFI shall obtain a self-declaration of the new 
+address from the customer through customer’s email -id registered

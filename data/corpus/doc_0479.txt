@@ -1,0 +1,18 @@
+21 
+ 
+ 
+(11) verify the customer’s digital signature on  the equivalent e- document (if 
+obtained) as per the provisions of the Information Technology Act, 2000 (21 
+of 2000). 
+(12) verify the Goods and Services Tax (GST) numbe r from the search  / 
+verification facility of the issuing authority , where the GST details are 
+available. 
+18. Customer Acceptance Policy shall not result in denial of a banking / financial 
+facility to members of the general public, especially those who are financially or 
+socially disadvantaged, including the Persons with Disabilities (PwDs). The AIFI 
+shall not reject an application for onboarding or periodic updation of KYC without 
+application of mind . The officer concerned shall duly record the reason(s) for 
+rejection. 
+19. Where the AIFI forms a suspicion of money laundering or terrorist financing, and 
+it reasonably believes that performing the CDD process will tip off the customer, 
+it shall not pursue the CDD process and instead file an STR with FIU-IND.

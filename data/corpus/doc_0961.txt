@@ -1,0 +1,34 @@
+36 
+ 
+intimation / reminder  shall, inter a lia, contain easy -to-understand instructions for 
+updating KYC, escalation mechanism for seeking help, if required, and the 
+consequences, if any, of failure to update their KYC in time. Issue of such advance 
+intimation / reminder shall be duly recorded in t he ARC’s system against each 
+customer for audit trail. The ARC shall expeditiously implement the same but not later 
+than January 01, 2026. 
+42. In case of existing customers, the ARC shall obtain the P AN or equivalent e-
+document thereof or Form No. 60, by such date which the Central Government may 
+notify, failing which the ARC shall temporarily cease operations in the account until the 
+customer submits the PAN or equivalent e-documents thereof or Form No. 60. 
+Provided that before temporarily ceasing operations for an account, the ARC shall give 
+the customer an accessible notice and a reasonable opportunity to be heard. Further, 
+the ARC shall include, in its internal policy, appropriate relaxation(s) for continued 
+operation of accounts for customers who are unable to provide PAN  or equivalent e-
+document thereof or Form No. 60 owing to injury, illness or infirmity on account of old 
+age or otherwise, and such like causes. However, the ARC shall subject such accounts 
+to enhanced monitoring. 
+Provided further that if a customer having an existing account-based relationship with 
+an ARC gives in writing to the ARC that they do not want to submit their P AN or 
+equivalent e-document thereof or Form No. 60, the ARC shall close the account and 
+all obligations due in relation to the account shall be appropriately settled after 
+establishing the identity of the customer by obtaining the identification documents as 
+applicable to the customer.  
+Explanation: For the purpose of this paragraph, ‘temporary ceasing of operations’ in 
+relation to an account shall mean the temporary suspension of all transactions or 
+activities in relation to that account by the ARC till such time the customer complies 
+with the provisions of this paragraph. In case of asset accounts such as loan accounts, 
+for the purpose of ceasing the operation in the account, only credits shall be allowed. 
+F. Enhanced Due Diligence Procedure 
+43. Enhanced Due Diligence (EDD) for non- face-to-face customer onboarding (other 
+than customer onboarding in terms of paragraph 2 2): Non-face-to-face onboarding 
+facilitates the ARC to establish a relationship with the cus tomer without meeting the

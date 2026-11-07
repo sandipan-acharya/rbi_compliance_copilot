@@ -1,0 +1,28 @@
+Thus, a bank having shortfall in achievement of any sub- target (e.g. SF/MF, 
+Micro), will have to buy the specific PSLC to achieve the target. However, if a bank 
+is having shortfall in achievement of the overall target only, as applicable to it, may 
+buy any of the available PSLCs. 
+vi) Computation of PSL achievement: A bank’s PSL achievement would be 
+computed as the sum of outstanding priority sector loans, and the net nominal 
+value of the PSLCs issued and purchased. Such computation will be done 
+separately where sub targets are prescribed as on the reporting date. 
+vii) Amount eligible for issue: Normally PSLCs will be issued against the underlying 
+assets. However, with the objective of developing a strong and vibrant market for 
+PSLCs, a bank is permitted to issue PSLCs upto 50 percent of previous year’s 
+PSL achievement without having the underlying in its books. However, as on the 
+reporting date, the bank must have met the priority sector target by way of the sum 
+of outstanding priority sector lending portfolio and net of PSLCs issued and 
+purchased. To the extent of shortfall in the achievement of target, banks may be 
+required to invest in RIDF/other funds as hitherto. 
+viii) Credit Risk: There will be no transfer of credit risk on the underlying as there is 
+no transfer of tangible assets or cash flow. 
+ix) Expiry date: All PSLCs will expire by March 31st and will not be valid beyond the 
+reporting date (March 31st), irrespective of the date it was first sold. 
+x) Settlement: The settlement of funds will be done through the platform as explained 
+in the e-Kuber portal. 
+xi) Value and Fee: The nominal value of PSLC would represent the equivalent of the 
+PSL that would get deducted from the PSL portfolio of the seller and added to the 
+PSL portfolio of the buyer. The buyer would pay a fee to the seller which will be 
+market determined. 
+xii) Lot Size: The PSLCs would have a standard lot size of ₹ 25 lakh and multiples 
+thereof.

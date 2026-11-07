@@ -1,0 +1,34 @@
+72 
+ 
+(iv) Domestic wire transfers of ₹ 50,000 and above, where the originator  
+is not an account holder of the ordering bank, shall also be 
+accompanied by originator and beneficiary information as indicated for 
+cross-border wire transfers. 
+ In case of domestic wire transfers below ₹50,000 where the originator 
+is not an account holder of the ordering banks and where the 
+information accompanying the wire transfer can be made available to 
+the beneficiary RE and appropriate authorities by other means, it is 
+sufficient for the ordering bank to i nclude a unique transaction 
+reference number, provided that this number or identifier will permit 
+the transaction to be traced back to the originator or the beneficiary. 
+ The ordering bank shall make the information available within three 
+working / business days of receiving the request from the intermediary 
+RE, beneficiary RE, or from appropriate competent authorities. 
+(v) The bank shall ensure that all the information on the wire transfers 
+shall be immediately made available to appropriate law enforcem ent 
+authorities, prosecuting / competent authorities as well as FIU-IND on 
+receiving such requests with appropriate level provisions. 
+(vi) The wire transfer instructions are not intended to cover the following 
+types of payments: 
+(a) Any transfer that flows from a t ransaction carried out using a 
+credit card / debit card / Prepaid Payment Instrument (PPI), 
+including through a token or any other similar reference string 
+associated with the card / PPI, for the purchase of goods or 
+services, so long as the credit or debit card number or PPI id or 
+reference number accompanies all transfers  flowing from the 
+transaction. However, when a credit or debit card or PPI is used 
+as a payment system to effect a person-to-person wire transfer, 
+the wire transfer instructions shall apply to such transactions and 
+the necessary information should be included in the message. 
+(b) Financial institution- to-financial institution transfers and 
+settlements, where both the originator person and the

@@ -1,0 +1,34 @@
+35 
+ 
+ 
+per the existing requirement. The AIFI shall ensure that it also confirms 
+the economic and financial profile / information submitted by the 
+customer from the customer undertaking the V -CIP in a suitable 
+manner. 
+(xi) The AIFI shall capture a clear image of PA N card displayed by the 
+customer during the process, except in cases where e-PAN is provided 
+by the customer. The AIFI shall verify the PAN details from the 
+database of the issuing authority, including through DigiLocker. 
+(xii) The use of printed copy of equivalent e-document, including an e-PAN 
+is not valid for the V-CIP. 
+(xiii) The authorised official of the AIFI shall ensure that photograph of the 
+customer in the Aadhaar / OVD and PAN / e- PAN matches with the 
+customer undertaking the V -CIP and the identificati on details in 
+Aadhaar / OVD and PAN / e-PAN shall match with the details provided 
+by the customer. 
+(xiv) The AIFI shall make all accounts opened through V -CIP operational 
+only after subjecting them to concurrent audit to ensure the integrity of 
+process and its acceptability of its outcome. 
+(xv) The AIFI shall appropriately comply with all matters not specified under 
+the paragraph but required under other statutes such as the Information 
+Technology (IT) Act. 
+(3) V-CIP Records and Data Management 
+(i) The AIFI shall store the entire data and recordings of V-CIP in a system 
+/ system located in India. The AIFI shall ensure that the video 
+recording is stored in a safe and secure manner and bears the date 
+and time stamp that affords easy historical data search. The extant 
+instructions on record management, as stipulated in this direction, 
+shall also apply to V-CIP. 
+(ii) The AIFI shall preserve the activity log along with the credentials of 
+the official performing the V-CIP. 
+28. KYC verification once done by one branch / office of the AIFI shall be valid for

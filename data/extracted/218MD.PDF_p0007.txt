@@ -1,0 +1,31 @@
+under Rule 2(1) of the Rules, to receive, store, safeguard and retrieve 
+the KYC records in digital form of a customer. 
+(vii) ‘Designated Director’ means a person whom the bank designates to 
+ensure overall compliance with the obligations imposed under chapter 
+IV of the PML Act and the Rules and shall include the Managing 
+Director or a whole- time Director, whom the Board of Directors has 
+duly authorised. 
+ Explanation: For the purpose of this clause, the terms ‘Managing 
+Director’ and ‘Whole-time Director’ shall have the meaning assigned 
+to them in the Companies Act, 2013. 
+(viii) ‘Digital KYC’ means that an authorised officer of the bank captures a 
+live photo of the customer and officially valid document or the proof of 
+possession of Aadhaar (where offline verification cannot be carried 
+out), along with the latitude and longitude of the location wher e such 
+live photo is being taken, as per the provisions contained in the Act. 
+(ix) ‘Digital Signature’ shall have the same meaning as assigned to it in 
+clause (p) of sub- section (1) of section (2) of the Information 
+Technology Act, 2000 (21 of 2000). 
+(x) ‘Equivalent e -document’ means an electronic equivalent of a 
+document that the issuing authority of such document issues with its 
+valid digital signature, including documents issued to the digital locker 
+account of the customer as per rule 9 of the Information Technology 
+(Preservation and Retention of Information by Intermediaries 
+Providing Digital Locker Facilities) Rules, 2016. 
+(xi) ‘Group’ – The term ‘group’ shall have the same meaning assigned to 
+it in clause (e) of sub -section (9) of section 286 of the Income- tax 
+Act,1961 (43 of 1961). 
+(xii) ‘Know Your Client (KYC) Identifier’ means the unique number or 
+code that the Central KYC Records Registry assigns to a customer. 
+ Explanation: A customer can obtain his KYC Identifier through the 
+following ways: In the process of opening an account, once the

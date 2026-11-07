@@ -1,0 +1,29 @@
+(i) Obligations in respect of the NBFC’s engagement or involvement with 
+unregulated entities in the process of wire transfer : The NBFC shall be cognizant of 
+their obligations under these instructions and ensure strict compliance, in respect of 
+engagement or involvement of any unregulated entities in the process of wire transfer. 
+More specifically, whenever there is involvement of any unregulated entities in the 
+process of wire transfers, the concerned NBFC shall be fully responsible for 
+information, reporting and other requirements and therefore shall ensure, inter alia, 
+that: 
+(a) there is unhindered flow of complete wire transfer information, as mandated 
+under these directions, from and through the unregulated entities involved; 
+(b) the agreement / arrangement, if any, with such unregulated entities by the 
+NBFC clearly stipulates the obligations under wire transfer instructions; and 
+(c) a termination clause is available in their agreement / arrangement, if any, with 
+such entities so that in case the unregulated entities are unable to support the wire 
+information requirements, the agreement / arrangement can be terminated. Existing 
+agreements / arrangements, if any, with such entities shall be reviewed within three 
+months to ensure aforementioned requirements. 
+(ii) The NBFC’s responsibility while undertaking cross -border wire transfer with 
+respect to name screening (such that they do not process cross-border transactions 
+of designated persons and entities) . The NBFC is prohibited from conducting 
+transactions with designated persons and entities and accordingly, in addition to 
+compliance with Chapter IX of these Directions, the NBFC shall ensure that they do 
+not process cross-border transactions of designated persons and entities. 
+(iii) The NBFC’s responsibility to fulfil record management requirements: Complete 
+originator and beneficiary information relating to wire transfers shall be preserved by 
+the NBFC involved in the wire transfer, in accordance with paragraph 47 of these 
+Directions. 
+70. Quoting of PAN: PAN or equivalent e-document thereof of customers shall be 
+obtained and verified while undertaking transactions as per the provisions of Income Tax

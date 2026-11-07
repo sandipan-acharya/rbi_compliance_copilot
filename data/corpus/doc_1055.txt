@@ -1,0 +1,7 @@
+51 
+ 
+information under paragraph 8 of these Directions of any analysis of transactions 
+and activities which appear unusual, if the NBFC has done any such analysis. 
+53.  To identify and report suspicious transactions  effectively, the NBFC shall 
+implement robust software that generates alerts when transactions are inconsistent 
+with a customer's risk categorisation and updated profile.

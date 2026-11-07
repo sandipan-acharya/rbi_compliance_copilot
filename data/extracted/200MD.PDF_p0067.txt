@@ -1,0 +1,33 @@
+address (including current address) of the customer, or to perform 
+enhanced due diligence or to build an appropriate risk profile of the 
+customer. 
+[3Explanation: The RE that has last uploaded or updated the customer’s 
+KYC records in the CKYCR shall be responsible for verifying the identity 
+and / or address of the customer , as applicable. Accordingly, any bank 
+downloading and relying on such records from the CKCYR shall not be 
+required to re- verify the authenticity of the customer’s identity and / or 
+address, provided the KYC records downloaded from CKYCR are current 
+and compliant with the PML Act, 2002 / PML Rules, 2005. The bank 
+downloading and relying on KYC records dow nloaded from the CKCYR 
+shall remain responsible for all aspects of CDD procedure and provisions 
+of these Directions, except verification of identity and / or address of the 
+customer.] 
+67. Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and 
+Common Reporting Standards (CRS): Under FATCA and CRS, the bank shall 
+adhere to the provisions of Income Tax Rules 114F, 114G and 114H and 
+determine whether they are a Reporting Financial Institution as defined in Income 
+Tax Rule 114F and if so, shall take following steps for complying with the 
+reporting requirements: 
+(1) Register on the related e- filing portal of Income Tax Department as 
+Reporting Financial Institutions at the link 
+https://incometaxindiaefiling.gov.in/ post login --> My Account --> Register 
+as Reporting Financial Institution. 
+(2) Submit online reports by using the digital signature of the ‘Designated 
+Director’ by either uploading the Form 61B or ‘NIL’ report, for which, the 
+schema prepared by Central Board of Direct Taxes (CBDT) shall be 
+referred to. 
+ Explanation: REs shall refer to the spot reference rates published by 
+Foreign Exchange Dealers’ Association of India (FEDAI) on their website at 
+ 
+3 Inserted with effect from December 29, 2025 vide Reserve Bank of India (Small Finance Banks – 
+Know Your Customer) Amendment Directions, 2025 dated December 29, 2025

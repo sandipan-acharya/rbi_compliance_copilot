@@ -1,0 +1,33 @@
+23 
+ 
+ 
+Chapter V – Customer Identification Procedure (CIP) 
+21. The AIFI shall undertake identification of customers in the following cases: 
+(1) Commencement of an account-based relationship with the customer. 
+(2) Carrying out any international money transfer operations for a person who is 
+not an account holder of the AIFI. 
+(3) When there is a doubt about the authenticity or adequacy of the customer 
+identification data it has obtained. 
+(4) When the AIFI has reason to believe that a customer (account-based or walk-
+in) is intentionally structuring a transaction into a series of transactions 
+below the threshold of ₹50,000. 
+(5) The AIFI shall ensure it does not seek introductions while opening accounts. 
+22. For the purpose of verifying the identity of customers at the time of 
+commencement of an account -based relationship or while carrying out an 
+occasional transaction of an amount equal to or exceeding ₹ 50,000, whether 
+conducted as a single transaction or several transactions that appear to be 
+connected, or any international money transfer operations, the AIFI, shall at its 
+option, rely on customer due diligence done by a third party, subject to the 
+following conditions: 
+(1) The AIFI obtains the records or information of the customer due diligence 
+carried out by the third party immediately from the third party or from the 
+Central KYC Records Registry. 
+(2) The AIFI shall take adequate steps to satisfy itself that the third party will 
+make copies of identification data and other relevant documentation relating 
+to the customer due diligence requirements available, upon request, without 
+delay. 
+(3) A regulator regulates, supervises, or monitors the third party, and the third 
+party has measures in place for compliance with customer due diligence 
+and record- keeping requirements in line with the requirements and 
+obligations under the PML Act. 
+(4) The AIFI shall ensure that the third party is not based in a country or

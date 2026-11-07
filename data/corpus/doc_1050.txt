@@ -1,0 +1,28 @@
+46 
+ 
+account. The NBFC may carry out the positive confirmation by means of such as 
+address verification letter, contact point verification, deliverables, etc. 
+(4) The NBFC shall obtain PAN from the customer and the PAN shall be verified 
+from the verification facility of the issuing authority. 
+(5) First transaction in such accounts shall be a credit from existing KYC-complied 
+bank account of the customer. 
+(6) The NBFC shall categorise such customers as high-risk customers and shall 
+subject accounts opened in non-face-to-face mode to enhanced monitoring until  the 
+identity of the customer is verified in face-to-face manner or through V-CIP. 
+45. Accounts of Politically Exposed Persons (PEPs): 
+(1) The NBFC shall have the option of establishing a relationship with PEPs 
+(whether as customer or beneficial owner) provided that, apart from performing normal 
+customer due diligence: 
+(i) The NBFC has in place appropriate risk management systems to determine 
+whether the customer or the beneficial owner is a PEP; 
+(ii) The NBFC shall take reasonable measures for establishing the source of funds 
+/ wealth; 
+(iii) The NBFC shall obtain approval to open an account for a PEP from the senior 
+management; 
+(iv)  The NBFC subjects all such accounts to enhanced monitoring on an on-going 
+basis; 
+(v) in the event of an existing customer or the beneficial owner of an existing 
+account subsequently becoming a PEP, the NBFC obtains the senior management’s 
+approval to continue the business relationship; 
+(2) These instructions shall also apply  to family members or close associates of 
+PEPs.

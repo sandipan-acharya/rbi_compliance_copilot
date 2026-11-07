@@ -1,0 +1,8 @@
+40 
+ 
+46. The ARC shall ensure that in case of customers who are non-profit organisations, 
+the details of such customers are registered on the DARPAN Portal of NITI Aayog.  If 
+they are not registered, the ARC shall register the details on the DARPAN Portal. The 
+ARC shall also maintain such registration records for a period of five years after the  
+business relationship between the customer and the ARC has ended or the account 
+has been closed, whichever is later.

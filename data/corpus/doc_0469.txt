@@ -1,0 +1,34 @@
+11 
+ 
+ 
+(v) ‘Customer Due Diligence (CDD)’ means identifying and verifying the 
+customer and the beneficial owner using reliable and independent 
+sources of identification. 
+Explanation: The CDD, at the time of commencement of an account -
+based relationship or while carrying out occasional transaction of an 
+amount equal to or exceeding ₹50,000, whether conducted as a single 
+transaction or several transactions that appear to be connected, or any 
+international money transfer operations, shall include: 
+(a) Identification of the customer, verification of their identity using 
+reliable and independent  sources of identification, obtaining 
+information on the purpose and intended nature of the business 
+relationship, where applicable 
+(b) Taking reasonable steps to understand the nature of the customer's 
+business, and its ownership and control; 
+(c) Determining whether a customer is acting on behalf of a beneficial 
+owner, and identifying the beneficial owner and taking all steps to 
+verify the identity of the beneficial owner, using reliable and 
+independent sources of identification. 
+(vi) ‘Customer identification’ means undertaking the process of CDD. 
+(vii) ‘FATCA’ means Foreign Account Tax  Compliance Act of the United 
+States of America (USA) which, inter alia, requires foreign financial 
+institutions to report about financial accounts held by U.S. taxpayers or 
+foreign entities in which U.S. taxpayers hold a substantial ownership 
+interest. 
+(viii) ‘IGA’ means Inter Governmental Agreement between the Governments 
+of India and the USA to improve international tax compliance and to 
+implement FATCA of the USA. 
+(ix) ‘KYC Templates’ means templates prepared to facilitate collating and 
+reporting KYC data to the CKYCR, for individuals and legal entities. 
+(x) ‘Non-face-to-face customers’ means customers who open accounts 
+without visiting the branch / offices of the AIFI or meeting the officials of

@@ -1,0 +1,34 @@
+upon receiving the request for a wire transfer on behalf of the 
+originator. 
+(j) Originator: Originator refers to the account holder who allows 
+the wire transfer from that account, or where there is no account, 
+the natural or legal person that places the order with the ordering 
+financial institution to perform the wire transfer. 
+(k) Serial Payment : Serial Payment refers to a direct sequential 
+chain of payment where the wire transfer and accompanying 
+payment message travel together from the ordering financial 
+institution to the beneficiary financial institution directly or through 
+one or more intermediary financial institutions (e.g., 
+correspondent banks). 
+(l) Straight-through Processing : Straight -through processing 
+refers to payment transactions that are conducted electronically 
+without the need for manual intervention. 
+(m) Unique Transaction Reference Number: Unique transaction 
+reference number refers to a combination of letters, numbers or 
+symbols, a payment service provider determines, in accordance 
+with the protocols of the payment and settlement system or 
+messaging system used for the wire transfer. 
+(n) Wire Transfer: Wire transfer refers to any transaction carried out 
+on behalf of an originator through a financial institution by 
+electronic means with a view to making an amount of funds 
+available to a beneficiary at a beneficiary financial institution, 
+irrespective of whether the originator and the beneficiary are the 
+same person. 
+(3) Unless defined herein, all other expressions shall have the same meaning as 
+has been assigned to them under the Banking Regulation Act, 1949, the 
+Reserve Bank of India Act, 1935, the Prevention of Money Laundering Act, 
+2002, the Prevention of Money Laundering (Maintenance of Records) Rules, 
+2005, the Aadhaar (Targeted Delivery of Financial and Other Subsidies, 
+Benefits and S ervices) Act, 2016 and regulations made thereunder, any 
+statutory modification or re-enactment thereto or as used in commercial 
+parlance, as the case may be.

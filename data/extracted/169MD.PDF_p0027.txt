@@ -1,0 +1,31 @@
+of Aadhaar number is not required as per proviso (i) above. 
+Explanation 2: A bank official, business correspondent, or business facilitator can 
+perform b iometric-based e- KYC authentication, including Aadhaar Face 
+Authentication. 
+Explanation 3: The bank shall ensure that the use of Aadhaar, proof of possession of 
+Aadhaar etc., is in accordance with the Aadhaar (Targeted Delivery of Financial and 
+Other Subsidies Benefits and Services) Act, 2016 and the regulations made 
+thereunder. 
+Explanation 4: Aadhaar number is not mandatory for purposes of KYC. However, in 
+case the customer is desirous of receiving any benefit or subsidy under any scheme 
+notified under section 7 of the Aadhaar (Targeted Delivery of Financial and Other 
+subsidies, Benefits and Services) Act, 2016 (18 of 2016), the customer shall provide 
+the Aadhaar number to the bank. In other cases, customers may provide the Aadhaar 
+number voluntarily. 
+24. Digital KYC Process: 
+(1) The bank shall develop an application for digital KYC process and make it available 
+at customer touch points for undertaking KYC of its customers and shall undertake the 
+KYC process only through this authenticated application. 
+(2) The bank shall control the access to the Application and shall ensure that 
+unauthorised persons do not use it . Authorised officials shall access the Application 
+only through a login- id and password or a Live OTP or Time OTP controlled 
+mechanism that the bank provides. 
+(3) The customer, for the purpose of KYC, shall visit the location of the authorise d 
+official of the bank or vice -versa. The original OVD shall be in possession of the 
+customer. 
+(4) The bank shall ensure that the authorised officer takes a Live photograph of the 
+customer and embeds the same photograph in the Customer Application Form (CAF). 
+Further, the bank’s system Application shall put a watermark in readable form , 
+containing the CAF number, GPS coordinates, authori sed official’s name, unique 
+employee code (which the bank assigns ) and d ate (DD:MM:YYYY) and time stamp 
+(HH:MM:SS), on the captured live photograph of the customer.

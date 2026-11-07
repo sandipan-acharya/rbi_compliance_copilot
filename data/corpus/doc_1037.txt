@@ -1,0 +1,30 @@
+33 
+ 
+(vi) The authorised official of the NBFC performing the V -CIP shall record audio 
+and video as well as capture a photograph of the customer present for identification 
+and obtain the identification information using any one of the following: 
+(a) OTP based Aadhaar e-KYC authentication. 
+(b) Offline Verification of Aadhaar for identification. 
+(c) KYC records downloaded from CKYCR, in accordance with paragraph 62 , 
+using the KYC identifier provided by the customer. 
+(d) Equivalent e- document of Officially Valid Documents (OVDs) including 
+documents issued through DigiLocker. 
+(vii) The NBFC shall ensure to redact or blackout the Aadhaar number in terms of 
+paragraph 23. 
+(viii) In case of offline verification of Aadhaar using XML file or Aadhaar Secure QR 
+Code, the NBFC shall ensure that the XML file or QR code generation date is not older 
+than three working days from the date of carrying out V-CIP. 
+(ix) Further, in line with the pres cribed period of three working days for usage of 
+Aadhaar XML file / Aadhaar QR code, the NBFC shall ensure that it undertakes video 
+process of the V -CIP within three working days of downloading / obtaining the 
+identification information through CKYCR / Aadhaar authentication / equivalent e-
+document, if in the rare cases, the entire process cannot be completed at one go or 
+seamlessly. However, the NBFC shall ensure that no incremental risk is added due to 
+this. 
+(x) If the address of the customer is different from that indicated in the OVD, the 
+NBFC shall capture suitable records of the current address, as per the existing 
+requirement. The NBFC shall ensure that it also confirms the economic and financial 
+profile / information submitted by the customer from the customer undertaking the V -
+CIP in a suitable manner. 
+(xi) The NBFC shall capture a clear image of PAN card displayed by the customer 
+during the process, except in cases where e- PAN is provided by the customer. The

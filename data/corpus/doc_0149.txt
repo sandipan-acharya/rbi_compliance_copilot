@@ -1,0 +1,35 @@
+44 
+ 
+from the customer in case of no change in KYC information or change 
+only in the address details through an authorised BC of the bank. The 
+bank shall enable its BC systems for recording these self -
+declarations and supporting documents thereof in electronic form in 
+the bank’s systems. 
+The bank shall obtain the self -declaration including the supporting 
+documents, if required, in the electronic mode from the c ustomer 
+through the BC, after successful biometric based e- KYC 
+authentication. Until the bank makes an option available in the 
+electronic mode, the customer may submit such declaration in 
+physical form. The BC shall authenticate the self -declaration and 
+supporting documents submitted in person by the customer and 
+promptly forward the same to the concerned bank branch. The BC 
+shall provide the customer an acknowledgment of receipt of such 
+declaration /submission of documents. 
+The bank shall update the customer’s KYC records and intimate the 
+customer once the records get updated in the system, as required 
+under clause (5) of para 41 of the Direction. It is, however, reiterated 
+that the concerned bank retains the ultimate responsibility for periodic 
+updation of KYC. 
+(v) Accounts of customers, who were minor at the time of opening 
+account, on their becoming major: In case of customers for whom the 
+bank opened an account when they were minors, the bank shall 
+obtain fresh photographs upon their becoming a major and, at  that 
+time, shall ensure that CDD documents as per the current CDD 
+standards are available. Wherever required, the bank may carry out 
+fresh KYC of such customers, i.e., customers for whom it opened 
+account when they were minor, upon their becoming a major. 
+(vi) The bank may use Aadhaar OTP based e- KYC in non- face-to-face 
+mode for   updation / periodic updation.  To clarify, conditions   
+stipulated  in paragraph 24 are not applicable in case of updation / 
+periodic updation of KYC through Aadhaar OTP based e-KYC in non-
+face to face mode.

@@ -1,0 +1,5 @@
+transactions and activities which appear unusual, if the bank has done any such 
+analysis. 
+55. To identify and report suspicious transactions effectively, the bank shall 
+implement robust software that generates al erts when transactions are 
+inconsistent with a customer's risk categorisation and updated profile.

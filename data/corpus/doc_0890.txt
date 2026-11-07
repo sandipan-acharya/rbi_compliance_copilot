@@ -1,0 +1,33 @@
+74 
+ 
+intermediary bank shall keep a record, for at least five years, of 
+all the information received from the ordering financial institution 
+or another intermediary bank. 
+(c) Intermediary bank shall take reasonable measures to identify 
+cross- border wire transfers that lack required originator 
+information or required beneficiary information. Such measures 
+should be consistent with straight-through processing. 
+(d) Intermediary bank shall have effective risk -based policies and 
+procedures for determining:  
+a. when to execute, reject, or suspend a wire transfer lacking 
+required originator or required beneficiary information; and  
+b. the appropriate follow-up action including seeking further 
+information and if the transaction is found to be suspicious, 
+reporting to FIU-IND in accordance with the PML Rules. 
+(iii)  Beneficiary bank: 
+(a) Beneficiary bank shall take reasonable measures, including post-
+event monitoring or real-time monitoring where feasible, to identify 
+cross- border wire transfers and qualifying domestic wire transfers 
+{viz., transactions as per sub clauses (iii) and (iv) of clause 1 
+above}, that lack required originator informatio n or required 
+beneficiary information. 
+(b) Beneficiary bank shall have effective risk -based policies and 
+procedures for determining: (a) when to execute, reject, or 
+suspend a wire transfer lacking required originator or required 
+beneficiary information; and (b) the appropriate follow -up action 
+follow-up action including seeking further information and if the 
+transaction is found to be suspicious, reporting to FIU -IND in 
+accordance with the PML Rules. 
+(iv) Money Transfer Service Scheme (MTSS)  providers and other 
+banks, shall comply with all of the relevant requirements of this 
+paragraph, whether they are providing services directly or through their

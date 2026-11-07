@@ -1,0 +1,61 @@
+Master Directions - Priority Sector Lending – Targets and Classification - 2025 
+ 
+ 
+3  
+ 
+v. Housing  
+vi. Social Infrastructure  
+vii. Renewable Energy  
+viii. Others 
+ 
+The details of eligible activities under the above categories are specified in Chapter 
+III. 
+ 
+ 
+6. Computation of Adjusted Net Bank Credit (ANBC) 
+6.1   For the purpose of priority sector lending, ANBC shall be computed as follows: 
+Bank Credit in India [as prescribed in item No.VI of Form `A’ under Section 
+42(2) of the RBI Act, 1934] 
+I 
+Bills rediscounted with RBI and other approved Financial Institutions II 
+Net Bank Credit (NBC)* III(I-II) 
+Outstanding Deposits under RIDF and other eligible funds with NABARD, 
+NHB, SIDBI and MUDRA Ltd in lieu of non-achievement of priority sector 
+lending targets/sub-targets + outstanding PSLCs 
+IV 
+Eligible amount for exemptions on issuance of long -term bonds for 
+infrastructure and affordable housing as per [Reserve Bank of India 
+(Resource Raising Norms) Directions, 2025 as applicable to Commercial 
+Banks and Small Finance Banks]2 
+V 
+[Advances extended in India out of the fresh FCNR (B) / NRE deposits 
+(including deposits that are renewed upon maturity), qualifying for 
+exemption from Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio 
+(SLR) requirements, as per the Reserve Bank of India (Cash Reserv e 
+Ratio and Statutory Liquidity Ratio) Fourth Amendment Directions dated 
+August 25, 2026, as applicable to various banks.  
+Note: The amount to be excluded from ANBC for computation of priority 
+sector targets shall not exceed the outstanding FCNR (B) / NRE deposits 
+eligible for exemption from maintenance of CRR / SLR in terms of the 
+above Amendment Directions.]3 44 
+VI 
+Investments made by public sector banks in the Recapitalization Bonds 
+floated by Government of India 
+VII 
+Other investments eligible to be treated as priority sector (e.g. 
+investments in securitisation notes) 
+VIII 
+Bonds/debentures in Non-SLR categories under HTM category  IX 
+For UCBs: Investments made after August 30, 2007 in permitted non SLR 
+bonds held under ‘Held to Maturity’ (HTM) category 
+X 
+ANBC (Other than UCBs)                                     III + IV- (V+VI+VII) +VIII + IX 
+ANBC for UCBs                                                    III + IV - VI + X                         
+ 
+2 Substituted vide Reserve Bank of India (Priority Sector Lending –  Targets and Classification) (Amendment) 
+Directions, 2026 dated January 19, 2026 
+3 Deleted vide Reserve Bank of India (Priority Sector Lending –  Targets and Classification) Second Amendment 
+Directions, 2026 dated August 07, 2026 
+44 Modified vide Reserve Bank of India (Priority Sector Lending – Targets and Classification) Second Amendment 
+Directions, 2026 dated August 07, 2026 and Reserve Bank of India (Priority Sector Lending –  Targets and 
+Classification) Third Amendment Directions, 2026 dated September 11, 2026

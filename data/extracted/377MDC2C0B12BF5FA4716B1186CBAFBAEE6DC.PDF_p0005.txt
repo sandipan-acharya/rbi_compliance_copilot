@@ -1,0 +1,30 @@
+obtain the original certified copy, certified by any one of the following: 
+(a) authorised officials of overseas branches of Scheduled Commercial Banks 
+registered in India, 
+(b) branches of overseas banks with whom Indian banks have relationships, 
+(c) Notary Public abroad, 
+(d) Court Magistrate, 
+(e) Judge, 
+(f) Indian Embassy / Consulate General in the country where the non- resident 
+customer resides. 
+(vi) ‘Central KYC Records Registry (CKYCR) ’ means an entity defined under Rule 
+2(1) of the Rules, to receive, store, safeguard and retrieve the KYC records in digital 
+form of a customer. 
+(vii) ‘Designated Director ’ means a person whom the ARC designates to ensure 
+overall compliance with the obligations imposed under chapter IV of the PML Act and 
+the Rules and shall include the Managing Director or a whole- time Director, duly 
+authorized by the Board of Directors. 
+Explanation: For the purpose of this clause, the terms ‘Managing Director’ and ‘Whole-
+time Director’ shall have the meaning assigned to them in the Companies Act, 2013. 
+(viii) ‘Digital KYC’ means the capturing live photo of the customer and officially valid 
+document or the proof of possession of Aadhaar (where offline verification cannot be 
+carried out), along with the latitude and longitude of the location where such live photo 
+is being taken by an authorized officer of the ARC, as per the provisions contained in 
+the Act. 
+(ix) ‘Digital Signature’ shall have the same meaning as assigned to it in clause (p) of 
+sub-section (1) of section (2) of the Information Technology Act, 2000 (21 of 2000). 
+(x) ‘Equivalent e-document’ means an electronic equivalent of a document issued 
+by the issuing authority of such document with its valid digital signature, including 
+documents issued to the digital locker account of the customer as per rule 9 of the 
+Information Technology (Preservation and Retention of Information by Intermediaries 
+Providing Digital Locker Facilities) Rules, 2016.

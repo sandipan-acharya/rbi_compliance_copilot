@@ -1,0 +1,13 @@
+50 
+ 
+ 
+Explanation: For the purpose of this paragraph, the expressions ‘records 
+pertaining to the identification’, ‘identification records’, etc., shall 
+include updated records of the identification data, account files, 
+business correspondence and results of any analysis undertaken. 
+48. The AIFI shall ensure that in case of customers who are non-profit organisations, 
+the AIFI registers details of such customers on the DARPAN Portal of NITI 
+Aayog. If they are not registered, the AIFI shall register the details on the 
+DARPAN Portal. The AIFI shall also maintain such registration records for a 
+period of five years after the business relationship between the customer and the 
+AIFI has ended or the account has been closed, whichever is later.

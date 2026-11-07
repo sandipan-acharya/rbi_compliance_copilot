@@ -1,0 +1,32 @@
+43 
+ 
+(5) Additional measures: In addition to the above, the NBFC shall ensure that: 
+(i) The NBFC has customer’s KYC document as per the current CDD standards 
+available with it. This is applicable even if there is no change in customer information 
+but the documents available with the NBFC are not as per the current CDD standards. 
+Further, in case the validity of the CDD documents available with the NBFC  has 
+expired at the time of periodic updation of KYC, the NBFC shall undertake the KYC 
+process equivalent to that applicable for onboarding a new customer. 
+(ii) The NBFC verifies the Customer’s PAN details, if available, from the database 
+of the issuing authority at the time of periodic updation of KYC. 
+(iii) The NBFC provides an acknowledgment to the customer mentioning the date 
+of receipt of the relevant document(s), including self -declaration from the customer, 
+for carrying out  updation / periodic updation. Further,  the NBFC shall ensure that it 
+promptly updates the information / documents obtained from the customers at the time 
+of updation / periodic updation of KYC in its  records / database and provide an 
+intimation, mentioning the date of updation of KYC details, to the customer. 
+(iv) In order to ensure customer convenience, the NBFC may consider making 
+available the facility of updation / periodic updation of KYC at any branch, in terms of 
+their internal KYC policy duly approved by the Board of Directors of the NBFC or any 
+committee of the Board to which power has been delegated. 
+(v) The NBFC shall adopt a risk-based approach with respect to periodic updation 
+of KYC. The NBFC shall clearly specify in its internal policy, duly approved by the 
+Board of Directors of the NBFC or any committee of the Board to which power has 
+been delegated, a ny additional and exceptional measures,  it adopts that  are not 
+otherwise mandated under the above instructions, such as requirement of obtaining 
+recent photograph, requirement of physical presence of the customer, requirement of 
+periodic updation of KYC only in the branch of the NBFC where account is maintained, 
+a more frequent periodicity of KYC updation than the minimum specified periodicity 
+etc.  
+(6) The NBFC shall advise the customers that in order to comply with the PML 
+Rules, in case of any update in the documents submitted by the customer at the time

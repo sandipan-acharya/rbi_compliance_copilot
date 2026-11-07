@@ -1,0 +1,28 @@
+56 
+ 
+Chapter-X - Other Instructions 
+61. Secrecy Obligations and Sharing of Information: 
+(1) The NBFC shall maintain secrecy regarding the customer information that 
+arises  out of the contractual relationship between the NBFC and the customer. 
+(2) The NBFC shall treat information collected from customers for the purpose of 
+opening of account as confidential and shall not divulge details thereof for the purpose 
+of cross -selling, or for any other purpose without the express permission of the 
+customer. 
+(3) While considering the  requests for data / information from Government and 
+other agencies, the NBFC shall satisfy itself that the information being sought is  not 
+of such a nature as will violate the provisions of the laws relating to secrecy in the 
+transactions. 
+(4) The exceptions to the said rule shall be as under: 
+(i) Where disclosure is under compulsion of law, 
+(ii) Where there is a duty to the public to disclose, 
+(iii) Where the interest of the NBFC requires disclosure, and 
+(iv) Where the disclosure is made with the express or implied consent of the 
+customer. 
+62. Compliance with the provisions of Foreign Contribution (Regulation) Act, 
+2010: The NBFC shall ensure adherence to the provisions of Foreign Contribution 
+(Regulation) Act, 2010, and Rules made thereunder. Further, the NBFC shall also 
+ensure meticulous compliance with any instructions / communications on the matter 
+issued from time to time by the RBI based on advice received from the Ministry of 
+Home Affairs, Government of India. 
+63. CDD Procedure and sharing KYC information with Central KYC Records 
+Registry (CKYCR)

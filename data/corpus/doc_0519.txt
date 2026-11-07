@@ -1,0 +1,34 @@
+61 
+ 
+ 
+of the following: 
+(i) updated Guidance Note on FATCA and CRS 
+(ii) a press release on ‘Closure of Financial Accounts’ under Rule 114H(8) 
+64. Operation of Accounts and Money Mules: The AIFI shall strictly adhere to the 
+instructions on opening of accounts and monitoring of transactions, to minimise 
+the operations of ‘Money Mules’ that are used to launder the proceeds of fraud 
+schemes (e.g., phishing and identity theft) by criminals who gain illegal access 
+to deposit accounts by recruiting third parties that act as ‘money mules’. The AIFI 
+shall undertake diligence measures and meticulous monitoring to identify 
+accounts which are operated as Money Mules and take appropriate action, 
+including reporting of suspicious transactions to FIU -IND. Further, if it is 
+established that an account opened and operated is that of a Money Mule, but 
+STR was not filed by the concerned AIFI, it shall then be deemed that the AIFI 
+has not complied with these directions. 
+65. The AIFI shall allot Unique Customer Identification Code (UCIC) while entering 
+into new relationships with individual customers as also the existing individual 
+customers. 
+66. The AIFI shall, at their option, not issue UCIC to all walk -in / occasional 
+customers provided it is ensured that there is adequate mechanism to identify 
+such walk-in customers who have frequent transactions with them and ensure 
+that they are allotted UCIC. 
+67. Introduction of New Technologies: The AIFI shall identify and assess the ML 
+/ TF risks that may arise in relation to the development of new products and new 
+business practices, including new delivery mechanisms, and the use of new or 
+developing technologies for both new and existing products. 
+Further, the AIFI shall ensure: 
+(1) to undertake the ML / TF risk assessments prior to the launch or use of 
+such products, practices, services, technologies; and 
+(2) adoption of a risk-based approach to manage and mitigate the risks through 
+appropriate EDD measures and transaction monitoring, etc. 
+68. Correspondent Banking: The AIFI shall have a policy approved by its Boards,

@@ -1,0 +1,33 @@
+75 
+ 
+agents. The bank that control both the ordering and the beneficiary 
+side of a wire transfer shall: 
+(a) take into account all the information from both the ordering and 
+beneficiary sides in order to determine whether an STR has to be 
+filed; and 
+(b) file an STR with F IU, in accordance with the PML Rules, if a 
+transaction is found to be suspicious. 
+(3) Other Obligations: 
+(i) Obligations in respect of the bank’s engagement or involvement with 
+unregulated entities in the process of wire transfer : The bank  shall be 
+cognizant of their obligations under these instructions and ensure strict 
+compliance, in respect of engagement or involvement of any unregulated 
+entities in the process of wire transfer. More specifically, whenever there is 
+involvement of any unregulated entities in the process of wire transfers, the 
+concerned bank shall be fully responsible for information, reporting and 
+other requirements and therefore shall ensure, inter alia, that: 
+(a) there is unhindered flow of complete wire transfer information, as 
+mandated under these directions, from and through the unregulated 
+entities involved; 
+(b) the agreement / arrangement, if any, with such unregulated entities by 
+the bank clearly stipulates the obligations under wire transfer 
+instructions; and 
+(c) a termination clause is available in their agreement / arrangement, if 
+any, with such entities so that in case the unregulated entities are 
+unable to support the wire information requirements, the agreement / 
+arrangement can be terminated. Existing agreements / arrangements, 
+if any, with such entities shall be reviewed within three months to 
+ensure aforementioned requirements. 
+(ii) The bank’s responsibility while undertaking cross-border wire transfer with 
+respect to name screening (such that they do not process cross-border 
+transactions of designated persons and entities).

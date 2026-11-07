@@ -1,0 +1,28 @@
+61 
+ 
+(1) Information requirements for wire transfers for the purpose of these Directions: 
+(i)  All cross-border wire transfers shall be accompanied by accurate,  complete, 
+and meaningful originator and beneficiary information as mentioned below: 
+(a) name of the originator; 
+(b) the originator account number where such an account is used to process the 
+transaction; 
+(c) the originator’s address, or national identity number, or customer identification 
+number, or date and place of birth; 
+(d) name of the beneficiary; and 
+(e) the beneficiary account number where such an account is used to process the 
+transaction. 
+In the absence of an account, a unique transaction reference number should be 
+included which permits traceability of the transaction. 
+(ii) In case of batch transfer, where several individual cross -border wire transfers 
+from a single originator are bundled in a batch file for transmission to beneficiaries, 
+they (i.e., individual transfers) are exempted from the requirements of clause (i) above 
+in respect of originator information, provided that they include the originator’s account 
+number or unique transaction reference number, as mentioned above, and the batch 
+file contains required and accurate originator information, and full beneficiary 
+information, that is fully traceable within the beneficiary country. 
+(iii) Domestic wire transfer, where the originator is an account holder of the ordering 
+NBFC, shall be accompanied by originator and beneficiary information, as indicated 
+for cross-border wire transfers in (i) and (ii) above. 
+(iv) Domestic wire transfers of ₹ 50,000 and above, where the originator is not an 
+account holder of the ordering NBFC,  shall also be accompanied by originator and 
+beneficiary information as indicated for cross-border wire transfers.

@@ -1,0 +1,33 @@
+Chapter VI – Customer Due Diligence (CDD) Procedure 
+A. CDD Procedure in case of Individuals 
+22. For undertaking CDD, the bank shall obtain the following from an individual while 
+establishing an account -based relationship or while dealing with the individual 
+who is a beneficial owner, authorised signatory or the power of attorney holder 
+related to any legal entity: 
+(1) the Aadhaar number where, 
+(i) they are desirous of receiving any benefit or subsidy under any 
+scheme notified under section 7 of the Aadhaar (Targeted Delivery 
+of Financial and Other subsidies, Benefits and Services) Act, 2016 
+(18 of 2016); or 
+(ii) they decide to submit their Aadhaar number voluntar ily to a bank or 
+any RE notified under the first proviso to sub -section (1) of section 
+11A of the PML Act; or 
+(2) the proof of possession of Aadhaar number where the bank can carry out 
+offline verification; or 
+(3) the proof of possession of Aadhaar number where th e bank cannot carry 
+out the offline verification or any OVD or the equivalent e-document thereof 
+containing the details of their identity and address; or 
+(4) the KYC Identifier with an explicit consent to download records from 
+CKYCR; and 
+(5) the PAN or the equivalent e-document thereof or Form No. 60 as defined 
+in Income-tax Rules, 1962; and 
+(6) the bank may require such other documents including in respect of the 
+nature of business and financial status of the customer, or the equivalent 
+e-documents thereof. 
+Provided that where the customer has submitted, 
+(i) Aadhaar number under clause (1) above to a bank, or REs notified 
+under first proviso to sub- section (1) of section 11A of the PML Act, 
+such bank shall carry out authentication of the customer’s Aadhaar 
+number using UIDAI’s e-KYC authentication facility. Further, in such 
+a case, if the customer wants to provide a current address, different 
+from the address as per the identity information available in the

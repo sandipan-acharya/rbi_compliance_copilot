@@ -1,0 +1,34 @@
+28 
+ 
+(5) The bank’s Application shall have the feature that it captures only a live photograph 
+of the customer and does not capture any printed or video graphed photograph. The 
+background behind the customer while capturing live photograph shall be of white 
+colour and no other person shall come into the frame while capturing the live 
+photograph of the customer. 
+(6) Similarly, the authorised officer shall capture the live photograph of the original OVD 
+or proof of possession of Aadhaar where offline verification cannot be carried out 
+(placed horizontally), vertically from above and shall apply a water-marking in readable 
+form as mentioned above. The authorised officer shall ensure there is n o skew or tilt 
+in the mobile device while capturing the live photograph of the original documents. 
+(7) The authorised officer shall capture the live photograph of the customer and his 
+original documents in proper light so that they are clearly readable and identifiable. 
+(8) Thereafter, the authorised officer shall fill all the entries in the CAF as per the 
+documents and information furnished by the customer. In those documents where 
+Quick Response  (QR) code is available, such details may  be auto- populated by 
+scanning the QR code instead of manual filing the details. For example, in case of 
+physical Aadhaar / e-Aadhaar downloaded from UIDAI where QR code is available, 
+the details like name, gender, date of birth and address may be auto-populated by 
+scanning the QR available on Aadhaar / e-Aadhaar. 
+(9) Once the above- mentioned process is completed, a One Time Password (OTP) 
+message containing the text that ‘Please verify the details filled in form before sharing 
+OTP’ shall be sent to customer’s own mobile number. Upon successful validation of 
+the OTP, the bank will treat it as the customer’s signature on CAF. However, if the 
+customer does not have their own mobile number, the bank may use the mobile 
+number of their family / relatives / known persons for this purpose and clearly mention 
+it in the  CAF. In any case, the bank shall not use the mobile number of authori sed 
+officer registered with the bank for the customer signature. The bank shall check that 
+the mobile number used in customer signature is not the mobile number of the 
+authorised officer. 
+(10) The authorised officer shall provide a declaration about the capturing of the live 
+photograph of the customer and original document. For this purpose, the bank shall 
+verify the authorised officer with One Time Password (OTP) which will be sent to his

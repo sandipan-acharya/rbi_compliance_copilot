@@ -1,0 +1,34 @@
+46 
+ 
+ 
+modes for the purpose of this paragraph include use of digital channels such as 
+CKYCR, DigiLocker, equivalent e -document, etc., and non-  digital modes such 
+as obtaining copy of OVD certified by additional certifying authorities as allowed 
+for NRIs and PIOs. The AIFI  shall undertake the following EDD measures for 
+non-face-to-face customer onboarding (other than customer onboarding in terms 
+of paragraph 25): 
+(1) If the AIFI has introduced the process of V -CIP, it shall provide the same 
+as the first option to the customer for remote onboarding. It is reiterated that 
+the AIFI shall treat processes complying with prescribed standards and 
+procedures for V-CIP on par with face-to-face CIP for the purpose of these 
+Directions. 
+(2) In order to prevent frauds, alternate mobile numbers shall not be linked post 
+CDD with such accounts for transaction OTP, transaction updates, etc. The 
+AIFI shall permit transactions only from the mobile number used for account 
+opening. The AIFI shall have a Board-approved policy delineating a robust 
+process of due diligence for dealing with requests for change of registered 
+mobile number. 
+(3) Apart from obtaining the current address proof, the AIFI shall verif y the 
+current address through positive confirmation before allowing operations in 
+the account. The AIFI may carry out the positive confirmation by means of 
+such as address verification letter, contact point verification, deliverables, 
+etc. 
+(4) The AIFI shall obtain PAN from the customer and the PAN shall be verified 
+from the verification facility of the issuing authority. 
+(5) First transaction in such accounts shall be a credit from existing KYC -
+complied bank account of the customer. 
+(6) The AIFI shall categorise such customers as high-risk customers and shall 
+subject accounts opened in non-face-to-face mode to enhanced monitoring 
+until the identity of the customer is verified in face- to-face manner or 
+through V-CIP. 
+44. Accounts of Politically Exposed Persons (PEPs)

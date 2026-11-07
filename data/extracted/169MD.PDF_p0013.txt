@@ -1,0 +1,31 @@
+Payment Instrument Issuers (PPI Issuers) 
+(f) All authorised persons (APs) , including those who are agents of Money Transfer 
+Service Scheme (MTSS), regulated by the Regulator. 
+(xv) ‘Shell Bank’ means a bank that has no physical presence in the country in which 
+it is incorporated and licensed, and which is unaffiliated with a regulated financial group 
+that is subject to effective consolidated supervision. Physical presence means 
+meaningful mind and management located within a country. The existence simply of a 
+local agent or low-level staff does not constitute physical presence. 
+(xvi) ‘Video based Customer Identification Process (V-CIP)’: an alternative method 
+by which an authorised official of the bank conducts customer identification with facial 
+recognition and customer due diligence. This process involves a seamless, secure, 
+live, informed- consent based audio- visual interaction with the customer to obtain 
+identification information required for CDD purpose, and to ascertain the veracity of the 
+information which the customer furnished, through independent ver ification and by 
+maintaining an audit trail of the process. T he bank shall treat such processes 
+complying with prescribed standards and procedures on par with face- to-face CIP for 
+the purpose of this Direction. 
+(xvii) ‘Wire transfer’ related definitions: 
+(a) Batch transfer: A batch transfer is a transfer comprised of a number of individual 
+wire transfers that are being sent to the same financial institutions but may / may not 
+be ultimately intended for different persons. 
+(b) Beneficiary: Beneficiary refers to a natural or legal person or legal arrangement 
+whom / which the originator identifies as the receiver of the requested wire transfer. 
+(c) Beneficiary RE: It refers to a financial institution that RBI regulates, which receives 
+the wire transfer from the ordering financial institution directly or through an 
+intermediary RE and makes the funds available to the beneficiary. 
+(d) Cover Payment: Cover Payment refers to a wire transfer that combines a payment 
+message which the ordering fi nancial institution sends directly to the beneficiary 
+financial institution with the routing of the funding instruction (the cover) from the 
+ordering financial institution to the beneficiary financial institution through one or more 
+intermediary financial institutions.

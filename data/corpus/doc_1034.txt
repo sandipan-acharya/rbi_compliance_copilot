@@ -1,0 +1,30 @@
+30 
+ 
+NBFC shall clearly indicate that such accounts are opened using OTP based e- KYC 
+and other REs shall  not open accounts based on the KYC information of accounts 
+opened with OTP based e-KYC procedure in non-face- to-face mode. 
+(9) The NBFC shall have strict monitoring procedures including systems to 
+generate alerts in case of any non- compliance / violation, to ensure compliance 
+ with the above-mentioned conditions. 
+26. The NBFC may undertake V-CIP to carry out: 
+(1) CDD in case of new customer onboarding for individual customers, proprietor 
+in case of proprietorship firm, authorised signatories and Beneficial Owners  (BOs) in 
+case of Legal Entity (LE) customers. 
+(2) Provided that in case of CDD of a proprietorship firm, the NBFC shall also obtain 
+the equivalent e-document of the activity proofs with respect to the proprietorship firm, 
+as mentioned in paragraph 31 and paragraph 32, apart from undertaking CDD of the 
+proprietor. 
+(3) Conversion of existing accounts opened in non- face-to-face mode using 
+Aadhaar OTP based e-KYC authentication as per paragraph 25. 
+(4) Updation / Periodic updation of KYC for eligible customers. 
+27. The NBFC opting to undertake V -CIP, shall adhere to the following 
+minimum standards: 
+(1) V-CIP Infrastructure 
+(i) The NBFC shall have complied with the RBI guidelines on minimum baseline 
+cyber security and resilience framework for NBFCs, as updated from time to time as 
+well as other general guidelines on IT risks. The NBFC shall house the technology 
+infrastructure on its own premises and the V -CIP connection and interaction shall 
+necessarily originate from its own secured network domain.  Any technology related 
+outsourcing for the process shall  comply with relevant RBI guidelines. Where the 
+NBFC uses a cloud deployment model, it shall ensure that ownership of data in such 
+model rests with the NBFC only and all the data including video recording is transferred

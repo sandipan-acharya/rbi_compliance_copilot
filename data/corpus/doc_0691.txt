@@ -1,0 +1,32 @@
+32 
+other account has been opened nor will be opened using OTP based KYC 
+in non-face-to-face mode with any other RE. Further, while uploading KYC 
+information to CKYCR, bank shall clearly indicate that such accounts are 
+opened using OTP based e- KYC and other REs shall not open accounts 
+based on the KYC information of accounts opened with OTP based e-KYC 
+procedure in non-face- to-face mode. 
+(8) The bank shall have strict monitoring procedures including systems to 
+generate alerts in case of any non- compliance / violation, to ensure 
+compliance with the above-mentioned conditions. 
+26. The bank may undertake V-CIP to carry out: 
+(1) CDD in case of new customer onboarding for individual customers, 
+proprietor in case of proprietorship firm, authorised signatories and 
+Beneficial Owners (BOs) in case of Legal Entity (LE) customers. 
+Provided that in case of CDD of a proprietorship firm , the bank shall also 
+obtain the equivalent e -document of the activity proofs with respect to the 
+proprietorship firm, as mentioned in paragraph 31 and paragraph 32, apart 
+from undertaking CDD of the proprietor. 
+(2) Conversion of existing accounts opened in non- face-to-face mode using 
+Aadhaar OTP based e-KYC authentication as per paragraph 25. 
+(3) Updation / Periodic updation of KYC for eligible customers. 
+27. The bank opting to undertake V -CIP, shal l adhere to the following minimum 
+standards: 
+(1) V-CIP Infrastructure 
+(i) The bank shall have complied with the RBI guidelines on minimum 
+baseline cyber security and resilience framework for banks, as 
+updated from time to time as well as other general guidelines on IT 
+risks. The bank shall house the technology infrastructure in its own 
+premises and the V-CIP connection and interaction shall necessarily 
+originate from its own secured network domain. Any technology 
+related outsourcing for the process shall comply with relevant RBI 
+guidelines. Where the bank uses a cloud deployment model, it shall

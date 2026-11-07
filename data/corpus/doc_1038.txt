@@ -1,0 +1,30 @@
+34 
+ 
+NBFC shall verify the PAN details from the database of the issuing authority, including 
+through DigiLocker. 
+(xii) The use of printed copy of equivalent e- document, including an e-PAN is not 
+valid for the V-CIP. 
+(xiii) The authorised official of the NBFC shall ensure that photograph of the 
+customer in the Aadhaar  / OVD and PAN / e-PAN matches with the customer 
+undertaking the V -CIP and the identification details in Aadhaar  / OVD and PAN / e-
+PAN shall match with the details provided by the customer. 
+(xiv) The NBFC shall make all accounts opened through V-CIP operational only after 
+subjecting them to concurrent audit to ensure the integrity of process and its 
+acceptability of its outcome. 
+(xv) The NBFC shall appropriately comply with all matters not specified under the 
+paragraph but required under other statutes such as the Information Technology (IT) 
+Act. 
+(3) V-CIP Records and Data Management 
+(i)   The NBFC shall store the entire data and recordings of V-CIP in a system / 
+system located in India. The NBFC shall ensure that the video recording is stored in a 
+safe and secure manner and bears the date and time stamp that affords easy historical 
+data search. The extant instructions on record management, as stipulated in the se 
+directions, shall also apply to V-CIP. 
+(ii)   The NBFC shall preserve t he activity log along with the credentials of the 
+official performing the V-CIP. 
+28. Simplified procedure for opening accounts by NBFCs:  In case a person who 
+desires to open an account is not able to produce documents, as specified in paragraph 
+23, NBFCs may at their discretion open accounts subject to the following conditions: 
+(i) The NBFC shall obtain a self-attested photograph from the customer. 
+(ii) The designated officer of the NBFC certifies under his signature that the person 
+opening the account has affixed his signature or thumb impression in his presence.

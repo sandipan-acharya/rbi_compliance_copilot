@@ -1,0 +1,35 @@
+37 
+ 
+(viii) The bank shall monitor the account, and when there is suspicion of 
+money laundering or financing of terrorism activities or other high-risk 
+scenarios, the bank shall establish the identity of the customer as per 
+paragraph 22 or paragraphs 25 and 26. 
+(ix) The bank shall not allow foreign remittance to be credited into the 
+account unless it fully establishes the identity of the customer as per 
+paragraph 22 or paragraph 25 and 26. 
+Provided that if the bank renders any account ineligible for being classified as a 
+small account due to credits / balance in the account exceeding the permissible 
+limits, the bank may allow withdrawal s within the limit prescribed for small 
+accounts where the limits thereof have not been breached. 
+Further provided that  BSBD Accounts (PMJDY accounts are akin to BSBDAs), 
+which are not KYC compliant accounts, shall be treated as ‘Small Accounts’ and 
+are subjected to the limitations applicable to such accounts. Hence, for allowing 
+normal operations in such accounts, the procedures explained above are to be 
+complied with. If any account is rendered ineligible for being classified as a small 
+account due to cre dits/balance in the account exceeding the permissible limits, 
+withdrawals may be allowed within the limit prescribed for small accounts where 
+the limits thereof have not been breached. If the bank renders any account 
+ineligible for being classified as a sm all account due to credits / balance in the 
+account exceeding the permissible limits, the bank may allow withdrawals within 
+the limit prescribed for small accounts where the limits thereof have not been 
+breached. 
+28. KYC verification once done by one branch / office of the bank shall be valid for 
+transfer of the account to any other branch / office of the same bank, provided 
+the bank has already completed the full KYC verification for the concerned 
+account and the same is not due for periodic updation. 
+B. CDD Measures for Sole Proprietary firms 
+29. For opening an account in the name of a sole proprietary firm, the bank shall 
+carry out the CDD of the individual (proprietor). 
+30. In addition to the above, the bank shall also obtain any two of the following 
+documents or the equivalent e-documents thereof as proof of business / activity 
+in the name of the proprietary firm:

@@ -1,0 +1,34 @@
+(ii) In case of batch transfer, where several individual cross -border wire 
+transfers from a single originator are bundled in a batch file for 
+transmission to beneficiaries, they (i.e., individual transfers) are 
+exempted from the requirements of clause (i) above in respect of 
+originator information, provided that they include the originator’s 
+account number or unique transaction reference number, as 
+mentioned above, and the batch file contains required and accurate 
+originator information, and full beneficiary information, that is fully 
+traceable within the beneficiary country. 
+(iii) Domestic wire transfer, where the originator is an account holder of 
+the ordering bank, shall be accompanied by originator and beneficiary 
+information, as indicated for cross -border wire transfers in (i) and (ii) 
+above. 
+(iv) Domestic wire transfers of ₹50,000 and above, where the originator is 
+not an account holder of the ordering bank, shall also be accompanied 
+by originator and beneficiary information as indicated for cross-border 
+wire transfers. 
+In case of domestic wire transfers below ₹50,000 where the originator 
+is not an account holder of the ordering banks and where the 
+information accompanying the wire transfer can be made available to 
+the beneficiary RE and appropriate authorities by other means, it is 
+sufficient for the ordering bank to include a unique transaction 
+reference number, provided that this number or identifier will permit 
+the transaction to be traced back to the originator or the beneficiary. 
+ 
+The ordering bank shall make the information available within three 
+working / business days of receiving the request from the intermediary 
+RE, beneficiary RE, or from appropriate competent authorities. 
+(v) The bank shall ensure that all the information on the wire transfers shall 
+be immediately made available to appropriate law enforcement 
+authorities, prosecuting / competent authorities as well as FIU-IND on 
+receiving such requests with appropriate level provisions. 
+(vi) The wire transfer instructions are not intended to cover the following 
+types of payments:

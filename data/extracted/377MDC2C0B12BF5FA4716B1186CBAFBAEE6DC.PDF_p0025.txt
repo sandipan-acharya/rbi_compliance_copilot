@@ -1,0 +1,31 @@
+(ii) The ARC shall ensure end-to-end encryption of data between customer device and 
+the hosting point of the V -CIP application, as per appropriate encryption standards. 
+The ARC shall record the customer consent in an auditable and alteration- proof 
+manner. 
+(iii) The V-CIP infrastructure / application shall be capable of preventing connection 
+from IP addresses outside India or from spoofed IP addresses. 
+(iv) The video recordings shall contain the live GPS co-ordinates (geo-tagging) of the 
+customer undertaking the V-CIP and date and time stamp. The quality of the live video 
+in the V-CIP shall be adequate to allow identification of the customer beyond doubt. 
+(v) The application shall have components with face liveness / spoof detection as well 
+as face matching technology with high degree of accuracy, even though the ultimate 
+responsibility of any customer identification rests with the ARC. 
+Explanation: Making specific facial gestures, like blinking of eyes, smiling, frowning, 
+etc. is not mandatory for liveness check. The ARC shall take due cognizance of special 
+needs, if any, of the customer during liveness check. 
+(vi) The ARC may use appropriate artificial intelligence (AI) technology to ensure that 
+the V-CIP is robust. 
+(vii) Based on experience of detected / attempted / ‘near-miss’ cases of forged identity, 
+the ARC shall regularly update the technology infrastructure including application 
+software as w ell as workflows. The ARC shall report any detected case of forged 
+identity through V-CIP as a cyber event under extant regulatory guidelines. 
+(viii) The ARC shall subject the V-CIP infrastructure to necessary tests such as 
+Vulnerability Assessment, Penetration t esting and a Security Audit to ensure its 
+robustness and end-to-end encryption capabilities. The ARC shall mitigate any critical 
+gap reported under this process before rolling out its implementation. The empaneled 
+auditors of Indian Computer Emergency Response Team (CERT- In) shall conduct 
+such tests. Such tests shall also be carried out periodically in conformance to internal 
+/ regulatory guidelines. 
+(ix) The ARC shall subject the V -CIP application software and relevant APIs / 
+webservices to appropriate testing of functional, performance, and maintenance 
+strength before being used in live environment. The ARC shall roll out the application

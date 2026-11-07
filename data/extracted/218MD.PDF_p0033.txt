@@ -1,0 +1,31 @@
+ensure that ownership of data in such model rests with the bank only 
+and all the data including video recording is transferred to the bank’s 
+exclusively owned / leased server(s) including cloud server, if any, 
+immediately after the V -CIP pr ocess is completed and the cloud 
+service provider or third-party technology provider assisting the V-CIP 
+shall retain no data. 
+(ii) The bank shall ensure end- to-end encryption of data between 
+customer device and the hosting point of the V-CIP application, as per 
+appropriate encryption standards. The bank shall record the customer 
+consent in an auditable and alteration-proof manner. 
+(iii) The V-CIP infrastructure / application shall be capable of preventing 
+connection from IP addresses outside India or from spoofed IP 
+addresses. 
+(iv) The video recordings shall contain the live GPS co- ordinates (geo-
+tagging) of the customer undertaking the V -CIP and date and time 
+stamp. The quality of the live video in the V-CIP shall be adequate to 
+allow identification of the customer beyond doubt. 
+(v) The application shall have components with face liveness / spoof 
+detection as well as face matching technology with high degree of 
+accuracy, even though the ultimate responsibility of any customer 
+identification rests with the bank. 
+Explanation: Making specific facial gestures, like blinking of eyes, 
+smiling, frowning, etc. is not mandatory for liveness check. The bank 
+shall take due cognizance of special needs, if any, of the customer 
+during liveness check. 
+(vi) The bank may use appropriate artificial intelligence (AI) technology to 
+ensure that the V-CIP is robust. 
+(vii) Based on experience of detected / attempted / ‘near -miss’ cases of 
+forged identity, the bank shall regularly update the technology 
+infrastructure including application software as well as workflows. The 
+bank shall report any detected case of forged identity through V -CIP

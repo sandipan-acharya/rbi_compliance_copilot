@@ -1,0 +1,31 @@
+determine from publicly available information the reputation of the 
+respondent bank and the quality of supervision, inc luding whether it has 
+been subjected to a ML / TF investigation or regulatory action. The bank 
+shall assess the respondent bank’s AML / CFT controls. 
+(2) The information gathered in relation to the nature of business of the 
+respondent bank shall include information on management, major business 
+activities, purpose of opening the account, identity of any third-party entities 
+that will use the correspondent banking services, regulatory / supervisory 
+framework in the respondent bank’s home country among other relevant 
+information. 
+(3) The bank shall obtain the prior approval from senior management for 
+establishing new correspondent banking relationships. However, the bank 
+shall also take post facto- approval of the Board or the Committee 
+empowered for this purpose. 
+(4) The bank shall clearly document and understand the respective AML / CFT 
+responsibilities of institutions involved. 
+(5) In the case of payable-through-accounts, the correspondent bank shall be 
+satisfied that the respondent bank has conducted CDD on the customer s 
+having direct access to the accounts of the correspondent bank and is 
+undertaking ongoing 'due diligence' on them. 
+(6) The correspondent bank shall ensure that the respondent bank is able to 
+provide the relevant CDD information immediately on request. 
+(7) The bank shall not enter into or continue a correspondent relationship with 
+a shell bank. 
+(8) The bank shall ensure that the respondent banks do not permit their 
+accounts to be used by shell banks. 
+(9) The bank shall be cautious of correspondent banking relationships wi th 
+institutions located in jurisdictions which have strategic deficiencies or have 
+not made sufficient progress in implementation of FATF 
+Recommendations. 
+(10) The bank shall ensure that respondent banks have KYC / AML policies and

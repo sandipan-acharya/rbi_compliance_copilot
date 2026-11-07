@@ -1,0 +1,33 @@
+illness or infirmity on account of old age or otherwise, and such like causes. 
+However, the bank shall subject such accounts to enhanced monitoring. 
+ 
+Provided further that if a customer having an existing account-based relationship 
+with a bank gives in writing to the bank that they do not want to submit their PAN 
+or equivalent e- document thereof or Form No. 60, the bank shall close the 
+account and all obligations due in relation to the account shall be appropriately 
+settled after establishing the identity of the customer by obtaining the 
+identification documents as applicable to the customer. 
+ 
+Explanation: For the purpose of this paragraph, ‘temporary ceasing of operations’ 
+in relation to an account shall mean the temporary suspension of all transactions 
+or activities in relation to that account by the bank till such time the customer 
+complies with the provisions of this paragraph. In case of asset accounts such 
+as loan accounts, for the purpose of ceasing the operation in the account, only 
+credits shall be allowed. 
+F. Enhanced and Simplified Due Diligence Procedure 
+F.1 Enhanced Due Diligence 
+43. Enhanced Due Diligence (EDD) for non- face-to-face customer onboarding 
+(other than customer onboarding in terms of paragraph 24 ): Non-face-to-
+face onboarding facilitates the bank to establish a relationship with the customer 
+without meeting the customer physically or through V-CIP. Such non-face-to-face 
+modes for the purpose of this paragraph include use of digital channels such as 
+CKYCR, DigiLocker, equivalent e-document, etc., and non- digital modes such 
+as obtaining copy of OVD certified by additional certifying authorities as allowed 
+for NRIs and PIOs. The bank shall undertake the following EDD measures for 
+non-face-to-face customer onboarding (other than customer onboarding in terms 
+of paragraph 24): 
+(1) If the bank has introduced the process of V -CIP, it shall provide the same 
+as the first optio n to the customer for remote onboarding. It is reiterated 
+that the bank shall treat processes complying with prescribed standards 
+and procedures for V -CIP on par with face- to-face CIP for the purpose of 
+these Directions.

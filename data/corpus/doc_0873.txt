@@ -1,0 +1,14 @@
+57 
+ 
+(7) maintain records of the identity and address of its customers, and 
+records in respect of transactions referred to in Rule 3 in hard or soft format. 
+Explanation. – For the purpose of this paragraph, the expressions ‘records 
+pertaining to the identification’ , ‘identification records ’, etc., shall include  
+updated records of the identification data, account files, business 
+correspondence and results of any analysis undertaken. 
+52. The bank shall ensure that in case of customers who are non-profit organisations, 
+the bank registers details of such customers on the DARPAN Portal of NITI 
+Aayog. If they  are not registered, the bank shall register the details on the 
+DARPAN Portal. The bank shall also maintain such registration records for a 
+period of five years after the business relationship between the customer and the 
+bank has ended or the account has been closed, whichever is later.

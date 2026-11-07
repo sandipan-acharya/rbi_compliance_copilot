@@ -1,0 +1,35 @@
+29 
+ 
+ 
+gender, date of birth and address may be auto- populated by scanning the 
+QR available on Aadhaar / e-Aadhaar. 
+(9) Once the above- mentioned process is completed, a One Time Password 
+(OTP) message containing the text that ‘Please verify the details filled in 
+form before sharing OTP’ shall be sent to customer’s own mobile number. 
+Upon successful validation of the OTP, the AIFI will treat it as the 
+customer’s signature on CAF. However, if the customer does not have their 
+own mobile number, the AIFI may use the mobil e number of their family / 
+relatives / known persons for this purpose and clearly mention it in the CAF. 
+In any case, the AIFI shall not use the mobile number of authorised officer 
+registered with the AIFI for the customer signature. The AIFI shall check 
+that the mobile number used in customer signature is not the mobile 
+number of the authorised officer. 
+(10) The authorised officer shall provide a declaration about the capturing of the 
+live photograph of the customer and original document. For this purpose, 
+the AIFI shall verify the authorised officer with One Time Password (OTP) 
+which will be sent to his mobile number registered with the AIFI . Upon 
+successful OTP validation, the AIFI shall treat it as the authorised officer’s 
+signature on the declaration. The li ve photograph of the authorised officer 
+shall also be captured in this authorised officer’s declaration. 
+(11) Subsequent to all these activities, the Application shall give information 
+about the completion of the process and submission of activation request 
+to activation officer of the AIFI, and also generate the transaction- id / 
+reference-id number of the process. The authorised officer shall intimate 
+the details regarding transaction- id / reference-id number to the customer 
+for future reference. 
+(12) The authorised officer of the AIFI shall check and verify that: 
+(i) information available in the picture of the document matches with the 
+information entered by authorised officer in CAF; 
+(ii) live photograph of the customer matches with the photo available in the 
+document; and 
+(iii) the authorised officer has properly filled all of the necessary details in

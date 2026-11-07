@@ -1,0 +1,35 @@
+64 
+ 
+ 
+information, and full beneficiary information, that is fully traceable within 
+the beneficiary country. 
+(iii) Domestic wire transfer, where the originator is an account holder of the 
+ordering AIFI, shall be accompanied by originator and beneficiary 
+information, as indicated for cross -border wire transfers in (i) and (ii) 
+above. 
+(iv) Domestic wire transfers of ₹50,000 and above, where the originator is 
+not an account holder of the ordering AIFI, shall also be 
+accompanied by originator and beneficiary information as indicated for 
+cross-border wire transfers. 
+In case of domestic wire transfers below ₹ 50,000 where the originator 
+is not an account holder of the ordering AIFIs and where the information 
+accompanying the wire transfer can be made available to the 
+beneficiary RE and appropriate authorities by other means, it is 
+sufficient for the ordering AIFI to include a unique transaction reference 
+number, provided that this number or identifier will permit the 
+transaction to be traced back to the originator or the beneficiary. 
+The ordering AIFI shall make the information available within three 
+working / business days of receiving the request from the intermediary 
+RE, beneficiary RE, or from appropriate competent authorities. 
+(v) The AIFI shall ensure that all the information on the wire transfers shall 
+be immediately made avai lable to appropriate law enforcement 
+authorities, prosecuting / competent authorities as well as FIU -IND on 
+receiving such requests with appropriate level provisions. 
+(vi) The wire transfer instructions are not intended to cover the following 
+types of payments: 
+(a)   Any transfer that flows from a transaction carried out using a credit 
+card / debit card / Prepaid Payment Instrument (PPI), including 
+through a token or any other similar reference string associated 
+with the card / PPI, for the purchase of goods or services, so long 
+as the credit or debit card number or PPI id or reference number 
+accompanies all transfers  flowing from the transaction. However,

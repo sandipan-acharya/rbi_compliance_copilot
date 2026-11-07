@@ -1,0 +1,32 @@
+50 
+ 
+Central Board of Direct Taxes (CBDT) shall be referred to. 
+Explanation: REs shall refer to  the spot reference rates published by Foreign 
+Exchange Dealers’ Association of India (FEDAI) on their website at 
+http://www.fedai.org.in/RevaluationRates.aspx for carrying out the due dilige nce 
+procedure for the purposes of identifying reportable accounts in terms of Rule 114H. 
+(3) Develop Information Technology (IT) framework for carrying out due diligence 
+procedure and for recording and maintaining the same, as provided in Rule 114H. 
+(4) Develop a system of audit for the IT framework and compliance with Rules 114F, 
+114G and 114H of Income Tax Rules. 
+(5) Constitute a ‘High-Level Monitoring Committee’ under the Designated Director or 
+any other equivalent functionary to ensure compliance. 
+(6) Ensure compliance with updated instructions / rules / guidance notes / p ress 
+releases issued on the subject by Central Board of Direct Taxes (CBDT) from time to 
+time and available on the website 
+http://www.incometaxindia.gov.in/Pages/default.aspx. ARCs may take note of the 
+following: 
+(i) updated Guidance Note on FATCA and CRS; and 
+(ii) a press release on ‘Closure of Financial Accounts’ under Rule 114H (8). 
+61. The ARC shall allot UCIC while entering into new relationships with individual 
+customers as also the existing individual customers. 
+62. Introduction of New Technologies: The ARC shall identify and assess the ML / TF 
+risks that may arise in relation to the development of new products and new business 
+practices, including new delivery mechanisms, and the use of new or developing 
+technologies for both new and existing products. Further, the ARC shall ensure: 
+(1) to undert ake the ML  / TF risk assessments prior to the launch or use of such 
+products, practices, services, technologies; and 
+(2) adoption of a risk -based approach to manage and mitigate the risks through 
+appropriate EDD measures and transaction monitoring, etc. 
+63. Quoting of PAN : PAN or equivalent e- document thereof of customers shall be 
+obtained and verified while undertaking transactions as per the provisions of Income

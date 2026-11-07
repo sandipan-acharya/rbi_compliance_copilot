@@ -1,0 +1,33 @@
+(1) If the bank has introduced the process of V-CIP, it shall provide the same 
+as the first option to the customer for remote onboarding. It is reiterated 
+that the bank shall treat processes complying with prescribed standards 
+and procedures for V-CIP on par with face-to-face CIP for the purpose of 
+these Directions. 
+(2) In order to prevent frauds, alternate mobile numbers shall not be linked 
+post CDD with such accounts for transaction OTP, transaction updates, 
+etc. The bank shall permit transactions only from the mobile number used 
+for account opening. The bank shall have a Board- approved policy 
+delineating a robust process of due diligence for dealing with requests for 
+change of registered mobile number. 
+(3) Apart from obtaining the current address proof, the bank shall verify the 
+current address through positive confirmation before allowing operations 
+in the account. The bank may carry out the positive confirmation by means 
+of such as address verification letter, contact point verification, 
+deliverables, etc. 
+(4) The bank shall obtain PAN from the customer and the PAN shall be 
+verified from the verification facility of the issuing authority. 
+(5) First transaction in such accounts shall be a credit from existing KYC -
+complied bank account of the customer. 
+(6) The bank shall categorise such customers as high- risk customers and 
+shall subject accounts opened in non- face-to-face mode to enhanced 
+monitoring until the identity of the customer is verified in face- to-face 
+manner or through V-CIP. 
+ 
+44. Accounts of Politically Exposed Persons (PEPs) 
+(1) The bank shall have the option of establishing a relationship with PEPs 
+(whether as customer or beneficial owner) provided that, apart from 
+performing normal customer due diligence: 
+(i) the bank has in place appropriate risk management systems to 
+determine whether the customer or the beneficial owner is a PEP; 
+(ii) The bank shall take reasonable measures for establishing the source 
+of funds / wealth;

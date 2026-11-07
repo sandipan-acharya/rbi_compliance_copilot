@@ -1,0 +1,32 @@
+26 
+ 
+only after closure of any critical gap found during such tests . Such tests shall also be 
+carried out periodically in conformity with internal / regulatory guidelines. 
+(2) V-CIP Procedure 
+(i) Each ARC shall formulate a clear workflow and standard operating procedure for 
+V-CIP and ensure adherence to it. The V -CIP process shall  be operated only by 
+officials of the ARC specially trained for this purpose. The official shall be capable to 
+carry out liveness check and detect any other fraudulent manipulation or suspicious 
+conduct of the customer and act upon it. The liveness check s hall not result in 
+exclusion of person with special needs. 
+(ii) Disruption of any sort including pausing of video, reconnecting calls, etc., may not 
+result in creation of multiple video files. If pause or disruption is not leading to the 
+creation of multiple fi les, then the ARC may not initiate a fresh session. However, in 
+case of call drop / disconnection, fresh session shall be initiated. 
+(iii) The ARC shall vary the sequence and / or type of questions, including those 
+indicating the liveness of the interaction, during video interactions to establish that the 
+interactions are real-time and not pre-recorded. 
+(iv) The ARC shall reject the account opening process if it observes any prompting at 
+the customer end. 
+(v) The ARC shall factor in the fact that the V-CIP customer is  an existing or new 
+customer, or if the case relates to one rejected earlier or if the name appears in some 
+negative list, at an appropriate stage of workflow. 
+(vi) The authorised official of the ARC performing the V -CIP shall record audio  and 
+video as well as capture a photograph of the customer present for identification and 
+obtain the identification information using any one of the following: 
+(a) OTP based Aadhaar e-KYC authentication. 
+(b) Offline Verification of Aadhaar for identification. 
+(c) KYC records downloaded from CKYCR, in accordance with paragraph 5 9, using 
+the KYC identifier provided by the customer. 
+(d) Equivalent e-document of Officially Valid Documents (OVDs) including documents 
+issued through DigiLocker.

@@ -1,0 +1,72 @@
+44 
+ 
+Annex - V 
+ 
+Priority Sector achievement - Calculation of shortfall/excess 
+ 
+ 
+Illustration: 
+ 
+Tables No.1 and 2 below illustrate the method followed for computation of shortfall/excess in 
+priority sector target achievement at the end of the financial year under the revised PSL 
+guidelines. 
+ 
+(Table 1) 
+                                                                                                               Amount in ₹ crore 
+Quarter 
+ended 
+PSL 
+targets 
+(A) 
+Priority Sector 
+Amount 
+Outstanding 
+(B) 
+Adjustments for weightage on 
+incremental credit to identified 
+districts as per para 8 of MD 
+(C) 
+Shortfall/ 
+Excess 
+(B)+(C)-(A) 
+June 329615 316938 1625 -11052 
+September 308826 311945 -810 2309 
+December 317694 319291 -819 778 
+March 324560 321347 2925 -288 
+Total 1280695 1269521 2921 -8253 
+Average 320174 317380 730 -2063 
+ 
+(Table 2) 
+                                                                                                                Amount in ₹ crore 
+Quarter 
+ended 
+PSL 
+targets 
+(A) 
+Priority Sector 
+Amount 
+Outstanding 
+(B) 
+Adjustments for weightage on 
+incremental credit to identified 
+districts as per para 8 of MD 
+(C) 
+Shortfall/ 
+Excess 
+(B)+(C)-(A) 
+June 329615 327967 1500 -148 
+September 308826 312378 -729 2823 
+December 317694 327225 975 10506 
+March 324560 321315 -765 -4010 
+Total 1280695 1288885 981 9171 
+Average 320174 322221 245 2293 
+ 
+In the example given in Table - 1, the bank has overall shortfall of ₹2063  crore at the end of 
+the financial year. In Table – 2, the bank has overall excess of ₹2293 crore at the end of the 
+financial year.  
+ 
+The adjustments due to weightage on incremental credit in identified districts as per para 8 , 
+will be as per the data submitted by banks in the Automated Data Extraction Project (ADEPT). 
+  
+The same method will be followed for calculating the achievement of quarterly and yearly 
+priority sector sub-targets.

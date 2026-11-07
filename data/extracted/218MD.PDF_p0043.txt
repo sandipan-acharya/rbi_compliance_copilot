@@ -1,0 +1,31 @@
+categories of accounts. 
+(3) High account turnover inconsistent with the size of the balance maintained. 
+(4) Deposit of third-party cheques, drafts, etc. in the existing and newly opened 
+accounts followed by cash withdrawals for large amounts. 
+For ongoing due diligence, the bank may consider adopting ap propriate 
+innovations including artificial intelligence and machine learning (AI and 
+ML) technologies to support effective monitoring. 
+41. The bank shall align the extent of monitoring with the risk category of the customer: 
+(1) The bank shall put in place a system of periodic review of risk categorisation 
+of accounts, with such periodicity being at least once in every six months 
+and shall establish the need for applying enhanced due diligence 
+measures. 
+(2) The bank shall closely monitor the transactions in accounts of marketing 
+firms, especially accounts of Multi-level Marketing (MLM) companies. 
+Explanation: The bank shall subject high-risk accounts to more intensified 
+monitoring. 
+Explanation: Cases where a large number of cheque books are sought by 
+the company and/or multiple small deposits (generally in cash) across the 
+country in one bank account and/or where a large number of cheques are 
+issued bearing similar amounts/dates, shall be immediately reported to 
+Reserve Bank of India and other appropriate authorities such as FIU-IND. 
+42. Updation / Periodic Updation of KYC 
+(1) The bank shall adopt a risk -based approach for periodic updation of KYC 
+ensuring that it keeps the information or data collected under CDD is kept 
+up-to-date and relevant, particularly where there is high risk. However, the 
+bank shall carry out periodic updation at least once in every two years for 
+high-risk customers, once in every eight years for medium risk customers 
+and once in every 10 years for low-risk customers from the date of opening 
+of the account / last KYC updation. The bank shall document its policy in 
+this regard as part of the bank’s internal KYC policy duly approved by the 
+Board of Directors of bank or any committee of the Board to which power

@@ -1,0 +1,36 @@
+43 
+ 
+address through positive confirmation within two months, by means 
+such as address verification letter, contact point verification, 
+deliverables, etc. 
+(iii) Further, the bank at its option, may obtain a copy of OVD or deemed 
+OVD, as defined in sub -clause (xiv) of clause (1) of paragraph 4, or 
+the equivalent e- documents thereof, as defined in sub -clause(x) of 
+clause (1) of paragraph 4, for the purpose of proof of address, 
+declared by the customer at the time of updation / periodic updation. 
+However, the bank shall clearly specify such requirement, in its 
+internal KYC policy duly approved by the Board of Directors  of the 
+bank or any committee of the Board to which power has been 
+delegated. 
+(iv) Use of Business Correspondent (BC) by banks for Updation / Periodic 
+Updation of KYC: The bank may obtain a self -declaration from the 
+customer in case of no change in KYC information or change only in 
+the address details through an authorised BC of the bank. The bank 
+shall enable its BC systems for recording these self -declarations and 
+supporting documents thereof in electronic form in the bank’s 
+systems. 
+The bank shall obtain the self -declaration including the supporting 
+documents, if required, in the electronic mode from the customer 
+through the BC, after successful biometric based e- KYC 
+authentication. Until the bank makes an option available in the 
+electronic mode, the customer may submit such declaration in 
+physical form. The BC shall authenticate the self -declaration and 
+supporting documents submitted i n person by the customer and 
+promptly forward the same to the concerned bank branch. The BC 
+shall provide the customer an acknowledgment of receipt of such 
+declaration /submission of documents. 
+The bank shall update the customer’s KYC records and intimate the 
+customer once the records get updated in the system, as required 
+under clause (5) of paragraph 41 of the Direction. It is, however, 
+reiterated that the concerned bank retains the ultimate responsibility 
+for periodic updation of KYC.

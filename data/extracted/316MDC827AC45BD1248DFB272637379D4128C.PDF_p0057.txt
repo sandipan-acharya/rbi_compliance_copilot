@@ -1,0 +1,32 @@
+Chapter VIII – Reporting Requirements to Financial Intelligence Unit – India 
+51. The bank shall furnish to the Director, Financial Intelligence Unit -India (FIU-
+IND), the information referred to in Rule 3 of the PML (Maintenance of 
+Records) Rules, 2005 in accordance with Rule 7 thereof. 
+Explanation: In terms of Third Amendment Rules notified September 22, 2015 
+regarding amendment to sub rule 3 and 4 of rule 7, Director, FIU -IND shall 
+have powers to issue guidelines to the REs for detecting transactions referred 
+to in various clauses of sub-rule (1) of rule 3, to direct them about the form of 
+furnishing information and to specify the procedure and the manner of 
+furnishing information. 
+52. The bank shall take note of the reporting formats and comprehensive reporting 
+format guide, prescribed / released by FIU-IND and Report Generation Utility 
+and Report Validation Utility developed to assist reporting entitie s in the 
+preparation of prescribed reports. The bank which is yet to install / adopt 
+suitable technological tools for extracting CTR / STR from its live transaction 
+data shall make use of the editable electronic utilities to file electronic Cash 
+Transaction Reports (CTR) / Suspicious Transaction Reports (STR) which 
+FIU- IND has placed on its website. The Principal Officer of the bank shall 
+have suitable arrangement to cull out the transaction details from branches 
+which are yet to be computerised and to fe ed the data into an electronic file 
+with the help of the editable electronic utilities of CTR / STR as have been 
+made available by FIU-IND on its website http://fiuindia.gov.in. 
+53. When furnishing information to the D irector, FIU-IND, a delay of each day in 
+not reporting a transaction or delay of each day in rectifying a mis-represented 
+transaction beyond the time limit as specified in the Rule shall constitute as a 
+separate violation. The bank shall not put any restri ction on operations in the 
+accounts merely on the basis of the STR filed. 
+The bank, its directors, officers, and all employees shall ensure that the fact 
+of maintenance of records referred to in rule 3 of the PML (Maintenance of 
+Records) Rules, 2005, and f urnishing of the information to the Director is 
+. However, such ity requirement shall not inhibit sharing 
+of information under paragraph 7 of these Directions of any analysis of

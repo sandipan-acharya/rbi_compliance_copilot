@@ -1,0 +1,34 @@
+structuring domestic wire transfers below ₹50,000 to avoid 
+reporting or monitoring. In case of non- cooperation from the 
+customer, efforts shall be made to establish identity and if the 
+same transaction is found to be suspicious, STR may be filed 
+with FIU-IND in accordance with the PML Rules. 
+(c) Ordering bank shall not execute the wire transfer if it is not 
+able to comply with the requirements stipulated in this 
+paragraph. 
+(ii) Intermediary bank: 
+(a) The bank processing an intermediary element of a chain of 
+wire transfers shall ensure that all originator and beneficiary 
+information accompanying a wire transfer is retained with the 
+transfer. 
+(b) Where technical limitations prevent the required originator or 
+beneficiary information accompanying a cross -border wire 
+transfer from remaining with a related domestic wire transfer, 
+the intermediary bank shall keep a record, for at least five 
+years, of all the information received from the ordering 
+financial institution or another intermediary bank. 
+(c) Intermediary bank shall take reasonable measures to identify 
+cross- border wire transfers that lack required originator 
+information or required beneficiary information. Such 
+measures should be consistent with straight -through 
+processing. 
+(d) Intermediary bank shall have effective risk-based policies and 
+procedures for determining: 
+a. when to execute, reject, or suspend a wire transfer 
+lacking required originator or required beneficiary 
+information; and 
+b. the appropriate follow-up action including seeking further 
+information and if the transaction is found to be 
+suspicious, reporting to FIU -IND in accordance with the 
+PML Rules. 
+(iii) Beneficiary bank:

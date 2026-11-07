@@ -1,0 +1,33 @@
+(5) First transaction in such accounts shall be a credit from existing KYC -
+complied bank account of the customer. 
+(6) The bank shall categorise such customers as high- risk customers and 
+shall subject accounts opened in non-face-to-face mode to enhanced 
+monitoring until the identity of the customer is verified in face- to-face 
+manner or through V-CIP. 
+ 
+44. Accounts of Politically Exposed Persons (PEPs) 
+(1) The bank shall have the option of establishing a relationship with PEPs 
+(whether as customer or beneficial owner) provided that, apart from 
+performing normal customer due diligence: 
+(i) the bank has in place appropriate risk management systems to 
+determine whether the customer or the beneficial owner is a PEP; 
+(ii) The bank shall take reasonable measures for establishing the source 
+of funds / wealth; 
+(iii) the bank shall obtain approval to open an account for a PEP from the 
+senior management; 
+(iv) the bank subjects all such accounts to enhanced monitoring on an 
+on-going basis; 
+(v) in the event of an existing customer or the beneficial owner of an 
+existing account subsequently becoming a PEP, the bank obtains the 
+senior management’s approval to continue the business relationship; 
+(2) These instructions shall also apply to family members or close associates 
+of PEPs. 
+Explanation: For the purpose of this paragraph, ‘Politically Exposed 
+Persons’ (PEPs) are individuals who are or have been entrusted with 
+prominent public functions by a foreign country, including the Heads of 
+States / Governments, senior politicians, senior government or judicial or 
+military officers, senior executives of state- owned corporations and 
+important political party officials. 
+ 
+45. Client accounts opened by professional intermediaries: The bank shall ensure 
+while opening client accounts through professional intermediaries, that:

@@ -1,0 +1,27 @@
+(iii) The account shall remain operational initially for a period of twelve months, 
+within which CDD as per paragraph 23 or paragraph 26 and 27 shall be carried out. 
+(iv) Balances in all their accounts taken together shall not exceed ₹ 50,000 at any 
+point of time. 
+(v) The total credit in all the accounts taken together shall not exceed Rupees One 
+Lakh in a year. 
+(vi) The NBFC shall make customer aware that no further transactions will be 
+permitted until the full KYC procedure is completed in case Directions ( 4) and ( 5) 
+above are breached by him. 
+(vii) The NBFC shall notify the customer when the balance reaches ₹40,000 or the 
+total credit in a year reaches ₹ 80,000 that appropriate documents for conducting the 
+KYC must be submitted otherwise the operations in the account shall be stopped when 
+the total balance in all the accounts taken together exceeds the limits prescribed in 
+directions (4) and (5) above. 
+(viii) The account shall be monitored and when there is suspicion of ML/TF activities 
+or other high-risk scenarios, the identity of the customer shall be established as per 
+paragraph 23 or paragraph 26 and 27. 
+29. KYC verification once done by one branch / office of the NBFC shall be valid 
+for transfer of the account to any other branch / office of the same NBFC, provided the 
+NBFC has already completed the full KYC verification for the concerned account and 
+the same is not due for periodic updation. 
+B. CDD Measures for Sole Proprietary firms 
+30. For opening an account in the name of a sole proprietary firm, the NBFC shall 
+carry out the CDD of the individual (proprietor). 
+31. In addition to the above, the NBFC shall also obtain any two of the following 
+documents or the equivalent e-documents thereof as proof of business / activity in the 
+name of the proprietary firm:

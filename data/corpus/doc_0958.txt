@@ -1,0 +1,34 @@
+33 
+ 
+customers from the date of opening of the account / last KYC updation. The ARC shall 
+document its policy in this regard as part of the ARC’s internal KYC policy duly  
+approved by the Board of Directors of ARC or any committee of the Board to which 
+power has been delegated. 
+(2) Notwithstanding the provisions given above, in respect of an individual custo mer 
+who is categorised as low-risk, the ARC shall allow all transactions and ensure the 
+updation of KYC within one year of its falling due for KYC or up to June 30, 2026, 
+whichever is later. The ARC shall subject accounts of such customers to regular 
+monitoring. This shall also apply  to low-risk individual customers for whom periodic 
+updation of KYC has already fallen due. 
+(3) Individuals: 
+(i) No change in KYC information: In case of no change in the KYC information, the 
+ARC shall obtain a self -declaration from the customer in this regard through the 
+customer’s email-id registered with the ARC, customer’s mobile number registered 
+with the ARC, letter, etc. 
+(ii) Change in address: In case of a change only in the address details of the customer, 
+the ARC shall obtain a self-declaration of the new address from the customer through 
+customer’s email-id registered with the ARC, customer’s mobile number registered 
+with the ARC, , etc., and shall verify the declared address through positive confirmation 
+within two months, by means such as address verification letter, contact point 
+verification, deliverables, etc. 
+(iii) Further, the ARC at its option, may obtain a copy of OVD or deemed OVD, as 
+defined in sub-clause (xiv) of clause (1) of paragraph 4 or the equivalent e-documents 
+thereof, as defined in sub- clause (x) of clause (1) of paragraph 4 for the purpose of 
+proof of address, declared by the customer at the time of updation / periodic updation. 
+However, the ARC shall clearly specify such requirement, in its internal KYC policy 
+duly approved by the Board of Directors of the ARC or any committee of the Board to 
+which power has been delegated. 
+(iv) Accounts of customers, who were minor at the time of opening account, on their 
+becoming major: In case of customers for whom account was opened / acquired when 
+they were minor s, the ARC shall obtain fresh photographs upon their becoming a 
+major and, at that time , shall ensure that CDD documents as per the current CDD

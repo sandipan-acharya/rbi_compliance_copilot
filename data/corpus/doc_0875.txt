@@ -1,0 +1,8 @@
+59 
+ 
+sharing of information under paragraph 9 of these Directions of any analysis 
+of transactions and activities which appear unusual, if the bank has done any 
+such analysis. 
+56. To identify and report suspicious transactions  effectively, the bank shall 
+implement robust software that generates alerts when transactions are 
+inconsistent with a customer's risk categorisation and updated profile.

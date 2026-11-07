@@ -1,0 +1,32 @@
+18 
+ 
+Chapter V – Customer Identification Procedure (CIP) 
+20. The ARC shall undertake identification of customers in the following cases: 
+(1) Commencement of an account-based relationship with the customer 
+(2) When there is a doubt about the authenticity or adequacy of the customer 
+identification data it has obtained. 
+(3) Carrying out transactions for a non- account-based customer, i.e., a walk -in 
+customer, where the amount involved is equal to or exceeds ₹50,000  whether 
+conducted as a single transaction or several transactions that appear to be connected. 
+(4) When the ARC has reason to believe that a customer (account -based or walk-in) 
+is intentionally struc turing a transaction into a series of transactions below the 
+threshold of ₹50,000. 
+(5) The ARC shall ensure it does not seek introductions while opening accounts. 
+21. For the purpose of verifying the identity of customers at the time of commencement 
+of an account-based relationship or while carrying out an occasional transaction of an 
+amount equal to or exceeding ₹ 50,000 whether conducted as a single transaction or 
+several transactions that appear to be connected, the ARC shall at its option, rely on 
+customer due diligence done by a third party, subject to the following conditions: 
+(1) The ARC obtains the records or information of the customer due diligence carried 
+out by the third party immediately from the third party or from the Central KYC Records 
+Registry.  
+(2) The ARC shall take adequate steps  to satisfy itself  that the third party will make  
+copies of identification data and other relevant documentation relating to the customer 
+due diligence requirements available, upon request, without delay. 
+(3) A regulator regulates, supervises, or monitors the third party , and the third party 
+has measures in place for compliance with customer due diligence and record-keeping 
+requirements in line with the requirements and obligations under the PML Act. 
+(4) The ARC shall ensure that the third party is not  based in a country or jurisdiction 
+assessed as high-risk. 
+(5) The ARC will have the ultimate responsibility for customer due diligence and 
+undertaking enhanced due diligence measures, as applicable.

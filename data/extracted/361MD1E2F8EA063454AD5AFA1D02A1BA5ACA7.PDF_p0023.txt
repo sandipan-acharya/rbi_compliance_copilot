@@ -1,0 +1,10 @@
+(2) The NBFC shall take adequate steps to satisfy itself that the third party will 
+make copies of identification data and other relevant documentation relating to the 
+customer due diligence requirements available, upon request, without delay. 
+(3) A regulator regulates, supervises, or monitors the third party, and the third party 
+has measures in place for compliance with customer due diligence and record-keeping 
+requirements in line with the requirements and obligations under the PML Act. 
+(4) The NBFC shall ensure that the third party is not based in a country or 
+jurisdiction assessed as high-risk. 
+(5) The NBFC will have the ultimate responsibility for customer due diligence and 
+undertaking enhanced due diligence measures, as applicable.

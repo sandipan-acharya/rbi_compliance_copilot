@@ -1,0 +1,35 @@
+72 
+ 
+(a) Beneficiary bank shall take reasonable measures, including post-
+event monitoring or real-time monitoring where feasible, to identify 
+cross- border wire transfers and qualifying domestic wire transfers 
+{viz., transactions as per sub- clauses (iii) and (iv) of clause (1) 
+above}, that lack required originator information or required 
+beneficiary information. 
+(b) Beneficiary bank shall have effective risk -based policies and 
+procedures for determining: (a) when to execute, reject, or suspend 
+a wire transfer lacking required originator or required b eneficiary 
+information; and (b) the appropriate follow -up action follow -up 
+action including seeking further information and if the transaction is 
+found to be suspicious, reporting to FIU-IND in accordance with the 
+PML Rules. 
+(iv) Money Transfer Service Scheme ( MTSS) providers and other banks, 
+shall comply with all of the relevant requirements of this paragraph, 
+whether they are providing services directly or through their agents. The 
+bank that control both the ordering and the beneficiary side of a wire 
+transfer shall: 
+(a) take into account all the information from both the ordering and 
+beneficiary sides in order to determine whether an STR has to be 
+filed; and 
+(b) file an STR with F IU, in accordance with the PML Rules, if a 
+transaction is found to be suspicious. 
+(3) Other Obligations 
+(i) Obligations in respect of the bank’s engagement or involvement with 
+unregulated entities in the process of wire transfer: The bank shall be 
+cognizant of their obligations under these instructions and ensure strict 
+compliance, in respect of engagement or involvement of any 
+unregulated entities in the process of wire transfer. More specifically, 
+whenever there is involvement of any unregulated entities in the process 
+of wire transfers, the concerned bank shall be fully responsible for 
+information, reporting and other requirements and therefore shall 
+ensure, inter alia, that:

@@ -1,0 +1,34 @@
+(ix) The bank shall subject the V -CIP application software and relevant 
+APIs / webservices to appropriate testing of functional, performance, 
+and maintenance strength before being used in live environment. The 
+bank shall roll out the application only after closure of any critical gap 
+found during such tests. Such tests shall also be carried out 
+periodically in conformity with internal / regulatory guidelines. 
+(2) V-CIP Procedure 
+(i) Each bank shall formulate a clear workflow and standard operating 
+procedure for V-CIP and ensure adherence to it. The V -CIP process 
+shall be operated only by officials of the bank specially trained for this 
+purpose. The official shall be capable to carry out liveness check and 
+detect any other fraudulent manipulation or suspicious conduct of the 
+customer and act upon it. The liveness check shall not result in 
+exclusion of person with special needs. 
+(ii) Disruption of any sort including pausing of video, reconnecting calls, 
+etc., may not result in creation of multiple video files. If pause or 
+disruption is not leading to the creation of multiple files, then the bank 
+may not initiate a fresh session. However, in case of call drop / 
+disconnection, fresh session shall be initiated. 
+(iii) The bank shall vary the sequence and / or type of questions, including 
+those indicating the liveness of the interaction, during video 
+interactions to establish that the interactions are real-time and not pre-
+recorded. 
+(iv) The bank shall reject the account opening process if it observes any 
+prompting at the customer end. 
+(v) The bank shall factor in the fact that the V-CIP customer is an existing 
+or new customer, or if the case relates to one rejected earlier or if the 
+name appears in some negative list, at an appropriate stage of 
+workflow. 
+(vi) The authorised official of the bank performing the V -CIP shall record 
+audio and video as well as capture a photograph of the customer 
+present for identification and obtain the identification information using 
+any one of the following: 
+(a) OTP based Aadhaar e-KYC authentication.

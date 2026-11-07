@@ -1,0 +1,32 @@
+(i) The bank has customer’s KYC document as per the current CDD 
+standards available with it . This is applicable even if there is no 
+change in customer information but the documents available with the 
+bank are not as per the current CDD standards. Further, in case the 
+validity of the CDD documents available with the bank has expired 
+at the time of periodic updation of KYC, the bank shall undertake the 
+KYC process equivalent to that applicable for onboarding a new 
+customer. 
+(ii) The bank verifies the Customer’s PAN details, if available, from the 
+database of the issuing authority at the time of periodic updation of 
+KYC. 
+(iii) The bank provides an acknowledgment to the customer mentioning 
+the date of receipt of the relevant document(s), including self -
+declaration from the customer, for carrying out updation / periodic 
+updation. Further, the bank shall ensure that it promptly updates the 
+information / documents obtained from the customers at the time of 
+updation / periodic updation of KYC in its records / database and 
+provide an intimation, mentioning the date of updation of KYC 
+details, to the customer. 
+(iv) In order to ensure customer convenience, the bank may consider 
+making available the facility of updation / periodic updation of KYC 
+at any branch, in terms of their internal KYC policy duly approved by 
+the Board of Directors of the bank or any committee of the Board to 
+which power has been delegated. 
+(v) The bank shall adopt a risk-based approach with respect to periodic 
+updation of KYC. The bank shall clearly specify in its internal policy, 
+duly approved by the Board of Directors of the bank or any 
+committee of the Board to which power has been delegated, any 
+additional and exceptional measures, it adopts that are not 
+otherwise mandated under the above instructions, such as 
+requirement of obtaining recent photograph, requirement of physical 
+presence of the customer, requirement of periodic updation of KYC
