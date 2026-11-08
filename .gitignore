@@ -1,0 +1,3 @@
+ner-finetuned/
+*.safetensors
+faiss_rbi/
