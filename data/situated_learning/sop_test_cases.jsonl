@@ -1,0 +1,5 @@
+{"id":"sop-access-denied","query":"I have an access denied error for the production application, and my manager approved the request. What should I check and send to support?","expected_source":"Synthetic SOP-01 · Application access and sign-in"}
+{"id":"sop-missing-to-do-field","query":"The required field is missing on my work item and I am not sure what value to enter. What should I do?","expected_source":"Synthetic SOP-02 · Blocked work item and failed task"}
+{"id":"sop-permission-error","query":"A work item failed with a permission error. What information should I record and who should I contact?","expected_source":"Synthetic SOP-02 · Blocked work item and failed task"}
+{"id":"sop-escalation","query":"A production issue is blocking a release. What should I include when contacting the service desk?","expected_source":"Synthetic SOP-03 · Service-desk escalation"}
+{"id":"sop-duplicate-request","query":"My software request is already being processed. Should I submit another catalogue request?","expected_source":"Synthetic SOP-04 · Routine service-catalogue request"}

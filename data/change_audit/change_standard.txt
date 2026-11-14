@@ -1,0 +1,71 @@
+CHANGE VALIDATION EVIDENCE STANDARD (SYNTHETIC - WRITTEN FOR THIS PROTOTYPE, NOT ANY FIRM'S REAL POLICY)
+Modelled on generic ITIL-style change control practice. Used as the knowledge base for the audit copilot.
+
+CM-EV-01 | Evidence timing | [window_hours=24] [emergency_window_hours=48]
+Validation evidence must be captured on or after the implementation start time and no later than 24 hours after the implementation end time. For emergency changes the limit is 48 hours. Evidence captured before implementation started, or reused from an earlier change, is not valid. Rollback rehearsal evidence is exempt because it is produced before implementation.
+
+CM-EV-02 | Evidence environment | [env=PROD]
+Evidence for a production change must come from the production environment. Screenshots, logs or reports taken in UAT, SIT, QA or DEV do not validate a production change. Rollback verification is exempt and is expected to be performed in a pre-production environment.
+
+CM-EV-03 | Evidence must show an outcome
+Each piece of evidence must state an explicit, checkable outcome such as a pass count, status code, metric value, row count or scan result. Statements such as "tested ok" or "done as per plan" without a result are not acceptable evidence.
+
+CM-EV-04 | Evidence scope
+Evidence must relate to the application and release version being changed. Evidence that names a different application or a different version is out of scope. For rollback evidence the previous version is also in scope.
+
+CM-EV-05 | Failed validation and closure
+If any validation step shows a failed result, the change must not be closed as Successful. It must be closed as Failed or Successful with issues and a follow-up incident or defect must be referenced.
+
+CM-EV-06 | Completeness
+Every step in the validation plan must be supported by evidence, or a documented waiver approved by the change manager must be attached.
+
+CM-VP-01 | Minimum validation plan for releases | [applies=category:application_release,database_change,security_config] [requires=smoke_test,health_check]
+Every application release, database change or security configuration change to production must include a post-implementation smoke test and a service health check.
+
+CM-VP-02 | High risk changes | [applies=risk:High] [requires=rollback_verification,performance_check,monitoring_check,uat_signoff]
+High risk changes must additionally include verification that the rollback procedure works, a performance check against baseline, a monitoring review after the change, and business owner sign-off.
+
+CM-VP-03 | Database and data changes | [applies=category:database_change] [requires=data_reconciliation]
+Changes that migrate or modify data must include a reconciliation of record counts or checksums between source and target.
+
+CM-VP-04 | Security and certificate changes | [applies=category:security_config] [requires=security_check]
+Changes to security configuration, certificates or network controls must include a security verification such as a vulnerability scan or a TLS and certificate check.
+
+CM-VP-05 | Batch and scheduler changes | [applies=category:batch_schedule] [requires=batch_job_check]
+Changes to batch jobs or schedules must confirm that the job completes successfully in its next scheduled cycle.
+
+CM-VP-06 | Medium risk changes | [applies=risk:Medium] [requires=monitoring_check]
+Medium risk changes must include a monitoring review of error rates after the change.
+
+CM-FD-01 | Audit findings and recommendations | [sev.FAILED_BUT_CLOSED=High] [sev.PLAN_GAP=High] [sev.WRONG_ENVIRONMENT=High] [sev.MISSING_EVIDENCE=Medium] [sev.SCOPE_MISMATCH=Medium] [sev.TIMING=Medium] [sev.WEAK_EVIDENCE=Low]
+Each audit finding must state the affected validation step, the evidence reviewed, the clause breached and a specific remediation for the application team. Findings are rated High, Medium or Low according to the severity table.
+
+CM-TX-01 | Check type | [check=smoke_test]
+Smoke test or functional test of critical user journeys such as login and payment flow run after deployment.
+
+CM-TX-02 | Check type | [check=health_check]
+Health check of the service: health endpoint returns HTTP 200, status UP, nodes healthy behind the load balancer.
+
+CM-TX-03 | Check type | [check=data_reconciliation]
+Data reconciliation: compare row counts, record totals or checksums between source and target tables to confirm no data loss after migration.
+
+CM-TX-04 | Check type | [check=monitoring_check]
+Monitoring review: observe dashboards, error rate, latency graphs and alerts after the change.
+
+CM-TX-05 | Check type | [check=rollback_verification]
+Rollback verification: the backout or rollback procedure was rehearsed and restores the previous version.
+
+CM-TX-06 | Check type | [check=performance_check]
+Performance check: load test, response time, throughput compared with baseline.
+
+CM-TX-07 | Check type | [check=security_check]
+Security check: vulnerability scan, TLS and SSL certificate verification, security configuration review.
+
+CM-TX-08 | Check type | [check=batch_job_check]
+Batch job check: scheduled job or nightly job run completed with success status in the scheduler.
+
+CM-TX-09 | Check type | [check=uat_signoff]
+Business sign-off: a message, email or record from the application owner or business owner confirming, after implementation, that the change works as intended.
+
+CM-TX-10 | Check type | [check=non_validation]
+Not validation evidence: CAB approval records for the change request, release notes, runbooks and implementation plans describe or authorise the change before implementation but do not validate its result.

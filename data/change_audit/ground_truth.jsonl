@@ -1,0 +1,200 @@
+{"number": "CHG3000001", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 1}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000002", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "performance_check"]}
+{"number": "CHG3000003", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}, {"type": "WEAK_EVIDENCE", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "performance_check"]}
+{"number": "CHG3000004", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 2}], "plan_checks": ["smoke_test", "health_check", "batch_job_check"]}
+{"number": "CHG3000005", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000006", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000007", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 2}], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000008", "findings": [], "plan_checks": ["security_check", "batch_job_check"]}
+{"number": "CHG3000009", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000010", "findings": [{"type": "MISSING_EVIDENCE", "key": 4}, {"type": "MISSING_EVIDENCE", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000011", "findings": [{"type": "PLAN_GAP", "key": "monitoring_check"}, {"type": "WEAK_EVIDENCE", "key": 2}], "plan_checks": ["rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000012", "findings": [{"type": "PLAN_GAP", "key": "data_reconciliation"}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000013", "findings": [{"type": "WEAK_EVIDENCE", "key": 1}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000014", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 0}, {"type": "TIMING", "key": 1}, {"type": "WEAK_EVIDENCE", "key": 5}], "plan_checks": ["data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000015", "findings": [{"type": "PLAN_GAP", "key": "smoke_test"}], "plan_checks": ["health_check", "monitoring_check"]}
+{"number": "CHG3000016", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000017", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000018", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "uat_signoff"]}
+{"number": "CHG3000019", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000020", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000021", "findings": [{"type": "PLAN_GAP", "key": "rollback_verification"}, {"type": "FAILED_BUT_CLOSED", "key": 1}, {"type": "WRONG_ENVIRONMENT", "key": 4}, {"type": "TIMING", "key": 5}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000022", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000023", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000024", "findings": [{"type": "WEAK_EVIDENCE", "key": 3}, {"type": "FAILED_BUT_CLOSED", "key": 6}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000025", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000026", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 1}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000027", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "performance_check"]}
+{"number": "CHG3000028", "findings": [{"type": "TIMING", "key": 0}, {"type": "TIMING", "key": 1}, {"type": "FAILED_BUT_CLOSED", "key": 3}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "security_check"]}
+{"number": "CHG3000029", "findings": [{"type": "TIMING", "key": 1}, {"type": "TIMING", "key": 3}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "security_check"]}
+{"number": "CHG3000030", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000031", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000032", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000033", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000034", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 1}, {"type": "TIMING", "key": 5}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000035", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000036", "findings": [{"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000037", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000038", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000039", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000040", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000041", "findings": [{"type": "SCOPE_MISMATCH", "key": 3}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000042", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 1}, {"type": "WRONG_ENVIRONMENT", "key": 2}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000043", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}, {"type": "SCOPE_MISMATCH", "key": 3}, {"type": "TIMING", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000044", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}, {"type": "TIMING", "key": 1}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000045", "findings": [{"type": "WEAK_EVIDENCE", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000046", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000047", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 0}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000048", "findings": [], "plan_checks": ["monitoring_check", "performance_check", "batch_job_check"]}
+{"number": "CHG3000049", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000050", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000051", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 2}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000052", "findings": [{"type": "MISSING_EVIDENCE", "key": 1}, {"type": "WEAK_EVIDENCE", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000053", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000054", "findings": [], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000055", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000056", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000057", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "performance_check"]}
+{"number": "CHG3000058", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000059", "findings": [], "plan_checks": ["performance_check", "batch_job_check"]}
+{"number": "CHG3000060", "findings": [{"type": "PLAN_GAP", "key": "health_check"}, {"type": "WRONG_ENVIRONMENT", "key": 3}], "plan_checks": ["smoke_test", "data_reconciliation", "monitoring_check", "security_check"]}
+{"number": "CHG3000061", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000062", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000063", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 0}, {"type": "FAILED_BUT_CLOSED", "key": 4}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000064", "findings": [{"type": "TIMING", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000065", "findings": [{"type": "PLAN_GAP", "key": "uat_signoff"}, {"type": "WEAK_EVIDENCE", "key": 4}], "plan_checks": ["data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "batch_job_check"]}
+{"number": "CHG3000066", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}, {"type": "WRONG_ENVIRONMENT", "key": 2}, {"type": "TIMING", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000067", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000068", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}, {"type": "WEAK_EVIDENCE", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000069", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000070", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 1}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "uat_signoff"]}
+{"number": "CHG3000071", "findings": [{"type": "PLAN_GAP", "key": "data_reconciliation"}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000072", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000073", "findings": [{"type": "TIMING", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 1}, {"type": "FAILED_BUT_CLOSED", "key": 2}, {"type": "WEAK_EVIDENCE", "key": 3}, {"type": "SCOPE_MISMATCH", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000074", "findings": [{"type": "TIMING", "key": 4}, {"type": "TIMING", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000075", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000076", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000077", "findings": [], "plan_checks": ["smoke_test", "health_check", "performance_check"]}
+{"number": "CHG3000078", "findings": [{"type": "SCOPE_MISMATCH", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000079", "findings": [{"type": "SCOPE_MISMATCH", "key": 1}, {"type": "SCOPE_MISMATCH", "key": 2}, {"type": "TIMING", "key": 5}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000080", "findings": [], "plan_checks": ["health_check", "batch_job_check"]}
+{"number": "CHG3000081", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}, {"type": "FAILED_BUT_CLOSED", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000082", "findings": [{"type": "MISSING_EVIDENCE", "key": 2}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000083", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000084", "findings": [], "plan_checks": ["health_check", "batch_job_check"]}
+{"number": "CHG3000085", "findings": [{"type": "PLAN_GAP", "key": "data_reconciliation"}, {"type": "FAILED_BUT_CLOSED", "key": 0}, {"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000086", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000087", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 6}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000088", "findings": [], "plan_checks": ["smoke_test", "health_check", "uat_signoff"]}
+{"number": "CHG3000089", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000090", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000091", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000092", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000093", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000094", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000095", "findings": [{"type": "SCOPE_MISMATCH", "key": 5}, {"type": "WRONG_ENVIRONMENT", "key": 6}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000096", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000097", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000098", "findings": [{"type": "TIMING", "key": 0}, {"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000099", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000100", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000101", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000102", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "performance_check"]}
+{"number": "CHG3000103", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000104", "findings": [{"type": "MISSING_EVIDENCE", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000105", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "batch_job_check"]}
+{"number": "CHG3000106", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000107", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}, {"type": "SCOPE_MISMATCH", "key": 1}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000108", "findings": [{"type": "MISSING_EVIDENCE", "key": 4}], "plan_checks": ["monitoring_check", "rollback_verification", "performance_check", "security_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000109", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000110", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000111", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000112", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000113", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000114", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 0}, {"type": "TIMING", "key": 1}, {"type": "WRONG_ENVIRONMENT", "key": 2}], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000115", "findings": [{"type": "TIMING", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "uat_signoff"]}
+{"number": "CHG3000116", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000117", "findings": [{"type": "SCOPE_MISMATCH", "key": 3}, {"type": "WEAK_EVIDENCE", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000118", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "batch_job_check"]}
+{"number": "CHG3000119", "findings": [{"type": "TIMING", "key": 0}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000120", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}, {"type": "SCOPE_MISMATCH", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000121", "findings": [{"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000122", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000123", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000124", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000125", "findings": [{"type": "SCOPE_MISMATCH", "key": 2}, {"type": "TIMING", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000126", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000127", "findings": [], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000128", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000129", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000130", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000131", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000132", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 2}, {"type": "MISSING_EVIDENCE", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000133", "findings": [], "plan_checks": ["smoke_test", "health_check", "performance_check"]}
+{"number": "CHG3000134", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000135", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000136", "findings": [{"type": "WEAK_EVIDENCE", "key": 1}, {"type": "WEAK_EVIDENCE", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "uat_signoff"]}
+{"number": "CHG3000137", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000138", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000139", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000140", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000141", "findings": [{"type": "PLAN_GAP", "key": "monitoring_check"}], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000142", "findings": [{"type": "MISSING_EVIDENCE", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000143", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000144", "findings": [{"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000145", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 1}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000146", "findings": [{"type": "TIMING", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "performance_check", "security_check"]}
+{"number": "CHG3000147", "findings": [{"type": "MISSING_EVIDENCE", "key": 1}, {"type": "SCOPE_MISMATCH", "key": 2}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000148", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000149", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000150", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000151", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000152", "findings": [{"type": "WEAK_EVIDENCE", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000153", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000154", "findings": [{"type": "PLAN_GAP", "key": "health_check"}], "plan_checks": ["smoke_test", "monitoring_check", "security_check"]}
+{"number": "CHG3000155", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000156", "findings": [{"type": "TIMING", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 1}], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000157", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000158", "findings": [{"type": "MISSING_EVIDENCE", "key": 1}, {"type": "WRONG_ENVIRONMENT", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000159", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000160", "findings": [{"type": "PLAN_GAP", "key": "performance_check"}, {"type": "WEAK_EVIDENCE", "key": 3}, {"type": "MISSING_EVIDENCE", "key": 4}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "uat_signoff"]}
+{"number": "CHG3000161", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 0}, {"type": "MISSING_EVIDENCE", "key": 2}, {"type": "FAILED_BUT_CLOSED", "key": 3}, {"type": "FAILED_BUT_CLOSED", "key": 5}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000162", "findings": [{"type": "WEAK_EVIDENCE", "key": 3}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000163", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000164", "findings": [{"type": "PLAN_GAP", "key": "monitoring_check"}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000165", "findings": [], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000166", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000167", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000168", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000169", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000170", "findings": [], "plan_checks": ["monitoring_check", "batch_job_check"]}
+{"number": "CHG3000171", "findings": [{"type": "FAILED_BUT_CLOSED", "key": 3}], "plan_checks": ["monitoring_check", "rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000172", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "security_check"]}
+{"number": "CHG3000173", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000174", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000175", "findings": [], "plan_checks": ["smoke_test", "monitoring_check", "rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000176", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "batch_job_check"]}
+{"number": "CHG3000177", "findings": [{"type": "WEAK_EVIDENCE", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "security_check"]}
+{"number": "CHG3000178", "findings": [{"type": "PLAN_GAP", "key": "smoke_test"}, {"type": "WRONG_ENVIRONMENT", "key": 1}], "plan_checks": ["health_check", "monitoring_check"]}
+{"number": "CHG3000179", "findings": [], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "uat_signoff"]}
+{"number": "CHG3000180", "findings": [{"type": "SCOPE_MISMATCH", "key": 0}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000181", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000182", "findings": [{"type": "PLAN_GAP", "key": "performance_check"}, {"type": "WRONG_ENVIRONMENT", "key": 0}, {"type": "WRONG_ENVIRONMENT", "key": 3}, {"type": "WEAK_EVIDENCE", "key": 5}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "uat_signoff"]}
+{"number": "CHG3000183", "findings": [{"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000184", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "rollback_verification", "performance_check", "batch_job_check", "uat_signoff"]}
+{"number": "CHG3000185", "findings": [], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000186", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000187", "findings": [{"type": "WEAK_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000188", "findings": [{"type": "WEAK_EVIDENCE", "key": 1}], "plan_checks": ["data_reconciliation", "monitoring_check", "batch_job_check"]}
+{"number": "CHG3000189", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "security_check"]}
+{"number": "CHG3000190", "findings": [], "plan_checks": ["batch_job_check"]}
+{"number": "CHG3000191", "findings": [{"type": "WEAK_EVIDENCE", "key": 1}, {"type": "WEAK_EVIDENCE", "key": 3}], "plan_checks": ["smoke_test", "health_check", "monitoring_check", "rollback_verification", "performance_check", "security_check", "uat_signoff"]}
+{"number": "CHG3000192", "findings": [{"type": "TIMING", "key": 1}], "plan_checks": ["smoke_test", "health_check", "batch_job_check"]}
+{"number": "CHG3000193", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation"]}
+{"number": "CHG3000194", "findings": [], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000195", "findings": [{"type": "TIMING", "key": 2}], "plan_checks": ["smoke_test", "health_check", "security_check"]}
+{"number": "CHG3000196", "findings": [{"type": "WRONG_ENVIRONMENT", "key": 1}], "plan_checks": ["smoke_test", "health_check", "monitoring_check"]}
+{"number": "CHG3000197", "findings": [{"type": "PLAN_GAP", "key": "data_reconciliation"}], "plan_checks": ["smoke_test", "health_check"]}
+{"number": "CHG3000198", "findings": [{"type": "WEAK_EVIDENCE", "key": 2}], "plan_checks": ["smoke_test", "health_check", "data_reconciliation", "monitoring_check"]}
+{"number": "CHG3000199", "findings": [{"type": "PLAN_GAP", "key": "health_check"}, {"type": "MISSING_EVIDENCE", "key": 1}], "plan_checks": ["smoke_test", "monitoring_check", "security_check"]}
+{"number": "CHG3000200", "findings": [{"type": "MISSING_EVIDENCE", "key": 0}], "plan_checks": ["smoke_test", "health_check"]}
