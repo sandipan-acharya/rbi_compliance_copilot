@@ -17,7 +17,7 @@ except Exception as e:
     modules_ok = False
 
 # Always create the tabs
-tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7,tab8= st.tabs([
     "Clause Explorer (NER)",
     "Explain & Checklist",
     "Ask a Clause (QA)",
@@ -25,6 +25,7 @@ tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "Situated Learning Use Case I - Change Audit ",
     "Situated Learning Use Case II - Workplace SOP Assistant",
     "Situated Learning Use Case III -Technical Document Workbench",
+    "Situated Learning Use Case IV - Customer Grievance Assistant"
 ])
 
 with tab1:
@@ -97,3 +98,8 @@ with tab6:
 with tab7:
     from situated_learning import render_document_workbench
     render_document_workbench()
+
+
+with tab8:
+    from situated_learning import render_grievance_assistant
+    render_grievance_assistant()
