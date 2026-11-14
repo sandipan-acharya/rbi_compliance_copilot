@@ -1,0 +1,492 @@
+{
+  "backend": "tfidf",
+  "tau": 0.12,
+  "tau_type": 0.05,
+  "dev_f1": 0.9531249999999999,
+  "n_dev": 60,
+  "arms": {
+    "full": {
+      "dev_seed7_test_split": {
+        "per_type": {
+          "FAILED_BUT_CLOSED": {
+            "tp": 14,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "MISSING_EVIDENCE": {
+            "tp": 15,
+            "fp": 6,
+            "fn": 2,
+            "precision": 0.7142857142857143,
+            "recall": 0.8823529411764706,
+            "f1": 0.7894736842105262
+          },
+          "PLAN_GAP": {
+            "tp": 11,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "SCOPE_MISMATCH": {
+            "tp": 15,
+            "fp": 0,
+            "fn": 1,
+            "precision": 1.0,
+            "recall": 0.9375,
+            "f1": 0.967741935483871
+          },
+          "TIMING": {
+            "tp": 22,
+            "fp": 2,
+            "fn": 0,
+            "precision": 0.9166666666666666,
+            "recall": 1.0,
+            "f1": 0.9565217391304348
+          },
+          "WEAK_EVIDENCE": {
+            "tp": 25,
+            "fp": 3,
+            "fn": 1,
+            "precision": 0.8928571428571429,
+            "recall": 0.9615384615384616,
+            "f1": 0.9259259259259259
+          },
+          "WRONG_ENVIRONMENT": {
+            "tp": 13,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          }
+        },
+        "overall": {
+          "tp": 115,
+          "fp": 11,
+          "fn": 4,
+          "precision": 0.9126984126984127,
+          "recall": 0.9663865546218487,
+          "f1": 0.9387755102040817
+        },
+        "ticket_flag_accuracy": 0.9785714285714285,
+        "n_tickets": 140,
+        "sec_per_ticket": 0.003043907385714257
+      },
+      "holdout": {
+        "per_type": {
+          "FAILED_BUT_CLOSED": {
+            "tp": 9,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "MISSING_EVIDENCE": {
+            "tp": 25,
+            "fp": 13,
+            "fn": 3,
+            "precision": 0.6578947368421053,
+            "recall": 0.8928571428571429,
+            "f1": 0.7575757575757577
+          },
+          "PLAN_GAP": {
+            "tp": 11,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "SCOPE_MISMATCH": {
+            "tp": 26,
+            "fp": 0,
+            "fn": 1,
+            "precision": 1.0,
+            "recall": 0.9629629629629629,
+            "f1": 0.9811320754716981
+          },
+          "TIMING": {
+            "tp": 28,
+            "fp": 0,
+            "fn": 1,
+            "precision": 1.0,
+            "recall": 0.9655172413793104,
+            "f1": 0.9824561403508771
+          },
+          "WEAK_EVIDENCE": {
+            "tp": 27,
+            "fp": 0,
+            "fn": 3,
+            "precision": 1.0,
+            "recall": 0.9,
+            "f1": 0.9473684210526316
+          },
+          "WRONG_ENVIRONMENT": {
+            "tp": 18,
+            "fp": 1,
+            "fn": 0,
+            "precision": 0.9473684210526315,
+            "recall": 1.0,
+            "f1": 0.972972972972973
+          }
+        },
+        "overall": {
+          "tp": 144,
+          "fp": 14,
+          "fn": 8,
+          "precision": 0.9113924050632911,
+          "recall": 0.9473684210526315,
+          "f1": 0.9290322580645162
+        },
+        "ticket_flag_accuracy": 0.98,
+        "n_tickets": 200,
+        "sec_per_ticket": 0.0031450105599998323
+      }
+    },
+    "matching_only": {
+      "dev_seed7_test_split": {
+        "per_type": {
+          "FAILED_BUT_CLOSED": {
+            "tp": 12,
+            "fp": 0,
+            "fn": 2,
+            "precision": 1.0,
+            "recall": 0.8571428571428571,
+            "f1": 0.923076923076923
+          },
+          "MISSING_EVIDENCE": {
+            "tp": 14,
+            "fp": 33,
+            "fn": 3,
+            "precision": 0.2978723404255319,
+            "recall": 0.8235294117647058,
+            "f1": 0.4375
+          },
+          "PLAN_GAP": {
+            "tp": 11,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "SCOPE_MISMATCH": {
+            "tp": 14,
+            "fp": 0,
+            "fn": 2,
+            "precision": 1.0,
+            "recall": 0.875,
+            "f1": 0.9333333333333333
+          },
+          "TIMING": {
+            "tp": 20,
+            "fp": 18,
+            "fn": 2,
+            "precision": 0.5263157894736842,
+            "recall": 0.9090909090909091,
+            "f1": 0.6666666666666666
+          },
+          "WEAK_EVIDENCE": {
+            "tp": 23,
+            "fp": 15,
+            "fn": 3,
+            "precision": 0.6052631578947368,
+            "recall": 0.8846153846153846,
+            "f1": 0.71875
+          },
+          "WRONG_ENVIRONMENT": {
+            "tp": 12,
+            "fp": 0,
+            "fn": 1,
+            "precision": 1.0,
+            "recall": 0.9230769230769231,
+            "f1": 0.9600000000000001
+          }
+        },
+        "overall": {
+          "tp": 106,
+          "fp": 66,
+          "fn": 13,
+          "precision": 0.6162790697674418,
+          "recall": 0.8907563025210085,
+          "f1": 0.7285223367697594
+        },
+        "ticket_flag_accuracy": 0.8642857142857143,
+        "n_tickets": 140,
+        "sec_per_ticket": 0.002404962892857806
+      },
+      "holdout": {
+        "per_type": {
+          "FAILED_BUT_CLOSED": {
+            "tp": 7,
+            "fp": 0,
+            "fn": 2,
+            "precision": 1.0,
+            "recall": 0.7777777777777778,
+            "f1": 0.8750000000000001
+          },
+          "MISSING_EVIDENCE": {
+            "tp": 20,
+            "fp": 41,
+            "fn": 8,
+            "precision": 0.32786885245901637,
+            "recall": 0.7142857142857143,
+            "f1": 0.44943820224719094
+          },
+          "PLAN_GAP": {
+            "tp": 11,
+            "fp": 0,
+            "fn": 0,
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1": 1.0
+          },
+          "SCOPE_MISMATCH": {
+            "tp": 23,
+            "fp": 0,
+            "fn": 4,
+            "precision": 1.0,
+            "recall": 0.8518518518518519,
+            "f1": 0.92
+          },
+          "TIMING": {
+            "tp": 26,
+            "fp": 27,
+            "fn": 3,
+            "precision": 0.49056603773584906,
+            "recall": 0.896551724137931,
+            "f1": 0.6341463414634146
+          },
+          "WEAK_EVIDENCE": {
+            "tp": 21,
+            "fp": 24,
+            "fn": 9,
+            "precision": 0.4666666666666667,
+            "recall": 0.7,
+            "f1": 0.56
+          },
+          "WRONG_ENVIRONMENT": {
+            "tp": 15,
+            "fp": 2,
+            "fn": 3,
+            "precision": 0.8823529411764706,
+            "recall": 0.8333333333333334,
+            "f1": 0.8571428571428571
+          }
+        },
+        "overall": {
+          "tp": 123,
+          "fp": 94,
+          "fn": 29,
+          "precision": 0.5668202764976958,
+          "recall": 0.8092105263157895,
+          "f1": 0.6666666666666667
+        },
+        "ticket_flag_accuracy": 0.865,
+        "n_tickets": 200,
+        "sec_per_ticket": 0.002758926275000135
+      }
+    }
+  },
+  "ner_regex": {
+    "APP": {
+      "tp": 86,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "ENV": {
+      "tp": 82,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "HOST": {
+      "tp": 130,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "RESULT": {
+      "tp": 200,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.9803921568627451,
+      "recall": 1.0,
+      "f1": 0.99009900990099
+    },
+    "TIME": {
+      "tp": 38,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "VERSION": {
+      "tp": 66,
+      "fp": 0,
+      "fn": 0,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    "ALL": {
+      "tp": 602,
+      "fp": 4,
+      "fn": 0,
+      "precision": 0.9933993399339934,
+      "recall": 1.0,
+      "f1": 0.9966887417218543
+    }
+  },
+  "ner_test_sentences": 209,
+  "holdout_seed": 11,
+  "holdout_n_gold": 152,
+  "holdout_errors": [
+    [
+      "FN",
+      "CHG3000028",
+      "MISSING_EVIDENCE",
+      0
+    ],
+    [
+      "FP",
+      "CHG3000038",
+      "MISSING_EVIDENCE",
+      4
+    ],
+    [
+      "FN",
+      "CHG3000046",
+      "MISSING_EVIDENCE",
+      0
+    ],
+    [
+      "FP",
+      "CHG3000048",
+      "MISSING_EVIDENCE",
+      5
+    ],
+    [
+      "FN",
+      "CHG3000048",
+      "SCOPE_MISMATCH",
+      5
+    ],
+    [
+      "FP",
+      "CHG3000059",
+      "MISSING_EVIDENCE",
+      1
+    ],
+    [
+      "FP",
+      "CHG3000084",
+      "MISSING_EVIDENCE",
+      7
+    ],
+    [
+      "FP",
+      "CHG3000120",
+      "MISSING_EVIDENCE",
+      3
+    ],
+    [
+      "FP",
+      "CHG3000129",
+      "MISSING_EVIDENCE",
+      5
+    ],
+    [
+      "FN",
+      "CHG3000129",
+      "WEAK_EVIDENCE",
+      5
+    ],
+    [
+      "FP",
+      "CHG3000133",
+      "MISSING_EVIDENCE",
+      5
+    ],
+    [
+      "FN",
+      "CHG3000133",
+      "TIMING",
+      5
+    ],
+    [
+      "FP",
+      "CHG3000154",
+      "MISSING_EVIDENCE",
+      1
+    ],
+    [
+      "FN",
+      "CHG3000154",
+      "WEAK_EVIDENCE",
+      1
+    ],
+    [
+      "FP",
+      "CHG3000156",
+      "MISSING_EVIDENCE",
+      3
+    ],
+    [
+      "FP",
+      "CHG3000159",
+      "MISSING_EVIDENCE",
+      6
+    ],
+    [
+      "FP",
+      "CHG3000166",
+      "MISSING_EVIDENCE",
+      6
+    ],
+    [
+      "FN",
+      "CHG3000166",
+      "WEAK_EVIDENCE",
+      6
+    ],
+    [
+      "FP",
+      "CHG3000196",
+      "MISSING_EVIDENCE",
+      3
+    ],
+    [
+      "FP",
+      "CHG3000198",
+      "MISSING_EVIDENCE",
+      5
+    ],
+    [
+      "FP",
+      "CHG3000199",
+      "WRONG_ENVIRONMENT",
+      5
+    ],
+    [
+      "FN",
+      "CHG3000199",
+      "MISSING_EVIDENCE",
+      5
+    ]
+  ]
+}
