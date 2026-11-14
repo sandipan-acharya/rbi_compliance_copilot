@@ -1,0 +1,4 @@
+{"id":"tech-required-payment-fields","query":"Which fields are required for POST /v1/payments, and what happens if one is invalid?","expected_source":"Synthetic API Specification · Create payment, POST /v1/payments"}
+{"id":"tech-expired-viewer","query":"What may a Viewer do, how should a Viewer write be handled, and what acceptance checks cover expired sessions?","expected_source":"Synthetic Client Requirements · Account access controls, section 3"}
+{"id":"tech-log-retention","query":"How long must request logs be kept, which identifier must each request log include, and what data must not be logged?","expected_source":"Synthetic Engineering Policy · Application logging and production data, sections 5-6"}
+{"id":"tech-retry-after","query":"When can a client retry HTTP 429, and should it change the idempotency key?","expected_source":"Synthetic API Specification · Retry and rate-limit behavior, section 4"}

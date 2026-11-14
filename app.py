@@ -17,11 +17,14 @@ except Exception as e:
     modules_ok = False
 
 # Always create the tabs
-tab1, tab2, tab3, tab4 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "Clause Explorer (NER)",
     "Explain & Checklist",
     "Ask a Clause (QA)",
-    "Compliance Chatbot (RAG)"
+    "Compliance Chatbot (RAG)",
+    "Situated Learning Use Case I - Change Audit ",
+    "Situated Learning Use Case II - Workplace SOP Assistant",
+    "Situated Learning Use Case III -Technical Document Workbench",
 ])
 
 with tab1:
@@ -60,7 +63,7 @@ with tab4:
     st.header("Compliance Chatbot (RAG)")
     if not modules_ok:
         st.info("RAG module failed to load.")
-    entity_filter = st.selectbox("Entity type filter (optional)", 
+    entity_filter = st.selectbox("Entity type filter (optional)",
                                  ["None", "Commercial Bank", "NBFC", "SFB", "AIFI", "ARC"])
     question = st.text_input("Ask across all directions")
     if st.button("Ask RAG") and question and modules_ok:
@@ -68,3 +71,16 @@ with tab4:
         res = rag_answer(question, entity_type=et)
         st.write(res["answer"])
         st.caption("Sources: " + str(res["sources"]))
+
+with tab5:
+    # Part IV - Situated learning: same NER / similarity / RAG / generation components applied to change-ticket auditing
+    from change_audit.ui import render as render_change_audit
+    render_change_audit()
+
+with tab6:
+    from situated_learning import render_sop_assistant
+    render_sop_assistant()
+
+with tab7:
+    from situated_learning import render_document_workbench
+    render_document_workbench()
