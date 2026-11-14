@@ -293,3 +293,169 @@ def render_document_workbench():
             )
             st.subheader("Retrieved source passages")
             _show_grounded_answer(_retrieve(query, corpus, limit=4))
+
+
+def render_grievance_assistant():
+
+    st.header("Customer Grievance Compliance Assistant")
+
+    st.caption(
+        "Assist bank compliance teams in reviewing customer complaints "
+        "and finding relevant guidance from reference documents."
+    )
+
+    st.info(
+        "Demonstration only. Use fictional complaints and approved "
+        "RBI documents. The assistant does not make legal decisions."
+    )
+
+    # Initialise session state to preserve results across Streamlit reruns
+    if "grievance_analysis" not in st.session_state:
+        st.session_state.grievance_analysis = None
+
+    if "grievance_search_results" not in st.session_state:
+        st.session_state.grievance_search_results = None
+
+    # --------------------------------------------------
+    # STEP 1: ENTER CUSTOMER COMPLAINT
+    # --------------------------------------------------
+
+    st.subheader("1. Enter Customer Complaint")
+
+    complaint = st.text_area(
+        "Customer complaint",
+        placeholder=(
+            "Example: I noticed an unexpected bank charge of "
+            "Rs. 500 on 10 October 2026. I was not informed "
+            "about this charge."
+        ),
+        height=120,
+        key="grievance_complaint"
+    )
+
+    # --------------------------------------------------
+    # STEP 2: UPLOAD REFERENCE DOCUMENTS
+    # --------------------------------------------------
+
+    st.subheader("2. Upload RBI Reference Documents")
+
+    uploads = st.file_uploader(
+        "Upload RBI circulars or grievance guidelines (PDF, TXT, MD)",
+        type=["pdf", "txt", "md"],
+        accept_multiple_files=True,
+        key="grievance_documents"
+    )
+
+    uploaded_docs, errors = _read_uploads(uploads)
+
+    for error in errors:
+        st.warning(error)
+
+    # --------------------------------------------------
+    # STEP 3: ANALYSE CUSTOMER COMPLAINT
+    # --------------------------------------------------
+
+    st.subheader("3. Complaint Analysis")
+
+    if st.button("Analyse Complaint", key="analyse_grievance"):
+
+        if not complaint.strip():
+            st.warning("Please enter a customer complaint.")
+
+            st.session_state.grievance_analysis = None
+
+        else:
+            # Store analysis results in session state
+            st.session_state.grievance_analysis = {
+                "highlighted": _highlighted(complaint),
+                "summary": _summary(complaint),
+                "checklist": _checklist(complaint)
+            }
+
+    # Display previously generated analysis
+    if st.session_state.grievance_analysis:
+
+        analysis = st.session_state.grievance_analysis
+
+        st.markdown("### Highlighted Complaint")
+
+        st.markdown(
+            analysis["highlighted"],
+            unsafe_allow_html=True
+        )
+
+        st.markdown("### Complaint Summary")
+
+        st.write(analysis["summary"])
+
+        st.markdown("### Important Points")
+
+        for item in analysis["checklist"]:
+            st.markdown(f"- {item}")
+
+    # --------------------------------------------------
+    # STEP 4: SEARCH RBI REFERENCE DOCUMENTS
+    # --------------------------------------------------
+
+    st.subheader("4. Ask About RBI Guidelines")
+
+    question = st.text_input(
+        "Enter your question",
+        placeholder="What procedure applies to this complaint?",
+        key="grievance_question"
+    )
+
+    if st.button("Search RBI Guidelines", key="search_grievance"):
+
+        if not question.strip():
+
+            st.warning("Please enter a question.")
+
+            st.session_state.grievance_search_results = None
+
+        elif not uploaded_docs:
+
+            st.warning(
+                "Please upload an RBI reference document before searching."
+            )
+
+            st.session_state.grievance_search_results = None
+
+        else:
+
+            # Retrieve relevant passages from uploaded documents
+            hits = _retrieve(
+                question,
+                uploaded_docs,
+                limit=3
+            )
+
+            st.session_state.grievance_search_results = hits
+
+    # Display search results
+    if st.session_state.grievance_search_results is not None:
+
+        st.markdown("### Retrieved Guidance")
+
+        if st.session_state.grievance_search_results:
+
+            _show_grounded_answer(
+                st.session_state.grievance_search_results
+            )
+
+        else:
+            st.warning(
+                "No relevant information was found in the uploaded documents."
+            )
+
+    # --------------------------------------------------
+    # DISCLAIMER
+    # --------------------------------------------------
+
+    st.caption(
+        "This prototype provides document-based assistance. "
+        "A compliance officer must verify the source and make "
+        "the final decision."
+    )
+
+
