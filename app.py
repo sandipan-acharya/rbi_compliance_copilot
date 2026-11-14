@@ -30,7 +30,8 @@ with tab1:
         st.info("NER module failed to load. Fix the import error above.")
     clause = st.text_area("Paste a clause or page", height=200, key="ner_input")
     if st.button("Extract Entities") and clause and modules_ok:
-        ents = extract_entities(clause)
+        with st.spinner("Retrieving and generating answer..."):
+            ents = extract_entities(clause)
         for e in ents:
             st.write(f"**{e['label']}**: {e['span']} ({e['score']})")
 
@@ -41,8 +42,9 @@ with tab2:
     text = st.text_area("Clause / scenario", height=180, key="gen_input")
     mode = st.radio("Mode", ["summary", "checklist", "explain"])
     if st.button("Generate") and text and modules_ok:
-        ents = extract_entities(text)
-        reply = generate(text, mode=mode, entities=ents)
+        with st.spinner("Retrieving and generating answer..."):
+            ents = extract_entities(text)
+            reply = generate(text, mode=mode, entities=ents)
         st.success(reply)
 
 with tab3:
@@ -52,7 +54,8 @@ with tab3:
     clause = st.text_area("Select clause", height=160, key="qa_input")
     q = st.text_input("Question about this clause")
     if st.button("Answer") and clause and q and modules_ok:
-        res = answer_from_clause(clause, q)
+        with st.spinner("Retrieving and generating answer..."):
+            res = answer_from_clause(clause, q)
         st.write(f"**Answer**: {res['answer']}")
         st.caption(f"Confidence: {res['score']} | Span: {res['span']}")
 
@@ -65,6 +68,16 @@ with tab4:
     question = st.text_input("Ask across all directions")
     if st.button("Ask RAG") and question and modules_ok:
         et = None if entity_filter == "None" else entity_filter
-        res = rag_answer(question, entity_type=et)
-        st.write(res["answer"])
-        st.caption("Sources: " + str(res["sources"]))
+        with st.spinner("Retrieving and generating answer..."):
+            res = rag_answer(question, entity_type=et)
+        
+        st.subheader("Answer")
+        st.write(res.get("answer", "No answer returned"))
+        
+        st.subheader("Sources")
+        sources = res.get("sources", [])
+        if sources:
+            for s in sources:
+                st.write(f"- {s.get('source', 'unknown')} (page: {s.get('page', '?')})")
+        else:
+            st.write("No sources found")
